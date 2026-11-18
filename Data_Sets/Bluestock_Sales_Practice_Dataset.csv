@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Ship_Date,Ship_Mode,Customer_ID,Customer_Segment,Country,Region,State,City,Category,Sub_Category,Product_Name,Sales,Quantity,Discount,Profit,Payment_Mode
+ORD-00001,25/04/25,25/04/26,Standard Class,CUST-0152,Corporate,India,South,Tamil Nadu,Chennai,Furniture,Chairs,Office Chair,17123.74,4,0,3002.47,UPI
+ORD-00002,25/01/31,25/02/01,Same Day,CUST-0057,Corporate,India,South,Karnataka,Bengaluru,Furniture,Chairs,Office Chair,4888.19,1,0.2,293.18,Cash
+ORD-00003,25/10/12,25/10/19,First Class,CUST-0027,Consumer,India,West,Maharashtra,Mumbai,Technology,Computers,Laptop,346555.36,7,0,28785.84,Net Banking
+ORD-00004,25/04/10,25/04/13,Standard Class,CUST-0250,Corporate,India,East,West Bengal,Kolkata,Furniture,Furnishings,Desk Lamp,5187.66,5,0.2,113.53,UPI
+ORD-00005,26/07/20,26/07/23,First Class,CUST-0021,Consumer,India,West,Rajasthan,Jaipur,Office Supplies,Paper,A4 Paper Pack,1188.74,4,0,204.76,UPI
+ORD-00006,26/01/25,26/01/28,Standard Class,CUST-0156,Home Office,India,North,Uttar Pradesh,Lucknow,Office Supplies,Paper,A4 Paper Pack,807.29,3,0,140.5,Credit Card
+ORD-00007,26/07/01,26/07/07,Second Class,CUST-0176,Corporate,India,South,Karnataka,Bengaluru,Technology,Computers,Laptop,400956.04,8,0.2,27117.62,UPI
+ORD-00008,25/08/23,25/08/30,First Class,CUST-0055,Home Office,India,West,Maharashtra,Mumbai,Office Supplies,Paper,A4 Paper Pack,1823.43,7,0,405.95,Net Banking
+ORD-00009,26/02/10,26/02/16,First Class,CUST-0192,Home Office,India,North,Uttar Pradesh,Lucknow,Technology,Computers,Laptop,231891.16,5,0.2,9802.88,Net Banking
+ORD-00010,26/08/21,26/08/25,Standard Class,CUST-0040,Home Office,India,East,West Bengal,Kolkata,Furniture,Chairs,Office Chair,14441.15,3,0,2760.52,Credit Card
+ORD-00011,26/03/09,26/03/14,Standard Class,CUST-0175,Home Office,India,West,Madhya Pradesh,Indore,Office Supplies,Storage,File Organizer,3240.61,7,0.1,294.32,UPI
+ORD-00012,26/07/04,26/07/11,First Class,CUST-0249,Home Office,India,South,Tamil Nadu,Chennai,Office Supplies,Paper,A4 Paper Pack,525.31,2,0,68.68,Credit Card
+ORD-00013,26/06/04,26/06/05,Standard Class,CUST-0154,Corporate,India,South,Tamil Nadu,Chennai,Technology,Accessories,USB-C Hub,5733.45,4,0,847.84,Net Banking
+ORD-00014,25/01/20,25/01/21,Standard Class,CUST-0188,Corporate,India,East,West Bengal,Kolkata,Furniture,Tables,Study Table,21510.96,4,0.15,3159.74,UPI
+ORD-00015,26/06/30,26/07/07,Same Day,CUST-0247,Consumer,India,North,Delhi,New Delhi,Technology,Computers,Laptop,471766.72,8,0,43879.65,Cash
+ORD-00016,25/07/25,25/07/31,Second Class,CUST-0058,Consumer,India,South,Tamil Nadu,Chennai,Office Supplies,Storage,File Organizer,2649.86,6,0.15,126.66,Debit Card
+ORD-00017,25/01/22,25/01/27,Second Class,CUST-0018,Consumer,India,Central,Madhya Pradesh,Bhopal,Furniture,Chairs,Office Chair,16361.42,4,0.2,919.85,Debit Card
+ORD-00018,25/03/14,25/03/19,Same Day,CUST-0063,Corporate,India,South,Karnataka,Bengaluru,Furniture,Tables,Study Table,45347.84,8,0,8374.41,Net Banking
+ORD-00019,25/07/14,25/07/15,Standard Class,CUST-0173,Home Office,India,West,Madhya Pradesh,Indore,Office Supplies,Storage,File Organizer,2638.1,6,0.1,416.21,UPI
+ORD-00020,25/03/04,25/03/08,Same Day,CUST-0047,Corporate,India,East,West Bengal,Kolkata,Technology,Accessories,Wireless Mouse,2359.44,4,0.15,111.42,Net Banking
+ORD-00021,25/09/13,25/09/20,Standard Class,CUST-0238,Consumer,India,West,Madhya Pradesh,Indore,Office Supplies,Binders,Ring Binder,207.64,2,0.15,25.89,Credit Card
+ORD-00022,26/02/21,26/02/25,Same Day,CUST-0068,Corporate,India,North,Uttar Pradesh,Lucknow,Furniture,Chairs,Office Chair,37656.62,7,0,4360.43,Debit Card
+ORD-00023,26/03/10,26/03/16,Standard Class,CUST-0192,Corporate,India,Central,Madhya Pradesh,Bhopal,Office Supplies,Binders,Ring Binder,326.51,3,0,76.32,UPI
+ORD-00024,25/02/21,25/02/26,Second Class,CUST-0018,Home Office,India,North,Uttar Pradesh,Lucknow,Technology,Accessories,USB-C Hub,4161.91,3,0.15,-110.2,UPI
+ORD-00025,25/08/29,25/09/02,Same Day,CUST-0169,Home Office,India,West,Madhya Pradesh,Indore,Furniture,Furnishings,Desk Lamp,3889.97,4,0,637.47,Cash
+ORD-00026,26/06/20,26/06/23,First Class,CUST-0118,Corporate,India,South,Tamil Nadu,Chennai,Furniture,Chairs,Office Chair,26542.25,6,0.1,296.63,UPI
+ORD-00027,25/01/10,25/01/14,Second Class,CUST-0239,Corporate,India,West,Rajasthan,Jaipur,Furniture,Furnishings,Desk Lamp,1656.76,2,0,233.9,UPI
+ORD-00028,25/09/08,25/09/11,Standard Class,CUST-0171,Home Office,India,South,Tamil Nadu,Chennai,Technology,Computers,Laptop,457651.37,8,0.2,-4346.12,Debit Card
+ORD-00029,25/04/17,25/04/19,Second Class,CUST-0184,Corporate,India,South,Tamil Nadu,Chennai,Technology,Accessories,Wireless Mouse,1394.54,2,0,131.74,Credit Card
+ORD-00030,26/10/12,26/10/19,Same Day,CUST-0213,Corporate,India,South,Tamil Nadu,Chennai,Technology,Accessories,USB-C Hub,11844.31,8,0,692.41,UPI
+ORD-00031,25/01/04,25/01/07,Standard Class,CUST-0029,Consumer,India,North,Delhi,New Delhi,Furniture,Tables,Study Table,19946.07,3,0.15,1967.35,Credit Card
+ORD-00032,26/07/13,26/07/14,Standard Class,CUST-0231,Corporate,India,East,West Bengal,Kolkata,Furniture,Furnishings,Desk Lamp,2789.97,3,0,283.61,Credit Card
+ORD-00033,25/09/13,25/09/19,Second Class,CUST-0222,Consumer,India,West,Madhya Pradesh,Indore,Office Supplies,Paper,A4 Paper Pack,2238.62,7,0.2,-87.51,Credit Card
+ORD-00034,26/02/27,26/02/28,First Class,CUST-0041,Home Office,India,North,Delhi,New Delhi,Office Supplies,Paper,A4 Paper Pack,2137.71,7,0.2,196.99,UPI
+ORD-00035,26/01/27,26/02/03,Second Class,CUST-0058,Consumer,India,West,Maharashtra,Mumbai,Office Supplies,Binders,Ring Binder,436.74,4,0.1,23.99,Credit Card
+ORD-00036,26/02/13,26/02/16,First Class,CUST-0241,Consumer,India,South,Tamil Nadu,Chennai,Technology,Accessories,Wireless Mouse,3104.87,5,0.15,116.23,UPI
+ORD-00037,25/09/25,25/09/27,First Class,CUST-0112,Home Office,India,West,Rajasthan,Jaipur,Furniture,Tables,Study Table,5471.63,1,0.1,296.22,Cash
+ORD-00038,25/04/29,25/05/03,Second Class,CUST-0094,Corporate,India,West,Rajasthan,Jaipur,Furniture,Chairs,Office Chair,20719.58,5,0.1,-303.79,UPI
+ORD-00039,25/12/05,25/12/10,Same Day,CUST-0179,Corporate,India,East,West Bengal,Kolkata,Technology,Accessories,Wireless Mouse,3256.94,5,0.2,38.04,Cash
+ORD-00040,25/05/11,25/05/13,Standard Class,CUST-0078,Corporate,India,West,Gujarat,Ahmedabad,Office Supplies,Storage,File Organizer,1396.78,3,0.05,130.9,Credit Card
+ORD-00041,26/03/17,26/03/24,Same Day,CUST-0204,Home Office,India,West,Rajasthan,Jaipur,Furniture,Furnishings,Desk Lamp,5640.13,6,0.1,677.52,Credit Card
+ORD-00042,25/03/28,25/03/31,Second Class,CUST-0207,Consumer,India,Central,Madhya Pradesh,Bhopal,Furniture,Furnishings,Desk Lamp,5004.69,6,0,873.61,Credit Card
+ORD-00043,25/01/26,25/01/27,Same Day,CUST-0127,Corporate,India,South,Karnataka,Bengaluru,Office Supplies,Binders,Ring Binder,236.79,2,0.2,10.69,Credit Card
+ORD-00044,25/06/01,25/06/07,Standard Class,CUST-0143,Consumer,India,West,Maharashtra,Mumbai,Technology,Accessories,Wireless Mouse,4166.22,7,0.2,139.95,UPI
+ORD-00045,26/04/13,26/04/15,Same Day,CUST-0213,Home Office,India,North,Uttar Pradesh,Lucknow,Technology,Accessories,USB-C Hub,10896.11,6,0.1,1171.66,Net Banking
+ORD-00046,25/06/12,25/06/18,Same Day,CUST-0161,Consumer,India,North,Uttar Pradesh,Lucknow,Office Supplies,Binders,Ring Binder,645.32,5,0.2,-9.38,Debit Card
+ORD-00047,26/03/27,26/03/28,Second Class,CUST-0060,Corporate,India,South,Tamil Nadu,Chennai,Furniture,Chairs,Office Chair,22818.1,5,0.15,-602.04,Credit Card
+ORD-00048,25/08/08,25/08/09,Same Day,CUST-0100,Home Office,India,West,Gujarat,Ahmedabad,Office Supplies,Storage,File Organizer,2734.52,6,0.1,-6.96,UPI
+ORD-00049,26/08/13,26/08/17,Same Day,CUST-0138,Home Office,India,North,Uttar Pradesh,Lucknow,Technology,Phones,Smartphone,101475.05,6,0.1,15798.61,Cash
+ORD-00050,26/09/10,26/09/12,Same Day,CUST-0186,Consumer,India,North,Uttar Pradesh,Lucknow,Furniture,Chairs,Office Chair,23538.02,5,0,2772.11,Net Banking
+ORD-00051,25/05/11,25/05/16,Same Day,CUST-0035,Corporate,India,Central,Madhya Pradesh,Bhopal,Technology,Phones,Smartphone,129473.55,7,0.2,-8361.35,Credit Card
+ORD-00052,25/02/21,25/02/24,Same Day,CUST-0072,Corporate,India,West,Gujarat,Ahmedabad,Office Supplies,Paper,A4 Paper Pack,1104.78,4,0.05,182.01,Debit Card
+ORD-00053,25/03/25,25/03/29,Standard Class,CUST-0200,Home Office,India,West,Maharashtra,Mumbai,Technology,Accessories,USB-C Hub,1839.96,1,0.05,105.51,UPI
+ORD-00054,25/02/01,25/02/03,Second Class,CUST-0120,Home Office,India,South,Karnataka,Bengaluru,Technology,Phones,Smartphone,49764.43,3,0.1,5916.58,Debit Card
+ORD-00055,26/01/13,26/01/15,Standard Class,CUST-0149,Consumer,India,West,Rajasthan,Jaipur,Furniture,Furnishings,Desk Lamp,2058.34,2,0,479.48,Debit Card
+ORD-00056,26/08/13,26/08/19,Second Class,CUST-0027,Home Office,India,West,Gujarat,Ahmedabad,Office Supplies,Storage,File Organizer,1571.04,4,0.2,151,Debit Card
+ORD-00057,26/09/07,26/09/14,Standard Class,CUST-0130,Home Office,India,West,Madhya Pradesh,Indore,Furniture,Furnishings,Desk Lamp,906.45,1,0.1,106.33,Debit Card
+ORD-00058,25/01/13,25/01/20,Same Day,CUST-0182,Consumer,India,West,Gujarat,Ahmedabad,Office Supplies,Binders,Ring Binder,235.21,2,0.05,32.84,Net Banking
+ORD-00059,25/06/30,25/07/06,First Class,CUST-0219,Consumer,India,Central,Madhya Pradesh,Bhopal,Furniture,Tables,Study Table,49077.32,8,0.2,2380,UPI
+ORD-00060,25/10/13,25/10/17,Second Class,CUST-0125,Consumer,India,South,Karnataka,Bengaluru,Office Supplies,Binders,Ring Binder,798.77,7,0.1,123.96,Debit Card
+ORD-00061,25/09/22,25/09/25,Standard Class,CUST-0062,Home Office,India,South,Tamil Nadu,Chennai,Furniture,Furnishings,Desk Lamp,4829.5,5,0.15,710.48,Net Banking
+ORD-00062,26/05/16,26/05/21,Second Class,CUST-0104,Home Office,India,South,Karnataka,Bengaluru,Office Supplies,Binders,Ring Binder,945.07,8,0,55.39,Credit Card
+ORD-00063,25/11/10,25/11/16,First Class,CUST-0091,Home Office,India,West,Rajasthan,Jaipur,Office Supplies,Paper,A4 Paper Pack,2275.93,8,0.05,222.13,Net Banking
+ORD-00064,25/10/05,25/10/08,Second Class,CUST-0050,Consumer,India,South,Tamil Nadu,Chennai,Furniture,Chairs,Office Chair,10237.3,2,0.05,372.75,Net Banking
+ORD-00065,25/10/11,25/10/17,First Class,CUST-0046,Corporate,India,West,Rajasthan,Jaipur,Technology,Accessories,USB-C Hub,9153.23,5,0,908.45,UPI
+ORD-00066,26/07/01,26/07/03,Same Day,CUST-0027,Consumer,India,South,Tamil Nadu,Chennai,Technology,Phones,Smartphone,18288.14,1,0.2,2172.96,Cash
+ORD-00067,25/10/19,25/10/23,Same Day,CUST-0030,Consumer,India,North,Uttar Pradesh,Lucknow,Office Supplies,Binders,Ring Binder,651.82,6,0,58.99,Net Banking
+ORD-00068,26/05/19,26/05/20,Standard Class,CUST-0064,Consumer,India,West,Rajasthan,Jaipur,Technology,Phones,Smartphone,48317,3,0.15,7118.31,Cash
+ORD-00069,26/03/03,26/03/08,Same Day,CUST-0077,Home Office,India,West,Rajasthan,Jaipur,Furniture,Furnishings,Desk Lamp,4114.29,4,0.1,309,Net Banking
+ORD-00070,25/11/09,25/11/14,First Class,CUST-0170,Consumer,India,West,Rajasthan,Jaipur,Technology,Phones,Smartphone,40833.97,2,0,6741.81,Credit Card
+ORD-00071,25/09/03,25/09/05,Same Day,CUST-0075,Consumer,India,Central,Madhya Pradesh,Bhopal,Technology,Accessories,Wireless Mouse,1659.07,3,0.1,203.86,Credit Card
+ORD-00072,25/10/23,25/10/29,Second Class,CUST-0109,Consumer,India,South,Tamil Nadu,Chennai,Office Supplies,Binders,Ring Binder,253.49,2,0.05,43.11,Cash
+ORD-00073,25/08/19,25/08/25,First Class,CUST-0113,Consumer,India,North,Delhi,New Delhi,Furniture,Tables,Study Table,16208.47,3,0,3217.8,Net Banking
+ORD-00074,25/11/08,25/11/14,Same Day,CUST-0189,Corporate,India,West,Gujarat,Ahmedabad,Furniture,Tables,Study Table,48673.85,8,0.15,-1680.6,Cash
+ORD-00075,25/09/14,25/09/15,Standard Class,CUST-0196,Consumer,India,West,Madhya Pradesh,Indore,Furniture,Chairs,Office Chair,5519.38,1,0.2,520.39,Net Banking
+ORD-00076,26/06/16,26/06/22,Same Day,CUST-0249,Consumer,India,North,Uttar Pradesh,Lucknow,Furniture,Tables,Study Table,21372.96,3,0.1,2392.85,Net Banking
+ORD-00077,25/12/23,25/12/27,Unknown,CUST-0074,Home Office,India,East,West Bengal,Kolkata,Office Supplies,Paper,A4 Paper Pack,620.1,2,0.05,58.8,Net Banking
+ORD-00078,26/07/18,26/07/19,Same Day,CUST-0222,Home Office,India,North,Uttar Pradesh,Lucknow,Technology,Accessories,Wireless Mouse,3610.31,6,0,844.95,UPI
+ORD-00079,26/07/10,26/07/14,Same Day,CUST-0195,Consumer,India,West,Gujarat,Ahmedabad,Technology,Phones,Smartphone,72398.29,4,0.15,7876.11,Credit Card
+ORD-00080,25/10/01,25/10/06,Second Class,CUST-0182,Consumer,India,North,Delhi,New Delhi,Furniture,Tables,Study Table,55267,8,0.1,513.17,Debit Card
+ORD-00081,26/07/19,26/07/20,Standard Class,CUST-0166,Consumer,India,Central,Madhya Pradesh,Bhopal,Office Supplies,Storage,File Organizer,825.67,2,0,109.23,Net Banking
+ORD-00082,25/10/26,25/10/31,Second Class,CUST-0099,Consumer,India,South,Tamil Nadu,Chennai,Office Supplies,Storage,File Organizer,4118.66,8,0,541.02,Cash
+ORD-00083,26/06/05,26/06/11,First Class,CUST-0211,Consumer,India,North,Delhi,New Delhi,Technology,Accessories,Wireless Mouse,3515.86,5,0.1,186.25,Debit Card
+ORD-00084,25/11/02,25/11/09,First Class,CUST-0086,Home Office,India,West,Rajasthan,Jaipur,Furniture,Furnishings,Desk Lamp,8432.79,8,0.1,781.86,Cash
+ORD-00085,26/01/22,26/01/26,Same Day,CUST-0012,Corporate,India,East,West Bengal,Kolkata,Furniture,Chairs,Office Chair,19613.55,4,0,4142.43,Net Banking
+ORD-00086,26/01/26,26/01/30,Standard Class,CUST-0224,Corporate,India,North,Delhi,New Delhi,Office Supplies,Binders,Ring Binder,106.54,1,0.15,2.55,UPI
+ORD-00087,26/06/23,26/06/27,First Class,CUST-0087,Home Office,India,West,Maharashtra,Mumbai,Technology,Computers,Laptop,404505.88,7,0,22233.93,Net Banking
+ORD-00088,25/03/24,25/03/31,Same Day,CUST-0224,Home Office,India,East,West Bengal,Kolkata,Technology,Accessories,USB-C Hub,12725.91,7,0.2,938.45,UPI
+ORD-00089,26/09/25,26/09/26,Standard Class,CUST-0114,Consumer,India,South,Karnataka,Bengaluru,Furniture,Tables,Study Table,26635.94,4,0.1,4812.25,Debit Card
+ORD-00090,25/01/30,25/01/31,Same Day,CUST-0145,Home Office,India,East,West Bengal,Kolkata,Technology,Phones,Smartphone,86178.51,5,0.1,1216.32,Credit Card
+ORD-00091,25/06/24,25/06/26,Second Class,CUST-0060,Corporate,India,West,Madhya Pradesh,Indore,Furniture,Furnishings,Desk Lamp,6888.82,7,0,961.22,Debit Card
+ORD-00092,26/04/16,26/04/19,First Class,CUST-0151,Corporate,India,West,Maharashtra,Mumbai,Office Supplies,Binders,Ring Binder,631.97,5,0,34.61,Net Banking
+ORD-00093,25/09/14,25/09/18,First Class,CUST-0148,Corporate,India,South,Tamil Nadu,Chennai,Furniture,Chairs,Office Chair,37161.62,7,0,3249.45,Debit Card
+ORD-00094,25/01/23,25/01/30,Standard Class,CUST-0234,Unknown,India,West,Gujarat,Ahmedabad,Furniture,Tables,Study Table,6322.63,1,0.2,541.61,Net Banking
+ORD-00095,25/10/21,25/10/28,Second Class,CUST-0161,Consumer,India,South,Karnataka,Bengaluru,Furniture,Furnishings,Desk Lamp,5219.5,6,0,856.93,UPI
+ORD-00096,25/11/13,25/11/20,First Class,CUST-0192,Corporate,India,North,Uttar Pradesh,Lucknow,Technology,Phones,Smartphone,115528.46,6,0,25638.72,Credit Card
+ORD-00097,25/07/25,25/07/27,Same Day,CUST-0248,Corporate,India,Central,Madhya Pradesh,Bhopal,Office Supplies,Paper,A4 Paper Pack,1538.8,5,0.05,300.54,Debit Card
+ORD-00098,25/04/28,25/05/02,Same Day,CUST-0248,Home Office,India,West,Madhya Pradesh,Indore,Technology,Computers,Laptop,230472.77,4,0.2,14953.36,Debit Card
+ORD-00099,25/04/03,25/04/10,First Class,CUST-0150,Corporate,India,West,Gujarat,Ahmedabad,Technology,Phones,Smartphone,90987.45,5,0.1,5342.52,Debit Card
+ORD-00100,25/04/21,25/04/27,Second Class,CUST-0166,Consumer,India,South,Karnataka,Bengaluru,Office Supplies,Binders,Ring Binder,124.3,1,0.15,2.87,Net Banking
+ORD-00101,25/11/06,25/11/12,Same Day,CUST-0030,Unknown,India,West,Gujarat,Ahmedabad,Technology,Accessories,Wireless Mouse,1684.03,3,0,169.87,Credit Card
+ORD-00102,26/07/05,26/07/07,Same Day,CUST-0151,Home Office,India,West,Gujarat,Ahmedabad,Office Supplies,Binders,Ring Binder,756.83,6,0.2,52.45,Credit Card
+ORD-00103,26/03/01,26/03/07,First Class,CUST-0056,Corporate,India,West,Madhya Pradesh,Indore,Office Supplies,Binders,Ring Binder,950.64,7,0.05,18.1,Net Banking
+ORD-00104,25/08/30,25/09/06,Same Day,CUST-0071,Consumer,India,East,West Bengal,Kolkata,Technology,Accessories,Wireless Mouse,3952.03,6,0.2,6.86,UPI
+ORD-00105,26/04/11,26/04/12,Second Class,CUST-0202,Home Office,India,South,Karnataka,Bengaluru,Furniture,Furnishings,Desk Lamp,821.91,1,0.05,50.31,Credit Card
+ORD-00106,25/03/12,25/03/19,Second Class,CUST-0202,Home Office,India,Central,Madhya Pradesh,Bhopal,Furniture,Chairs,Office Chair,21003.19,4,0,2220.29,UPI
+ORD-00107,25/10/11,25/10/18,Standard Class,CUST-0034,Consumer,India,North,Delhi,New Delhi,Technology,Computers,Laptop,283284.08,5,0,48784.78,Debit Card
+ORD-00108,25/09/01,25/09/06,Standard Class,CUST-0191,Consumer,India,East,West Bengal,Kolkata,Technology,Phones,Smartphone,50198.95,3,0,9454.65,Net Banking
+ORD-00109,26/04/05,26/04/12,Standard Class,CUST-0187,Home Office,India,East,West Bengal,Kolkata,Technology,Accessories,USB-C Hub,3153.93,2,0,722.51,Cash
+ORD-00110,25/11/05,25/11/09,Same Day,CUST-0183,Corporate,India,West,Maharashtra,Mumbai,Technology,Phones,Smartphone,159003.3,8,0.1,19433.3,UPI
+ORD-00111,25/03/24,25/03/27,First Class,CUST-0098,Home Office,India,West,Rajasthan,Jaipur,Technology,Computers,Laptop,92337.18,2,0.15,7766.97,Cash
+ORD-00112,25/10/29,25/11/02,Second Class,CUST-0111,Corporate,India,Central,Madhya Pradesh,Bhopal,Furniture,Furnishings,Desk Lamp,5850.36,7,0.2,-275.65,Credit Card
+ORD-00113,26/02/28,26/03/03,First Class,CUST-0096,Consumer,India,North,Uttar Pradesh,Lucknow,Office Supplies,Storage,File Organizer,3366.98,7,0.05,329.47,Net Banking
+ORD-00114,25/03/10,25/03/11,Second Class,CUST-0143,Consumer,India,West,Madhya Pradesh,Indore,Technology,Accessories,Wireless Mouse,3999.31,7,0.2,18.11,Cash
+ORD-00115,26/07/30,26/08/04,Same Day,CUST-0223,Home Office,India,East,West Bengal,Kolkata,Technology,Accessories,Wireless Mouse,4350.16,7,0.2,514.3,UPI
+ORD-00116,25/10/22,25/10/27,Same Day,CUST-0058,Consumer,India,South,Tamil Nadu,Chennai,Office Supplies,Paper,A4 Paper Pack,573.09,2,0,40.66,Debit Card
+ORD-00117,26/07/24,26/07/27,Standard Class,CUST-0156,Home Office,India,West,Madhya Pradesh,Indore,Furniture,Tables,Study Table,27085.73,4,0.15,4128.12,Debit Card
+ORD-00118,25/01/30,25/02/01,Same Day,CUST-0018,Consumer,India,South,Tamil Nadu,Chennai,Furniture,Tables,Study Table,35537.42,6,0,7604.03,UPI
+ORD-00119,25/04/04,25/04/10,First Class,CUST-0185,Corporate,India,Central,Madhya Pradesh,Bhopal,Furniture,Chairs,Office Chair,32791.91,7,0.05,1442.25,Cash
+ORD-00120,26/09/03,26/09/04,First Class,CUST-0114,Home Office,India,West,Maharashtra,Mumbai,Technology,Computers,Laptop,167907.6,3,0,29349.2,Net Banking
+ORD-00121,26/05/13,26/05/18,Same Day,CUST-0029,Corporate,India,North,Uttar Pradesh,Lucknow,Office Supplies,Storage,File Organizer,2058.01,5,0.15,-40.62,Cash
+ORD-00122,26/05/14,26/05/19,Second Class,CUST-0078,Consumer,India,South,Tamil Nadu,Chennai,Technology,Phones,Smartphone,69737.69,4,0.15,-2199.78,Credit Card
+ORD-00123,25/09/19,25/09/22,Same Day,CUST-0137,Home Office,India,East,West Bengal,Kolkata,Technology,Accessories,Wireless Mouse,649.49,1,0.1,13.08,Credit Card
+ORD-00124,26/05/28,26/06/02,Same Day,CUST-0236,Consumer,India,East,West Bengal,Kolkata,Technology,Accessories,Wireless Mouse,5043.81,7,0,641.79,Debit Card
+ORD-00125,26/08/13,26/08/17,First Class,CUST-0044,Home Office,India,West,Rajasthan,Jaipur,Office Supplies,Storage,File Organizer,2951.09,7,0.1,-31.96,Net Banking
+ORD-00126,26/01/06,26/01/07,Same Day,CUST-0223,Corporate,India,West,Gujarat,Ahmedabad,Technology,Accessories,Wireless Mouse,2549.83,4,0.1,228.96,Debit Card
+ORD-00127,25/08/15,25/08/18,First Class,CUST-0090,Home Office,India,North,Delhi,New Delhi,Technology,Accessories,Wireless Mouse,1311.94,2,0,290.18,Credit Card
+ORD-00128,25/08/30,25/08/31,Standard Class,CUST-0046,Home Office,India,North,Delhi,New Delhi,Furniture,Tables,Study Table,22370.83,4,0,4296.16,Net Banking
+ORD-00129,26/04/21,26/04/28,First Class,CUST-0222,Home Office,India,West,Rajasthan,Jaipur,Furniture,Furnishings,Desk Lamp,8012.98,8,0.15,689.9,Debit Card
+ORD-00130,25/06/04,25/06/08,First Class,CUST-0130,Consumer,India,West,Madhya Pradesh,Indore,Office Supplies,Binders,Ring Binder,997.84,8,0.05,130.5,Debit Card
+ORD-00131,26/04/18,26/04/22,Standard Class,CUST-0158,Home Office,India,West,Maharashtra,Mumbai,Technology,Phones,Smartphone,118746.97,6,0,20060.32,Cash
+ORD-00132,26/01/29,26/02/02,First Class,CUST-0155,Corporate,India,West,Rajasthan,Jaipur,Technology,Accessories,USB-C Hub,1575.87,1,0.15,138.47,Cash
+ORD-00133,25/06/04,25/06/05,Second Class,CUST-0011,Consumer,India,North,Uttar Pradesh,Lucknow,Technology,Accessories,Wireless Mouse,4464.39,6,0,629.08,Net Banking
+ORD-00134,26/03/26,26/03/31,First Class,CUST-0174,Home Office,India,Central,Madhya Pradesh,Bhopal,Furniture,Furnishings,Desk Lamp,2733.63,3,0.05,245.98,UPI
+ORD-00135,26/10/09,26/10/15,First Class,CUST-0186,Home Office,India,East,West Bengal,Kolkata,Technology,Accessories,Wireless Mouse,3425.57,6,0.2,25.05,Cash
+ORD-00136,25/06/03,25/06/06,Same Day,CUST-0034,Home Office,India,West,Madhya Pradesh,Indore,Furniture,Furnishings,Desk Lamp,3206.32,3,0.05,660.63,UPI
+ORD-00137,25/11/14,25/11/19,Unknown,CUST-0166,Home Office,India,West,Gujarat,Ahmedabad,Office Supplies,Paper,A4 Paper Pack,882.87,3,0.2,114.27,Net Banking
+ORD-00138,26/06/05,26/06/08,Same Day,CUST-0050,Consumer,India,West,Maharashtra,Mumbai,Office Supplies,Paper,A4 Paper Pack,1265.71,5,0,137.14,Credit Card
+ORD-00139,25/06/08,25/06/09,Same Day,CUST-0040,Consumer,India,South,Tamil Nadu,Chennai,Technology,Accessories,Wireless Mouse,681.58,1,0.15,-11.1,Credit Card
+ORD-00140,26/10/02,26/10/09,Same Day,CUST-0157,Corporate,India,North,Delhi,New Delhi,Office Supplies,Binders,Ring Binder,116.79,1,0.2,8.63,Net Banking
+ORD-00141,25/08/28,25/09/02,Same Day,CUST-0119,Corporate,India,South,Karnataka,Bengaluru,Furniture,Tables,Study Table,55611.14,8,0,6315.66,Net Banking
+ORD-00142,26/05/30,26/06/04,Standard Class,CUST-0165,Corporate,India,West,Gujarat,Ahmedabad,Technology,Computers,Laptop,226798.58,4,0,48671.06,Debit Card
+ORD-00143,26/07/22,26/07/23,Second Class,CUST-0213,Corporate,India,Central,Madhya Pradesh,Bhopal,Technology,Accessories,Wireless Mouse,2844.28,5,0,268.95,UPI
+ORD-00144,25/08/16,25/08/23,Second Class,CUST-0099,Consumer,India,North,Uttar Pradesh,Lucknow,Office Supplies,Paper,A4 Paper Pack,272.85,1,0.1,23.3,Debit Card
+ORD-00145,25/08/18,25/08/19,Same Day,CUST-0179,Consumer,India,East,West Bengal,Kolkata,Technology,Accessories,Wireless Mouse,4240.92,6,0,202.12,Net Banking
+ORD-00146,26/04/05,26/04/10,Same Day,CUST-0029,Corporate,India,West,Maharashtra,Mumbai,Technology,Accessories,Wireless Mouse,602.41,1,0,90.22,Credit Card
+ORD-00147,25/11/05,25/11/06,Standard Class,CUST-0215,Corporate,India,West,Maharashtra,Mumbai,Furniture,Chairs,Office Chair,35000.63,7,0.15,1712.33,Cash
+ORD-00148,26/07/03,26/07/04,First Class,CUST-0062,Home Office,India,Central,Madhya Pradesh,Bhopal,Furniture,Furnishings,Desk Lamp,4049.14,4,0.05,398.22,Net Banking
+ORD-00149,25/07/11,25/07/17,Standard Class,CUST-0100,Corporate,India,West,Madhya Pradesh,Indore,Technology,Accessories,USB-C Hub,8354.92,6,0.15,554.07,UPI
+ORD-00150,26/10/13,26/10/17,Standard Class,CUST-0198,Home Office,India,East,West Bengal,Kolkata,Furniture,Tables,Study Table,5934.19,1,0,646.59,Debit Card
+ORD-00151,25/05/17,25/05/18,Same Day,CUST-0179,Corporate,India,East,West Bengal,Kolkata,Technology,Accessories,USB-C Hub,10502.91,6,0,2164.41,Credit Card
+ORD-00152,25/05/19,25/05/20,First Class,CUST-0239,Corporate,India,North,Uttar Pradesh,Lucknow,Technology,Phones,Smartphone,81942.96,5,0,17794.58,Cash
+ORD-00153,26/02/12,26/02/19,First Class,CUST-0221,Consumer,India,Central,Madhya Pradesh,Bhopal,Office Supplies,Binders,Ring Binder,516.59,5,0.2,-16.42,Debit Card
+ORD-00154,25/10/07,25/10/08,Second Class,CUST-0128,Home Office,India,East,West Bengal,Kolkata,Office Supplies,Storage,File Organizer,3379.93,7,0.1,178.49,Net Banking
+ORD-00155,26/01/12,26/01/19,Second Class,CUST-0140,Corporate,India,Central,Madhya Pradesh,Bhopal,Furniture,Tables,Study Table,13244.74,2,0,1670.45,Debit Card
+ORD-00156,25/04/16,25/04/17,Same Day,CUST-0090,Corporate,India,East,West Bengal,Kolkata,Furniture,Tables,Study Table,30497.02,5,0.2,464.26,UPI
+ORD-00157,25/12/28,26/01/02,Second Class,CUST-0244,Consumer,India,West,Gujarat,Ahmedabad,Furniture,Tables,Study Table,5409.58,1,0.2,60.81,Credit Card
+ORD-00158,26/09/15,26/09/21,Same Day,CUST-0244,Home Office,India,North,Uttar Pradesh,Lucknow,Technology,Phones,Smartphone,46989.18,3,0.2,153.45,UPI
+ORD-00159,26/09/12,26/09/14,First Class,CUST-0102,Corporate,India,North,Uttar Pradesh,Lucknow,Office Supplies,Paper,A4 Paper Pack,1651.75,6,0,255.67,Debit Card
+ORD-00160,25/09/13,25/09/14,First Class,CUST-0181,Corporate,India,West,Maharashtra,Mumbai,Technology,Computers,Laptop,418214.61,8,0.15,-7924.25,Credit Card
+ORD-00161,26/09/19,26/09/22,Same Day,CUST-0023,Home Office,India,North,Uttar Pradesh,Lucknow,Furniture,Chairs,Office Chair,8550.9,2,0,1115.11,Debit Card
+ORD-00162,25/12/22,25/12/28,Second Class,CUST-0204,Corporate,India,West,Madhya Pradesh,Indore,Technology,Accessories,USB-C Hub,8939.2,5,0,1630.17,Cash
+ORD-00163,25/08/18,25/08/19,First Class,CUST-0120,Home Office,India,South,Karnataka,Bengaluru,Technology,Computers,Laptop,226119.28,4,0,25365.9,Credit Card
+ORD-00164,26/09/19,26/09/20,Same Day,CUST-0197,Corporate,India,West,Madhya Pradesh,Indore,Furniture,Tables,Study Table,49904.73,7,0.2,1284.2,Cash
+ORD-00165,25/03/17,25/03/19,Second Class,CUST-0197,Consumer,India,East,West Bengal,Kolkata,Technology,Accessories,Wireless Mouse,5146.7,8,0.15,135.89,Net Banking
+ORD-00166,26/05/30,26/06/06,Second Class,CUST-0089,Home Office,India,West,Maharashtra,Mumbai,Technology,Accessories,Wireless Mouse,1835.41,3,0,191.86,Debit Card
+ORD-00167,25/03/22,25/03/25,Standard Class,CUST-0129,Home Office,India,South,Karnataka,Bengaluru,Technology,Accessories,USB-C Hub,7100.41,5,0.05,961.29,Credit Card
+ORD-00168,26/08/30,26/09/04,Standard Class,CUST-0021,Consumer,India,North,Delhi,New Delhi,Technology,Computers,Laptop,344060.81,6,0.15,-11787.92,Cash
+ORD-00169,25/09/29,25/10/05,First Class,CUST-0165,Corporate,India,South,Karnataka,Bengaluru,Furniture,Furnishings,Desk Lamp,6885.63,7,0,961.29,Net Banking
+ORD-00170,25/09/08,25/09/15,Same Day,CUST-0124,Corporate,India,West,Gujarat,Ahmedabad,Furniture,Tables,Study Table,43245.84,8,0,3097.1,Credit Card
+ORD-00171,25/12/15,25/12/20,Second Class,CUST-0195,Corporate,India,North,Delhi,New Delhi,Office Supplies,Paper,A4 Paper Pack,1798.04,6,0.05,373.23,Cash
+ORD-00172,26/07/30,26/07/31,Standard Class,CUST-0013,Corporate,India,East,West Bengal,Kolkata,Furniture,Chairs,Office Chair,34051.45,8,0.1,1177.63,Net Banking
+ORD-00173,26/09/23,26/09/27,Second Class,CUST-0128,Home Office,India,South,Karnataka,Bengaluru,Technology,Computers,Laptop,352599.14,6,0.2,-2629.34,Net Banking
+ORD-00174,26/05/26,26/05/29,Second Class,CUST-0056,Home Office,India,North,Uttar Pradesh,Lucknow,Technology,Phones,Smartphone,40808.51,2,0.15,1997.42,Debit Card
+ORD-00175,25/02/19,25/02/20,Same Day,CUST-0035,Corporate,India,South,Tamil Nadu,Chennai,Office Supplies,Binders,Ring Binder,898.3,8,0,188.13,Debit Card
+ORD-00176,26/02/17,26/02/20,First Class,CUST-0019,Corporate,India,West,Maharashtra,Mumbai,Office Supplies,Storage,File Organizer,459.49,1,0,51.69,Cash
+ORD-00177,26/04/07,26/04/14,First Class,CUST-0143,Corporate,India,Central,Madhya Pradesh,Bhopal,Furniture,Tables,Study Table,11018.63,2,0,1308.8,Credit Card
+ORD-00178,25/07/23,25/07/28,Same Day,CUST-0133,Corporate,India,Central,Madhya Pradesh,Bhopal,Office Supplies,Storage,File Organizer,388.62,1,0,71.01,Credit Card
+ORD-00179,26/09/13,26/09/18,First Class,CUST-0152,Corporate,India,North,Delhi,New Delhi,Office Supplies,Paper,A4 Paper Pack,1509.9,6,0.15,159.09,Cash
+ORD-00180,26/06/06,26/06/11,Standard Class,CUST-0107,Home Office,India,North,Uttar Pradesh,Lucknow,Furniture,Furnishings,Desk Lamp,4714.22,5,0,535.87,Debit Card
+ORD-00181,26/10/07,26/10/08,Standard Class,CUST-0150,Corporate,India,West,Rajasthan,Jaipur,Office Supplies,Binders,Ring Binder,684.07,5,0.15,49.96,Credit Card
+ORD-00182,26/06/21,26/06/27,Standard Class,CUST-0049,Consumer,India,West,Rajasthan,Jaipur,Office Supplies,Storage,File Organizer,1480.27,3,0,68.56,Net Banking
+ORD-00183,25/11/18,25/11/22,Standard Class,CUST-0181,Consumer,India,North,Delhi,New Delhi,Office Supplies,Storage,File Organizer,1751.6,4,0.15,248.03,Cash
+ORD-00184,25/08/01,25/08/06,First Class,CUST-0140,Corporate,India,East,West Bengal,Kolkata,Office Supplies,Binders,Ring Binder,793.07,7,0,104.63,Debit Card
+ORD-00185,26/09/17,26/09/21,First Class,CUST-0198,Corporate,India,South,Karnataka,Bengaluru,Furniture,Chairs,Office Chair,24418.22,5,0,5574.61,Credit Card
+ORD-00186,26/05/16,26/05/19,Same Day,CUST-0230,Corporate,India,North,Uttar Pradesh,Lucknow,Office Supplies,Paper,A4 Paper Pack,1310.87,5,0.15,121.68,Debit Card
+ORD-00187,25/05/30,25/06/02,Same Day,CUST-0055,Consumer,India,West,Maharashtra,Mumbai,Furniture,Tables,Study Table,11828.47,2,0.1,1374.4,Cash
+ORD-00188,25/10/05,25/10/10,Standard Class,CUST-0172,Home Office,India,South,Tamil Nadu,Chennai,Technology,Computers,Laptop,107609.12,2,0.15,576.4,Credit Card
+ORD-00189,25/08/27,25/08/28,Second Class,CUST-0002,Home Office,India,West,Madhya Pradesh,Indore,Office Supplies,Storage,File Organizer,2876.06,6,0,506.87,Credit Card
+ORD-00190,26/02/21,26/02/27,Standard Class,CUST-0233,Consumer,India,North,Uttar Pradesh,Lucknow,Office Supplies,Binders,Ring Binder,516.85,4,0.05,39.66,Cash
+ORD-00191,25/08/26,25/08/31,Standard Class,CUST-0215,Corporate,India,West,Maharashtra,Mumbai,Technology,Computers,Laptop,405741.15,7,0,92015.81,Net Banking
+ORD-00192,25/07/10,25/07/16,First Class,CUST-0073,Corporate,India,South,Tamil Nadu,Chennai,Technology,Phones,Smartphone,16911.32,1,0.15,-355.81,Cash
+ORD-00193,26/06/21,26/06/25,Same Day,CUST-0166,Corporate,India,North,Delhi,New Delhi,Technology,Accessories,USB-C Hub,11927.69,8,0,1265.97,Credit Card
+ORD-00194,25/01/15,25/01/21,Same Day,CUST-0132,Corporate,India,East,West Bengal,Kolkata,Furniture,Tables,Study Table,22385.68,4,0.2,2449.18,UPI
+ORD-00195,26/02/15,26/02/21,Same Day,CUST-0061,Corporate,India,West,Madhya Pradesh,Indore,Technology,Computers,Laptop,154944.85,3,0,6409.45,Debit Card
+ORD-00196,25/12/04,25/12/07,Standard Class,CUST-0171,Consumer,India,West,Rajasthan,Jaipur,Furniture,Furnishings,Desk Lamp,882.04,1,0.05,133.24,Net Banking
+ORD-00197,25/11/11,25/11/13,First Class,CUST-0095,Home Office,India,West,Gujarat,Ahmedabad,Technology,Accessories,USB-C Hub,8456.7,5,0.2,957.52,Credit Card
+ORD-00198,25/08/13,25/08/15,Same Day,CUST-0194,Home Office,India,North,Uttar Pradesh,Lucknow,Technology,Computers,Laptop,446917.31,8,0.15,14401.9,Credit Card
+ORD-00199,25/09/11,25/09/17,Standard Class,CUST-0016,Home Office,India,West,Rajasthan,Jaipur,Technology,Accessories,Wireless Mouse,5243.95,8,0.05,147.46,Cash
+ORD-00200,25/07/27,25/08/01,Second Class,CUST-0184,Home Office,India,Central,Madhya Pradesh,Bhopal,Technology,Computers,Laptop,147955.91,3,0.15,6786.46,Net Banking
+ORD-00201,25/04/04,25/04/09,Standard Class,CUST-0144,Corporate,India,North,Uttar Pradesh,Lucknow,Technology,Phones,Smartphone,128100,8,0.1,9781.68,Debit Card
+ORD-00202,25/01/23,25/01/27,Standard Class,CUST-0139,Consumer,India,South,Tamil Nadu,Chennai,Technology,Phones,Smartphone,73691.52,4,0,9192.24,UPI
+ORD-00203,26/04/29,26/04/30,Same Day,CUST-0096,Corporate,India,South,Tamil Nadu,Chennai,Office Supplies,Storage,File Organizer,1458.93,3,0.2,183.34,Net Banking
+ORD-00204,26/01/22,26/01/26,Same Day,CUST-0136,Consumer,India,West,Madhya Pradesh,Indore,Technology,Accessories,USB-C Hub,5021.09,3,0.05,181.9,Credit Card
+ORD-00205,25/01/04,25/01/11,Same Day,CUST-0211,Consumer,India,West,Maharashtra,Mumbai,Furniture,Tables,Study Table,52181.68,8,0.15,2208.62,Credit Card
+ORD-00206,26/04/17,26/04/20,Standard Class,CUST-0208,Home Office,India,North,Delhi,New Delhi,Furniture,Tables,Study Table,28054.33,4,0.2,2331.26,Net Banking
+ORD-00207,26/09/22,26/09/29,Standard Class,CUST-0063,Home Office,India,West,Maharashtra,Mumbai,Furniture,Chairs,Office Chair,16707.6,4,0.15,-597.88,UPI
+ORD-00208,26/02/16,26/02/20,First Class,CUST-0060,Home Office,India,South,Karnataka,Bengaluru,Technology,Accessories,USB-C Hub,6888.42,4,0,468.6,Cash
+ORD-00209,25/11/23,25/11/28,Second Class,CUST-0106,Corporate,India,West,Rajasthan,Jaipur,Office Supplies,Paper,A4 Paper Pack,1053.39,4,0,249.8,Debit Card
+ORD-00210,25/03/04,25/03/09,Same Day,CUST-0202,Home Office,India,West,Rajasthan,Jaipur,Technology,Computers,Laptop,370098.89,7,0,86772.66,Debit Card
+ORD-00211,26/03/03,26/03/07,Second Class,CUST-0077,Home Office,India,North,Delhi,New Delhi,Furniture,Tables,Study Table,39284.1,7,0.15,2050.78,Credit Card
+ORD-00212,26/04/20,26/04/21,First Class,CUST-0053,Corporate,India,Central,Madhya Pradesh,Bhopal,Office Supplies,Storage,File Organizer,3204.14,7,0,377.08,UPI
+ORD-00213,26/04/06,26/04/13,Standard Class,CUST-0224,Consumer,India,East,West Bengal,Kolkata,Technology,Accessories,Wireless Mouse,2250.2,4,0.1,269.43,Credit Card
+ORD-00214,26/08/25,26/08/31,Standard Class,CUST-0055,Consumer,India,Central,Madhya Pradesh,Bhopal,Furniture,Chairs,Office Chair,35046.4,8,0.05,2563.21,UPI
+ORD-00215,26/05/06,26/05/08,First Class,CUST-0098,Corporate,India,West,Rajasthan,Jaipur,Furniture,Chairs,Office Chair,37784.47,7,0.15,824.57,Cash
+ORD-00216,26/01/03,26/01/06,First Class,CUST-0235,Consumer,India,South,Tamil Nadu,Chennai,Office Supplies,Paper,A4 Paper Pack,2217.15,8,0.2,52.99,Debit Card
+ORD-00217,25/11/17,25/11/21,Same Day,CUST-0076,Consumer,India,West,Maharashtra,Mumbai,Furniture,Furnishings,Desk Lamp,4075.03,4,0,375.53,Credit Card
+ORD-00218,25/12/04,25/12/06,First Class,CUST-0066,Corporate,India,West,Gujarat,Ahmedabad,Furniture,Furnishings,Desk Lamp,3799.2,4,0.2,450.94,Net Banking
+ORD-00219,26/04/17,26/04/19,Standard Class,CUST-0135,Consumer,India,East,West Bengal,Kolkata,Technology,Computers,Laptop,166310.67,3,0.1,3627.16,UPI
+ORD-00220,25/02/19,25/02/26,Second Class,CUST-0003,Consumer,India,West,Maharashtra,Mumbai,Office Supplies,Storage,File Organizer,1488.73,3,0,79.79,Cash
+ORD-00221,26/04/12,26/04/15,Same Day,CUST-0004,Consumer,India,West,Maharashtra,Mumbai,Furniture,Furnishings,Desk Lamp,7963.17,8,0,329.06,Cash
+ORD-00222,25/10/09,25/10/14,Standard Class,CUST-0135,Consumer,India,South,Tamil Nadu,Chennai,Technology,Phones,Smartphone,137573.14,7,0,8447.44,Credit Card
+ORD-00223,25/07/16,25/07/21,Same Day,CUST-0118,Home Office,India,Central,Madhya Pradesh,Bhopal,Furniture,Tables,Study Table,34603.34,6,0.1,27.82,Credit Card
+ORD-00224,25/08/20,25/08/23,Standard Class,CUST-0164,Consumer,India,West,Madhya Pradesh,Indore,Technology,Phones,Smartphone,34977.01,2,0.1,3341.71,Credit Card
+ORD-00225,25/03/26,25/03/30,Same Day,CUST-0070,Consumer,India,West,Gujarat,Ahmedabad,Office Supplies,Paper,A4 Paper Pack,626.32,2,0,53.83,UPI
+ORD-00226,25/10/15,25/10/20,Second Class,CUST-0151,Consumer,India,West,Rajasthan,Jaipur,Technology,Phones,Smartphone,60946.02,3,0.05,952.68,Net Banking
+ORD-00227,25/03/20,25/03/23,First Class,CUST-0099,Home Office,India,North,Delhi,New Delhi,Furniture,Furnishings,Desk Lamp,3876.03,4,0.1,466.7,Credit Card
+ORD-00228,25/03/22,25/03/27,Same Day,CUST-0249,Corporate,India,East,West Bengal,Kolkata,Technology,Phones,Smartphone,35320.55,2,0,3818.81,UPI
+ORD-00229,26/10/12,26/10/15,Same Day,CUST-0022,Home Office,India,North,Uttar Pradesh,Lucknow,Office Supplies,Binders,Ring Binder,459.24,4,0.1,32.78,Debit Card
+ORD-00230,25/09/10,25/09/16,Second Class,CUST-0190,Corporate,India,West,Madhya Pradesh,Indore,Technology,Accessories,Wireless Mouse,2912.87,5,0.2,252.77,Debit Card
+ORD-00231,26/01/05,26/01/06,Standard Class,CUST-0048,Corporate,India,West,Madhya Pradesh,Indore,Technology,Phones,Smartphone,88507.87,5,0.05,2916.01,Net Banking
+ORD-00232,26/07/25,26/07/30,First Class,CUST-0222,Corporate,India,Central,Madhya Pradesh,Bhopal,Office Supplies,Storage,File Organizer,772.09,2,0.05,95.23,UPI
+ORD-00233,25/10/26,25/10/30,Second Class,CUST-0036,Corporate,India,West,Gujarat,Ahmedabad,Technology,Accessories,Wireless Mouse,2656.13,4,0,470.3,Debit Card
+ORD-00234,25/10/02,25/10/06,Standard Class,CUST-0093,Corporate,India,North,Delhi,New Delhi,Technology,Accessories,Wireless Mouse,1911.79,3,0.1,85.94,Credit Card
+ORD-00235,26/10/03,26/10/07,Same Day,CUST-0086,Home Office,India,West,Rajasthan,Jaipur,Furniture,Furnishings,Desk Lamp,3751.96,4,0,378.69,Net Banking
+ORD-00236,25/12/04,25/12/08,Second Class,CUST-0123,Corporate,India,East,West Bengal,Kolkata,Office Supplies,Storage,File Organizer,1269.18,3,0.15,186.51,Credit Card
+ORD-00237,26/02/12,26/02/15,Same Day,CUST-0094,Consumer,India,South,Tamil Nadu,Chennai,Office Supplies,Binders,Ring Binder,454.93,4,0.05,79.98,Cash
+ORD-00238,25/07/24,25/07/29,Second Class,CUST-0113,Corporate,India,Central,Madhya Pradesh,Bhopal,Technology,Computers,Laptop,59066.87,1,0.1,10253.71,UPI
+ORD-00239,26/02/23,26/03/01,Same Day,CUST-0203,Corporate,India,North,Uttar Pradesh,Lucknow,Technology,Computers,Laptop,239877.65,5,0.2,-9396.33,UPI
+ORD-00240,26/04/05,26/04/10,Standard Class,CUST-0203,Corporate,India,North,Uttar Pradesh,Lucknow,Furniture,Furnishings,Desk Lamp,6718.56,7,0.2,91.78,Cash
+ORD-00241,26/09/01,26/09/07,Standard Class,CUST-0145,Home Office,India,West,Madhya Pradesh,Indore,Technology,Accessories,Wireless Mouse,2722.93,4,0.05,124.62,Net Banking
+ORD-00242,25/12/06,25/12/13,Second Class,CUST-0115,Corporate,India,West,Gujarat,Ahmedabad,Technology,Accessories,Wireless Mouse,571.73,1,0,81.26,Net Banking
+ORD-00243,26/04/20,26/04/27,First Class,CUST-0107,Consumer,India,West,Rajasthan,Jaipur,Technology,Accessories,USB-C Hub,4576.75,3,0,624.97,UPI
+ORD-00244,25/05/26,25/05/29,Same Day,CUST-0025,Corporate,India,South,Tamil Nadu,Chennai,Office Supplies,Paper,A4 Paper Pack,2431.03,8,0.15,131.48,Net Banking
+ORD-00245,25/11/23,25/11/24,Second Class,CUST-0239,Home Office,India,South,Tamil Nadu,Chennai,Technology,Phones,Smartphone,30843.92,2,0.05,4382.74,Credit Card
+ORD-00246,26/06/13,26/06/15,Same Day,CUST-0162,Consumer,India,Central,Madhya Pradesh,Bhopal,Technology,Computers,Laptop,317601.86,6,0.1,9963.52,Credit Card
+ORD-00247,26/03/19,26/03/23,Second Class,CUST-0053,Corporate,India,West,Maharashtra,Mumbai,Furniture,Furnishings,Desk Lamp,3742.52,4,0.1,234.91,UPI
+ORD-00248,26/08/15,26/08/16,Same Day,CUST-0136,Home Office,India,Central,Madhya Pradesh,Bhopal,Technology,Computers,Laptop,295712.19,6,0.1,2303.89,Debit Card
+ORD-00249,26/09/04,26/09/08,First Class,CUST-0236,Home Office,India,West,Rajasthan,Jaipur,Office Supplies,Storage,File Organizer,858.94,2,0.1,93.17,Cash
+ORD-00250,25/03/28,25/04/03,Second Class,CUST-0131,Corporate,India,North,Delhi,New Delhi,Office Supplies,Paper,A4 Paper Pack,516.08,2,0,39.54,Net Banking
+ORD-00251,26/09/03,26/09/05,Second Class,CUST-0143,Consumer,India,West,Rajasthan,Jaipur,Office Supplies,Storage,File Organizer,2853.04,7,0.2,106.92,Net Banking
+ORD-00252,25/10/23,25/10/25,Same Day,CUST-0035,Consumer,India,North,Delhi,New Delhi,Office Supplies,Paper,A4 Paper Pack,2320.24,8,0.05,470.7,Net Banking
+ORD-00253,26/07/30,26/08/04,Standard Class,CUST-0145,Consumer,India,North,Uttar Pradesh,Lucknow,Office Supplies,Storage,File Organizer,3508.88,8,0.1,290.32,Credit Card
+ORD-00254,25/10/27,25/10/28,Same Day,CUST-0141,Home Office,India,South,Tamil Nadu,Chennai,Furniture,Chairs,Office Chair,21611.1,5,0.1,2120.7,UPI
+ORD-00255,26/08/10,26/08/11,Same Day,CUST-0140,Consumer,India,South,Tamil Nadu,Chennai,Technology,Accessories,USB-C Hub,9721.08,6,0,1866.46,Net Banking
+ORD-00256,25/04/15,25/04/21,Standard Class,CUST-0113,Consumer,India,South,Karnataka,Bengaluru,Furniture,Tables,Study Table,6106.5,1,0.05,1129.34,Credit Card
+ORD-00257,25/08/03,25/08/10,Second Class,CUST-0207,Consumer,India,West,Rajasthan,Jaipur,Office Supplies,Paper,A4 Paper Pack,1763.6,7,0,347.38,Cash
+ORD-00258,25/12/26,25/12/31,First Class,CUST-0244,Home Office,India,South,Tamil Nadu,Chennai,Furniture,Furnishings,Desk Lamp,2699.22,3,0.2,-30.97,UPI
+ORD-00259,25/05/19,25/05/26,Second Class,CUST-0064,Consumer,India,West,Gujarat,Ahmedabad,Technology,Phones,Smartphone,99910.28,5,0,18012.36,Debit Card
+ORD-00260,25/09/11,25/09/18,Same Day,CUST-0116,Consumer,India,West,Gujarat,Ahmedabad,Office Supplies,Binders,Ring Binder,368.36,3,0.05,50.86,UPI
+ORD-00261,26/02/17,26/02/22,Standard Class,CUST-0188,Corporate,India,South,Tamil Nadu,Chennai,Office Supplies,Paper,A4 Paper Pack,2542.57,8,0.05,327.71,Debit Card
+ORD-00262,25/03/06,25/03/13,First Class,CUST-0213,Corporate,India,Central,Madhya Pradesh,Bhopal,Office Supplies,Storage,File Organizer,2052.79,4,0,285.22,Debit Card
+ORD-00263,26/07/15,26/07/20,Standard Class,CUST-0026,Home Office,India,North,Delhi,New Delhi,Furniture,Furnishings,Desk Lamp,8257.33,8,0.2,680.82,Net Banking
+ORD-00264,25/01/17,25/01/18,Second Class,CUST-0226,Home Office,India,North,Delhi,New Delhi,Office Supplies,Binders,Ring Binder,816.19,8,0.1,20.78,Debit Card
+ORD-00265,25/06/12,25/06/19,Second Class,CUST-0014,Corporate,India,South,Tamil Nadu,Chennai,Technology,Accessories,Wireless Mouse,3607.96,6,0.05,524.6,Debit Card
+ORD-00266,25/08/28,25/09/01,Second Class,CUST-0133,Home Office,India,West,Madhya Pradesh,Indore,Technology,Accessories,Wireless Mouse,594.12,1,0,39.53,Net Banking
+ORD-00267,25/01/10,25/01/11,Same Day,CUST-0023,Home Office,India,East,West Bengal,Kolkata,Technology,Accessories,Wireless Mouse,4814.85,7,0.1,-4.02,UPI
+ORD-00268,25/04/16,25/04/19,Second Class,CUST-0018,Home Office,India,East,West Bengal,Kolkata,Furniture,Tables,Study Table,17945.58,3,0,3020.51,Cash
+ORD-00269,25/01/09,25/01/14,Same Day,CUST-0158,Home Office,India,North,Delhi,New Delhi,Office Supplies,Binders,Ring Binder,768.05,6,0.2,61.18,Net Banking
+ORD-00270,25/08/11,25/08/12,Same Day,CUST-0081,Consumer,India,West,Madhya Pradesh,Indore,Technology,Computers,Laptop,106794.71,2,0.1,5906.51,Credit Card
+ORD-00271,25/10/11,25/10/17,First Class,CUST-0053,Home Office,India,West,Madhya Pradesh,Indore,Furniture,Chairs,Office Chair,26008.58,5,0.2,-1681.07,Cash
+ORD-00272,26/06/06,26/06/08,Standard Class,CUST-0062,Corporate,India,West,Gujarat,Ahmedabad,Furniture,Tables,Study Table,6727.87,1,0,935.02,Cash
+ORD-00273,25/03/14,25/03/19,Second Class,CUST-0196,Corporate,India,West,Maharashtra,Mumbai,Office Supplies,Paper,A4 Paper Pack,1494.52,6,0.15,62.28,UPI
+ORD-00274,25/01/18,25/01/23,Same Day,CUST-0130,Corporate,India,West,Madhya Pradesh,Indore,Technology,Phones,Smartphone,82325.06,5,0,18913.03,Cash
+ORD-00275,26/03/02,26/03/06,Second Class,CUST-0250,Consumer,India,West,Gujarat,Ahmedabad,Technology,Accessories,Wireless Mouse,1819.82,3,0.05,51.51,Cash
+ORD-00276,25/12/01,25/12/05,Second Class,CUST-0015,Consumer,India,West,Rajasthan,Jaipur,Technology,Accessories,Wireless Mouse,3443.71,5,0.2,415.61,UPI
+ORD-00277,26/03/21,26/03/22,Second Class,CUST-0031,Consumer,India,North,Uttar Pradesh,Lucknow,Furniture,Furnishings,Desk Lamp,895.65,1,0.2,55.18,Credit Card
+ORD-00278,25/01/12,25/01/14,First Class,CUST-0188,Consumer,India,North,Uttar Pradesh,Lucknow,Office Supplies,Paper,A4 Paper Pack,1260.12,5,0,239.37,UPI
+ORD-00279,25/12/10,25/12/17,Same Day,CUST-0117,Home Office,India,West,Gujarat,Ahmedabad,Furniture,Tables,Study Table,11518.17,2,0.15,956.08,Debit Card
+ORD-00280,25/02/26,25/03/02,Standard Class,CUST-0059,Home Office,India,West,Rajasthan,Jaipur,Technology,Computers,Laptop,279924.21,6,0,61262.44,Cash
+ORD-00281,25/01/03,25/01/04,Second Class,CUST-0239,Consumer,India,West,Maharashtra,Mumbai,Furniture,Chairs,Office Chair,4759.34,1,0.1,804.54,Cash
+ORD-00282,26/03/06,26/03/08,Standard Class,CUST-0147,Corporate,India,East,West Bengal,Kolkata,Furniture,Chairs,Office Chair,37791.82,7,0.05,2522.66,UPI
+ORD-00283,26/05/30,26/06/05,Standard Class,CUST-0225,Corporate,India,West,Maharashtra,Mumbai,Technology,Computers,Laptop,226990.69,4,0,52393.06,Debit Card
+ORD-00284,25/11/15,25/11/18,First Class,CUST-0190,Home Office,India,West,Madhya Pradesh,Indore,Technology,Accessories,USB-C Hub,10910.6,8,0,1072.72,Credit Card
+ORD-00285,26/04/21,26/04/24,Second Class,CUST-0039,Consumer,India,West,Rajasthan,Jaipur,Office Supplies,Binders,Ring Binder,513.47,4,0.15,56.27,Net Banking
+ORD-00286,25/01/25,25/01/27,Same Day,CUST-0218,Home Office,India,Central,Madhya Pradesh,Bhopal,Office Supplies,Paper,A4 Paper Pack,317.88,1,0,60.96,Debit Card
+ORD-00287,25/04/17,25/04/19,Second Class,CUST-0183,Corporate,India,Central,Madhya Pradesh,Bhopal,Furniture,Chairs,Office Chair,33519.65,7,0,7860.76,UPI
+ORD-00288,25/02/14,25/02/16,Standard Class,CUST-0130,Consumer,India,Central,Madhya Pradesh,Bhopal,Office Supplies,Storage,File Organizer,2666.35,6,0.2,-141.37,Net Banking
+ORD-00289,25/03/18,25/03/23,First Class,CUST-0218,Corporate,India,West,Rajasthan,Jaipur,Technology,Phones,Smartphone,132140.38,7,0,11543.04,Net Banking
+ORD-00290,25/12/01,25/12/04,Standard Class,CUST-0040,Consumer,India,North,Uttar Pradesh,Lucknow,Furniture,Tables,Study Table,21635.67,4,0,1454.4,Credit Card
+ORD-00291,26/04/06,26/04/10,Same Day,CUST-0068,Consumer,India,East,West Bengal,Kolkata,Office Supplies,Storage,File Organizer,909.7,2,0,118.61,UPI
+ORD-00292,25/06/11,25/06/18,Second Class,CUST-0248,Corporate,India,South,Tamil Nadu,Chennai,Furniture,Furnishings,Desk Lamp,868.78,1,0.05,36.63,Net Banking
+ORD-00293,26/06/10,26/06/11,Second Class,CUST-0025,Corporate,India,South,Tamil Nadu,Chennai,Furniture,Tables,Study Table,15983.44,3,0.1,2492.14,UPI
+ORD-00294,25/05/24,25/05/25,Standard Class,CUST-0150,Home Office,India,West,Maharashtra,Mumbai,Technology,Phones,Smartphone,64023.45,4,0.1,3806.06,Debit Card
+ORD-00295,25/03/18,25/03/19,First Class,CUST-0032,Consumer,India,West,Madhya Pradesh,Indore,Furniture,Chairs,Office Chair,41963.12,8,0,9274.5,Net Banking
+ORD-00296,25/02/21,25/02/23,Second Class,CUST-0091,Consumer,India,West,Rajasthan,Jaipur,Office Supplies,Storage,File Organizer,3146.34,7,0.1,382.73,Credit Card
+ORD-00297,25/10/09,25/10/12,First Class,CUST-0128,Corporate,India,North,Uttar Pradesh,Lucknow,Technology,Computers,Laptop,53780.06,1,0.15,358.01,Cash
+ORD-00298,26/05/06,26/05/07,Second Class,CUST-0162,Home Office,India,West,Madhya Pradesh,Indore,Furniture,Tables,Study Table,38676.81,7,0,6518.22,UPI
+ORD-00299,26/01/27,26/02/03,Same Day,CUST-0070,Consumer,India,East,West Bengal,Kolkata,Office Supplies,Binders,Ring Binder,915.08,8,0.15,53.06,UPI
+ORD-00300,25/11/23,25/11/28,Second Class,CUST-0250,Consumer,India,South,Karnataka,Bengaluru,Technology,Phones,Smartphone,78081.96,5,0.1,7096.59,UPI
+ORD-00301,25/09/11,25/09/17,Same Day,CUST-0091,Consumer,India,South,Karnataka,Bengaluru,Furniture,Tables,Study Table,6691.13,1,0,1038.05,Credit Card
+ORD-00302,25/08/31,25/09/05,Second Class,CUST-0145,Consumer,India,East,West Bengal,Kolkata,Office Supplies,Paper,A4 Paper Pack,297.09,1,0.05,60.02,Net Banking
+ORD-00303,26/07/10,26/07/13,Standard Class,CUST-0135,Corporate,India,North,Delhi,New Delhi,Office Supplies,Binders,Ring Binder,105.25,1,0,16.88,UPI
+ORD-00304,25/12/06,25/12/11,Second Class,CUST-0151,Home Office,India,South,Karnataka,Bengaluru,Technology,Computers,Laptop,332305.36,6,0.05,8111.97,Credit Card
+ORD-00305,25/04/24,25/05/01,Standard Class,CUST-0087,Corporate,India,Central,Madhya Pradesh,Bhopal,Office Supplies,Paper,A4 Paper Pack,538.76,2,0.2,4.91,Debit Card
+ORD-00306,25/05/20,25/05/22,First Class,CUST-0058,Home Office,India,West,Gujarat,Ahmedabad,Office Supplies,Binders,Ring Binder,649.63,6,0.15,62.5,Cash
+ORD-00307,25/06/29,25/07/03,Same Day,CUST-0218,Home Office,India,South,Tamil Nadu,Chennai,Furniture,Tables,Study Table,16801.61,3,0,3860.3,UPI
+ORD-00308,25/07/06,25/07/11,Second Class,CUST-0085,Home Office,India,East,West Bengal,Kolkata,Furniture,Furnishings,Desk Lamp,3959.2,4,0,900.07,UPI
+ORD-00309,25/09/01,25/09/04,First Class,CUST-0115,Consumer,India,East,West Bengal,Kolkata,Technology,Computers,Laptop,114035.85,2,0.2,6593.61,Debit Card
+ORD-00310,25/08/03,25/08/05,Same Day,CUST-0113,Home Office,India,West,Madhya Pradesh,Indore,Office Supplies,Paper,A4 Paper Pack,1520.55,5,0.2,-106.05,Net Banking
+ORD-00311,25/06/20,25/06/24,Second Class,CUST-0042,Corporate,India,North,Uttar Pradesh,Lucknow,Office Supplies,Storage,File Organizer,2737.28,6,0,563.23,UPI
+ORD-00312,25/02/04,25/02/07,Same Day,CUST-0042,Home Office,India,West,Maharashtra,Mumbai,Office Supplies,Paper,A4 Paper Pack,1589.7,5,0,172.26,UPI
+ORD-00313,26/07/15,26/07/16,Second Class,CUST-0156,Corporate,India,East,West Bengal,Kolkata,Furniture,Furnishings,Desk Lamp,8066.27,8,0.1,1399.4,Credit Card
+ORD-00314,25/02/24,25/02/25,First Class,CUST-0170,Corporate,India,East,West Bengal,Kolkata,Furniture,Chairs,Office Chair,18677.45,4,0.15,1903.37,Debit Card
+ORD-00315,25/09/01,25/09/02,Standard Class,CUST-0076,Home Office,India,West,Maharashtra,Mumbai,Office Supplies,Storage,File Organizer,3225.88,8,0.05,42.79,Cash
+ORD-00316,26/05/07,26/05/09,Same Day,CUST-0217,Consumer,India,West,Madhya Pradesh,Indore,Technology,Phones,Smartphone,64889.98,4,0.05,13491.38,Debit Card
+ORD-00317,26/02/12,26/02/16,Same Day,CUST-0095,Consumer,India,North,Uttar Pradesh,Lucknow,Furniture,Tables,Study Table,12927.74,2,0.1,284.1,Net Banking
+ORD-00318,25/02/15,25/02/18,Second Class,CUST-0193,Home Office,India,North,Uttar Pradesh,Lucknow,Office Supplies,Binders,Ring Binder,550.72,5,0.05,69.03,UPI
+ORD-00319,25/03/29,25/04/04,Standard Class,CUST-0216,Corporate,India,East,West Bengal,Kolkata,Technology,Accessories,USB-C Hub,12781.57,7,0.15,38.38,Cash
+ORD-00320,26/03/05,26/03/10,Standard Class,CUST-0129,Home Office,India,North,Uttar Pradesh,Lucknow,Furniture,Furnishings,Desk Lamp,3772.94,4,0,448.83,Cash
+ORD-00321,26/08/09,26/08/15,Second Class,CUST-0249,Consumer,India,West,Rajasthan,Jaipur,Technology,Computers,Laptop,118016.75,2,0.1,2310.27,Credit Card
+ORD-00322,25/05/10,25/05/11,First Class,CUST-0082,Home Office,India,West,Gujarat,Ahmedabad,Technology,Accessories,Wireless Mouse,4143.12,7,0.2,-167.48,UPI
+ORD-00323,25/03/31,25/04/04,Standard Class,CUST-0202,Home Office,India,Central,Madhya Pradesh,Bhopal,Office Supplies,Storage,File Organizer,2988.87,6,0.15,146.85,Cash
+ORD-00324,26/08/25,26/08/30,Standard Class,CUST-0237,Consumer,India,West,Gujarat,Ahmedabad,Technology,Accessories,Wireless Mouse,4071.76,7,0.15,305.74,Cash
+ORD-00325,25/04/14,25/04/21,Same Day,CUST-0147,Home Office,India,South,Tamil Nadu,Chennai,Technology,Accessories,USB-C Hub,10688.33,6,0.05,952.42,Net Banking
+ORD-00326,25/02/08,25/02/10,Standard Class,CUST-0102,Corporate,India,South,Tamil Nadu,Chennai,Office Supplies,Storage,File Organizer,1397.89,3,0.2,96.08,Credit Card
+ORD-00327,25/02/20,25/02/26,Same Day,CUST-0220,Home Office,India,North,Uttar Pradesh,Lucknow,Furniture,Tables,Study Table,31845.8,6,0.05,2378.56,UPI
+ORD-00328,25/08/22,25/08/24,Standard Class,CUST-0049,Corporate,India,South,Tamil Nadu,Chennai,Office Supplies,Binders,Ring Binder,670.19,6,0.1,71.04,Credit Card
+ORD-00329,26/02/21,26/02/27,Standard Class,CUST-0080,Home Office,India,North,Uttar Pradesh,Lucknow,Technology,Accessories,USB-C Hub,10524.53,6,0.15,1218.72,Cash
+ORD-00330,26/02/18,26/02/20,Second Class,CUST-0009,Corporate,India,Central,Madhya Pradesh,Bhopal,Furniture,Furnishings,Desk Lamp,857.02,1,0,177.74,UPI
+ORD-00331,26/01/05,26/01/11,Standard Class,CUST-0175,Consumer,India,South,Karnataka,Bengaluru,Furniture,Tables,Study Table,40810.33,6,0.15,1505.43,Credit Card
+ORD-00332,26/01/17,26/01/21,First Class,CUST-0089,Consumer,India,West,Rajasthan,Jaipur,Office Supplies,Binders,Ring Binder,409.74,3,0.1,41.95,Debit Card
+ORD-00333,25/04/03,25/04/06,Second Class,CUST-0220,Consumer,India,West,Maharashtra,Mumbai,Office Supplies,Storage,File Organizer,404.49,1,0.15,45.9,Credit Card
+ORD-00334,25/07/31,25/08/03,Second Class,CUST-0166,Consumer,India,West,Gujarat,Ahmedabad,Technology,Accessories,USB-C Hub,1775.02,1,0.2,-121.09,Cash
+ORD-00335,25/01/09,25/01/11,Same Day,CUST-0230,Corporate,India,South,Tamil Nadu,Chennai,Furniture,Furnishings,Desk Lamp,5053.16,5,0.2,295.85,Debit Card
+ORD-00336,26/04/16,26/04/19,Standard Class,CUST-0002,Home Office,India,South,Karnataka,Bengaluru,Office Supplies,Binders,Ring Binder,631.9,5,0.15,23.34,Debit Card
+ORD-00337,26/07/29,26/08/04,First Class,CUST-0071,Home Office,India,West,Rajasthan,Jaipur,Furniture,Furnishings,Desk Lamp,4462.83,5,0,608.5,Debit Card
+ORD-00338,25/10/11,25/10/14,Same Day,CUST-0170,Corporate,India,South,Tamil Nadu,Chennai,Furniture,Chairs,Office Chair,14474.71,3,0,3183.53,Credit Card
+ORD-00339,25/01/27,25/02/02,Standard Class,CUST-0150,Home Office,India,North,Uttar Pradesh,Lucknow,Furniture,Tables,Study Table,34784.28,5,0.1,2179.41,Cash
+ORD-00340,25/07/14,25/07/17,First Class,CUST-0217,Consumer,India,South,Karnataka,Bengaluru,Technology,Accessories,USB-C Hub,14361.06,8,0.2,24.41,Cash
+ORD-00341,25/07/05,25/07/08,Second Class,CUST-0243,Home Office,India,West,Madhya Pradesh,Indore,Office Supplies,Binders,Ring Binder,386.02,3,0.2,35.39,Debit Card
+ORD-00342,25/04/02,25/04/04,First Class,CUST-0119,Consumer,India,East,West Bengal,Kolkata,Furniture,Chairs,Office Chair,23427.4,5,0.05,2034.35,Net Banking
+ORD-00343,25/02/24,25/03/03,Same Day,CUST-0136,Corporate,India,West,Rajasthan,Jaipur,Furniture,Furnishings,Desk Lamp,1884.17,2,0,263.96,Net Banking
+ORD-00344,25/02/25,25/03/04,Same Day,CUST-0037,Corporate,India,North,Delhi,New Delhi,Technology,Computers,Laptop,198182.6,4,0.15,26966.51,Credit Card
+ORD-00345,25/03/24,25/03/28,Second Class,CUST-0195,Consumer,India,East,West Bengal,Kolkata,Technology,Computers,Laptop,324589.1,6,0,42329.87,Cash
+ORD-00346,25/06/12,25/06/16,Same Day,CUST-0099,Consumer,India,West,Madhya Pradesh,Indore,Technology,Computers,Laptop,378576.84,7,0.1,26805.17,UPI
+ORD-00347,26/07/01,26/07/03,Standard Class,CUST-0161,Home Office,India,East,West Bengal,Kolkata,Technology,Phones,Smartphone,116321.87,6,0.15,-510.03,Credit Card
+ORD-00348,25/08/20,25/08/26,Second Class,CUST-0017,Consumer,India,East,West Bengal,Kolkata,Furniture,Tables,Study Table,16383.11,3,0.15,1232.57,Debit Card
+ORD-00349,25/10/25,25/10/29,First Class,CUST-0231,Corporate,India,Central,Madhya Pradesh,Bhopal,Furniture,Furnishings,Desk Lamp,5586.57,6,0.2,721.2,Debit Card
+ORD-00350,25/07/12,25/07/14,Standard Class,CUST-0151,Home Office,India,West,Gujarat,Ahmedabad,Technology,Phones,Smartphone,66045.34,4,0,5431.44,Credit Card
+ORD-00351,25/05/07,25/05/10,Standard Class,CUST-0170,Consumer,India,West,Maharashtra,Mumbai,Office Supplies,Storage,File Organizer,2433.09,5,0.15,-79.76,UPI
+ORD-00352,25/02/19,25/02/25,Second Class,CUST-0053,Home Office,India,West,Madhya Pradesh,Indore,Office Supplies,Storage,File Organizer,3470.67,8,0.15,27.93,UPI
+ORD-00353,25/11/05,25/11/09,Standard Class,CUST-0131,Home Office,India,West,Madhya Pradesh,Indore,Technology,Accessories,USB-C Hub,8294.71,5,0.2,-353.08,Cash
+ORD-00354,25/05/01,25/05/04,Second Class,CUST-0092,Home Office,India,West,Madhya Pradesh,Indore,Technology,Accessories,Wireless Mouse,4729.89,8,0,925.13,Net Banking
+ORD-00355,25/10/30,25/11/01,First Class,CUST-0061,Consumer,India,West,Maharashtra,Mumbai,Technology,Accessories,USB-C Hub,14375.77,8,0.2,1676.57,UPI
+ORD-00356,25/04/02,25/04/03,Standard Class,CUST-0232,Corporate,India,West,Rajasthan,Unknown,Office Supplies,Binders,Ring Binder,408.54,3,0.15,-11.23,Credit Card
+ORD-00357,26/04/13,26/04/16,First Class,CUST-0093,Home Office,India,South,Tamil Nadu,Chennai,Office Supplies,Binders,Ring Binder,105.59,1,0,22.68,Debit Card
+ORD-00358,26/03/13,26/03/19,Second Class,CUST-0085,Corporate,India,West,Madhya Pradesh,Indore,Technology,Accessories,Wireless Mouse,554.39,1,0,95.73,Net Banking
+ORD-00359,26/09/29,26/10/02,Same Day,CUST-0070,Corporate,India,West,Madhya Pradesh,Indore,Office Supplies,Paper,A4 Paper Pack,1520.17,6,0.1,98.89,Net Banking
+ORD-00360,26/03/08,26/03/14,Second Class,CUST-0027,Corporate,India,North,Delhi,New Delhi,Technology,Accessories,Wireless Mouse,2064.76,3,0,487.93,Cash
+ORD-00361,26/05/10,26/05/17,Second Class,CUST-0124,Corporate,India,West,Rajasthan,Jaipur,Office Supplies,Binders,Ring Binder,372.02,3,0.05,50.14,UPI
+ORD-00362,26/02/26,26/03/02,Second Class,CUST-0245,Home Office,India,West,Maharashtra,Mumbai,Technology,Accessories,Wireless Mouse,3401.1,5,0,615.31,Debit Card
+ORD-00363,26/06/16,26/06/21,Same Day,CUST-0039,Home Office,India,West,Rajasthan,Jaipur,Technology,Accessories,Wireless Mouse,4770.74,7,0,650.66,Cash
+ORD-00364,25/02/25,25/02/26,Same Day,CUST-0083,Consumer,India,North,Delhi,New Delhi,Technology,Accessories,USB-C Hub,14151.19,8,0,777.93,Debit Card
+ORD-00365,25/10/12,25/10/13,Same Day,CUST-0206,Home Office,India,Central,Madhya Pradesh,Bhopal,Furniture,Chairs,Office Chair,32625.03,7,0,1819.37,Net Banking
+ORD-00366,25/04/01,25/04/08,Standard Class,CUST-0027,Corporate,India,North,Uttar Pradesh,Lucknow,Office Supplies,Binders,Ring Binder,637.64,6,0.1,85.47,Net Banking
+ORD-00367,25/02/06,25/02/11,Second Class,CUST-0168,Home Office,India,Central,Madhya Pradesh,Bhopal,Technology,Phones,Smartphone,39151.26,2,0.15,3328.16,Net Banking
+ORD-00368,25/12/16,25/12/19,First Class,CUST-0184,Corporate,India,West,Maharashtra,Mumbai,Furniture,Chairs,Office Chair,36464.32,8,0.15,2825.63,UPI
+ORD-00369,25/04/10,25/04/17,First Class,CUST-0141,Home Office,India,South,Karnataka,Bengaluru,Technology,Phones,Smartphone,103306.5,6,0.2,12695,Debit Card
+ORD-00370,25/04/19,25/04/20,Standard Class,CUST-0066,Home Office,India,North,Delhi,New Delhi,Office Supplies,Binders,Ring Binder,394.76,3,0.2,29.34,Credit Card
+ORD-00371,25/07/12,25/07/13,Standard Class,CUST-0194,Corporate,India,West,Gujarat,Ahmedabad,Furniture,Chairs,Office Chair,42138.86,8,0,7726.48,UPI
+ORD-00372,26/10/11,26/10/18,Second Class,CUST-0247,Corporate,India,West,Rajasthan,Jaipur,Technology,Accessories,Wireless Mouse,5133.53,8,0.15,763.55,UPI
+ORD-00373,26/06/28,26/07/04,Second Class,CUST-0178,Home Office,India,West,Maharashtra,Mumbai,Technology,Accessories,USB-C Hub,12338.42,7,0.1,2095.98,Credit Card
+ORD-00374,25/05/12,25/05/13,Second Class,CUST-0071,Corporate,India,West,Gujarat,Ahmedabad,Furniture,Furnishings,Desk Lamp,5707.03,6,0.1,392.26,Debit Card
+ORD-00375,25/10/29,25/11/02,First Class,CUST-0183,Home Office,India,North,Delhi,New Delhi,Technology,Computers,Laptop,375195.67,7,0.2,12178.45,Cash
+ORD-00376,26/10/10,26/10/12,Second Class,CUST-0129,Home Office,India,South,Karnataka,Bengaluru,Furniture,Chairs,Office Chair,25343.6,5,0.2,-1101.58,Debit Card
+ORD-00377,25/04/29,25/05/06,First Class,CUST-0225,Corporate,India,East,West Bengal,Kolkata,Technology,Accessories,USB-C Hub,13117.98,8,0.2,944.82,UPI
+ORD-00378,26/06/20,26/06/21,Second Class,CUST-0074,Home Office,India,West,Maharashtra,Mumbai,Office Supplies,Storage,File Organizer,1168.99,3,0,93.5,Debit Card
+ORD-00379,25/05/30,25/06/06,Same Day,CUST-0027,Home Office,India,West,Maharashtra,Mumbai,Furniture,Tables,Study Table,26686.74,4,0,2981.88,Cash
+ORD-00380,25/08/18,25/08/24,Standard Class,CUST-0238,Corporate,India,Central,Madhya Pradesh,Bhopal,Office Supplies,Storage,File Organizer,1805.9,4,0.2,-22.52,Net Banking
+ORD-00381,26/03/03,26/03/10,Same Day,CUST-0213,Consumer,India,East,West Bengal,Kolkata,Technology,Accessories,USB-C Hub,1366.22,1,0.05,72.57,Debit Card
+ORD-00382,26/08/26,26/08/31,Standard Class,CUST-0048,Consumer,India,West,Rajasthan,Jaipur,Furniture,Chairs,Office Chair,18014.46,4,0,4263.85,Cash
+ORD-00383,25/05/03,25/05/07,First Class,CUST-0002,Corporate,India,West,Maharashtra,Mumbai,Office Supplies,Storage,File Organizer,2288.2,5,0,165.18,Net Banking
+ORD-00384,25/06/08,25/06/09,First Class,CUST-0126,Home Office,India,North,Delhi,New Delhi,Office Supplies,Paper,A4 Paper Pack,302.99,1,0.2,16.1,Cash
+ORD-00385,26/01/02,26/01/03,Second Class,CUST-0107,Home Office,India,East,West Bengal,Kolkata,Technology,Accessories,USB-C Hub,7277.42,4,0.15,-210.06,Cash
+ORD-00386,26/02/18,26/02/19,Second Class,CUST-0244,Home Office,India,East,West Bengal,Kolkata,Furniture,Chairs,Office Chair,20140.81,4,0.05,1705.11,Cash
+ORD-00387,26/05/02,26/05/07,Second Class,CUST-0246,Consumer,India,West,Maharashtra,Mumbai,Technology,Accessories,Wireless Mouse,3836.43,6,0.2,202.33,Debit Card
+ORD-00388,26/01/26,26/02/02,First Class,CUST-0132,Home Office,India,West,Madhya Pradesh,Indore,Office Supplies,Storage,File Organizer,2277.16,5,0.05,39.72,Net Banking
+ORD-00389,26/05/14,26/05/15,Standard Class,CUST-0161,Consumer,India,South,Tamil Nadu,Chennai,Furniture,Chairs,Office Chair,28920.05,6,0,2125.02,Credit Card
+ORD-00390,26/10/07,26/10/14,Same Day,CUST-0166,Consumer,India,South,Karnataka,Bengaluru,Office Supplies,Storage,File Organizer,820.51,2,0.2,86.75,Credit Card
+ORD-00391,25/01/25,25/01/29,Standard Class,CUST-0148,Consumer,India,East,West Bengal,Kolkata,Technology,Phones,Smartphone,31391.08,2,0,6241.9,Debit Card
+ORD-00392,26/02/22,26/02/26,Standard Class,CUST-0165,Home Office,India,North,Uttar Pradesh,Lucknow,Office Supplies,Storage,File Organizer,2976.5,7,0.1,356.17,Cash
+ORD-00393,25/03/06,25/03/13,First Class,CUST-0156,Consumer,India,West,Rajasthan,Jaipur,Technology,Phones,Smartphone,34463.16,2,0.15,-733.13,Debit Card
+ORD-00394,26/03/25,26/03/29,Same Day,CUST-0204,Unknown,India,West,Gujarat,Ahmedabad,Technology,Phones,Smartphone,129153.17,8,0,8688.95,Debit Card
+ORD-00395,26/10/12,26/10/14,Standard Class,CUST-0002,Home Office,India,South,Tamil Nadu,Chennai,Office Supplies,Paper,A4 Paper Pack,284.5,1,0.15,-4.05,Cash
+ORD-00396,26/02/08,26/02/13,First Class,CUST-0055,Corporate,India,Central,Madhya Pradesh,Bhopal,Technology,Accessories,Wireless Mouse,2967.3,5,0.2,328.51,Cash
+ORD-00397,25/05/26,25/05/28,Standard Class,CUST-0218,Home Office,India,North,Delhi,New Delhi,Furniture,Chairs,Office Chair,21799.15,5,0,3797.32,Net Banking
+ORD-00398,26/07/17,26/07/18,First Class,CUST-0092,Consumer,India,South,Tamil Nadu,Chennai,Technology,Accessories,Wireless Mouse,2858.25,5,0.2,131.82,Credit Card
+ORD-00399,25/04/13,25/04/16,First Class,CUST-0178,Home Office,India,West,Rajasthan,Jaipur,Technology,Accessories,Wireless Mouse,2457.87,4,0.1,124.54,Credit Card
+ORD-00400,26/08/03,26/08/08,Second Class,CUST-0183,Home Office,India,East,West Bengal,Kolkata,Office Supplies,Paper,A4 Paper Pack,1765.16,7,0.05,108.97,Net Banking
+ORD-00401,25/10/11,25/10/18,First Class,CUST-0125,Home Office,India,East,West Bengal,Kolkata,Technology,Computers,Laptop,347370.11,6,0.1,25730.26,UPI
+ORD-00402,25/06/29,25/07/05,Second Class,CUST-0068,Home Office,India,West,Rajasthan,Jaipur,Technology,Accessories,Wireless Mouse,3599.75,5,0,785.68,UPI
+ORD-00403,25/03/19,25/03/20,First Class,CUST-0140,Home Office,India,Central,Madhya Pradesh,Bhopal,Technology,Phones,Smartphone,136175.77,7,0,30130.35,Net Banking
+ORD-00404,25/06/02,25/06/05,Same Day,CUST-0094,Home Office,India,West,Gujarat,Ahmedabad,Furniture,Chairs,Office Chair,21363.95,5,0.15,1272.92,UPI
+ORD-00405,25/09/02,25/09/09,Second Class,CUST-0189,Home Office,India,West,Rajasthan,Jaipur,Technology,Computers,Laptop,153483.12,3,0,23524.58,Net Banking
+ORD-00406,26/01/03,26/01/04,Second Class,CUST-0133,Corporate,India,South,Karnataka,Bengaluru,Office Supplies,Binders,Ring Binder,417.05,4,0.05,24.73,Net Banking
+ORD-00407,26/04/26,26/04/30,First Class,CUST-0214,Home Office,India,West,Maharashtra,Mumbai,Technology,Phones,Smartphone,95144.49,6,0.15,8012.44,Debit Card
+ORD-00408,26/08/16,26/08/21,Standard Class,CUST-0133,Corporate,India,West,Rajasthan,Jaipur,Technology,Computers,Laptop,380781.34,7,0.05,49515.19,Net Banking
+ORD-00409,25/08/17,25/08/22,Standard Class,CUST-0129,Consumer,India,West,Gujarat,Ahmedabad,Office Supplies,Paper,A4 Paper Pack,1673.38,6,0.1,271.81,Net Banking
+ORD-00410,25/06/19,25/06/21,Standard Class,CUST-0170,Consumer,India,West,Madhya Pradesh,Indore,Technology,Accessories,USB-C Hub,7307.64,5,0,522.29,Net Banking
+ORD-00411,25/12/05,25/12/11,Same Day,CUST-0006,Consumer,India,West,Madhya Pradesh,Indore,Office Supplies,Binders,Ring Binder,953.96,8,0.15,-9.78,UPI
+ORD-00412,25/05/11,25/05/16,Unknown,CUST-0015,Consumer,India,West,Rajasthan,Jaipur,Technology,Computers,Laptop,162062.49,3,0,35355.48,Debit Card
+ORD-00413,25/07/04,25/07/09,First Class,CUST-0243,Consumer,India,West,Gujarat,Ahmedabad,Furniture,Furnishings,Desk Lamp,1057.88,1,0.2,65.96,Credit Card
+ORD-00414,26/04/05,26/04/10,Second Class,CUST-0160,Home Office,India,North,Uttar Pradesh,Lucknow,Office Supplies,Binders,Ring Binder,329.69,3,0.1,34.67,Cash
+ORD-00415,25/09/28,25/09/30,Standard Class,CUST-0052,Home Office,India,East,West Bengal,Kolkata,Office Supplies,Binders,Ring Binder,220.55,2,0.1,2.52,Cash
+ORD-00416,26/03/06,26/03/13,Standard Class,CUST-0024,Corporate,India,North,Delhi,New Delhi,Furniture,Furnishings,Desk Lamp,1716.13,2,0.15,132.94,Credit Card
+ORD-00417,26/09/10,26/09/15,Same Day,CUST-0059,Corporate,India,West,Maharashtra,Mumbai,Office Supplies,Storage,File Organizer,3027.51,7,0,543.52,Net Banking
+ORD-00418,25/12/25,25/12/30,Standard Class,CUST-0073,Home Office,India,West,Rajasthan,Jaipur,Technology,Accessories,Wireless Mouse,4050.25,7,0.1,559.63,Cash
+ORD-00419,26/02/23,26/02/26,Same Day,CUST-0168,Consumer,India,South,Karnataka,Bengaluru,Technology,Phones,Smartphone,18421.13,1,0,2651.77,Debit Card
+ORD-00420,26/02/23,26/02/26,Same Day,CUST-0145,Corporate,India,West,Madhya Pradesh,Indore,Technology,Computers,Laptop,380552.09,7,0.05,24644.77,Cash
+ORD-00421,25/10/10,25/10/16,First Class,CUST-0144,Home Office,India,West,Gujarat,Ahmedabad,Furniture,Chairs,Office Chair,34125.22,7,0.15,1842.54,Net Banking
+ORD-00422,25/09/17,25/09/20,Second Class,CUST-0115,Home Office,India,West,Rajasthan,Jaipur,Office Supplies,Paper,A4 Paper Pack,2098.64,7,0.2,-96.92,Credit Card
+ORD-00423,25/04/13,25/04/15,Standard Class,CUST-0042,Corporate,India,Central,Madhya Pradesh,Bhopal,Office Supplies,Storage,File Organizer,2943.69,6,0.15,285.28,UPI
+ORD-00424,25/04/04,25/04/11,Standard Class,CUST-0156,Consumer,India,North,Delhi,New Delhi,Office Supplies,Binders,Ring Binder,736.21,7,0.05,41.86,Net Banking
+ORD-00425,26/02/15,26/02/20,Same Day,CUST-0003,Consumer,India,Central,Madhya Pradesh,Bhopal,Furniture,Tables,Study Table,7029.03,1,0,1181.29,Cash
+ORD-00426,25/10/20,25/10/22,Second Class,CUST-0168,Consumer,India,West,Maharashtra,Mumbai,Furniture,Furnishings,Desk Lamp,3931.32,4,0.2,-246.84,Credit Card
+ORD-00427,25/03/30,25/04/02,Standard Class,CUST-0236,Consumer,India,West,Gujarat,Ahmedabad,Office Supplies,Paper,A4 Paper Pack,1904.41,7,0,273.38,Cash
+ORD-00428,25/10/19,25/10/25,Second Class,CUST-0117,Corporate,India,Central,Madhya Pradesh,Bhopal,Furniture,Furnishings,Desk Lamp,5439.18,6,0.05,314.16,Cash
+ORD-00429,25/01/05,25/01/08,Standard Class,CUST-0206,Home Office,India,North,Delhi,New Delhi,Office Supplies,Storage,File Organizer,915.83,2,0.15,14.97,Debit Card
+ORD-00430,26/07/05,26/07/12,Second Class,CUST-0194,Corporate,India,West,Rajasthan,Jaipur,Furniture,Tables,Study Table,56534.91,8,0.15,3065.66,Net Banking
+ORD-00431,26/04/17,26/04/22,Second Class,CUST-0174,Home Office,India,West,Maharashtra,Mumbai,Office Supplies,Binders,Ring Binder,222.56,2,0.1,24.87,Credit Card
+ORD-00432,25/11/20,25/11/24,Standard Class,CUST-0103,Home Office,India,East,West Bengal,Kolkata,Technology,Accessories,USB-C Hub,1696.39,1,0.05,105.43,Debit Card
+ORD-00433,25/03/19,25/03/24,Second Class,CUST-0128,Home Office,India,North,Delhi,New Delhi,Office Supplies,Binders,Ring Binder,688.36,6,0.15,7.79,Credit Card
+ORD-00434,25/08/29,25/09/04,First Class,CUST-0040,Consumer,India,South,Karnataka,Bengaluru,Furniture,Tables,Study Table,22785.3,4,0,4722.64,UPI
+ORD-00435,25/03/22,25/03/28,Same Day,CUST-0096,Home Office,India,North,Uttar Pradesh,Lucknow,Furniture,Furnishings,Desk Lamp,1025.31,1,0.15,152.87,Debit Card
+ORD-00436,26/05/20,26/05/25,Second Class,CUST-0193,Home Office,India,South,Tamil Nadu,Chennai,Office Supplies,Binders,Ring Binder,412.31,3,0.15,5.59,Credit Card
+ORD-00437,25/02/25,25/03/02,Second Class,CUST-0118,Consumer,India,West,Gujarat,Ahmedabad,Office Supplies,Binders,Ring Binder,120.09,1,0.1,18.86,Cash
+ORD-00438,26/04/17,26/04/20,First Class,CUST-0048,Home Office,India,West,Maharashtra,Mumbai,Technology,Phones,Smartphone,69395.64,4,0,7292.6,Debit Card
+ORD-00439,25/08/31,25/09/03,Same Day,CUST-0180,Corporate,India,North,Uttar Pradesh,Lucknow,Furniture,Furnishings,Desk Lamp,5470.73,6,0.1,381.79,Debit Card
+ORD-00440,26/02/15,26/02/18,Standard Class,CUST-0185,Corporate,India,North,Uttar Pradesh,Lucknow,Technology,Computers,Laptop,178429.95,3,0.2,-4333.47,Credit Card
+ORD-00441,26/07/23,26/07/27,Standard Class,CUST-0046,Corporate,India,West,Gujarat,Ahmedabad,Furniture,Chairs,Office Chair,15696.16,3,0.2,-629.27,Net Banking
+ORD-00442,25/05/18,25/05/25,Standard Class,CUST-0102,Consumer,India,Central,Madhya Pradesh,Bhopal,Technology,Accessories,USB-C Hub,10421.76,6,0.05,653.39,Credit Card
+ORD-00443,25/03/03,25/03/05,First Class,CUST-0144,Home Office,India,South,Tamil Nadu,Chennai,Office Supplies,Binders,Ring Binder,236.39,2,0.05,15.24,Debit Card
+ORD-00444,25/12/19,25/12/20,Second Class,CUST-0200,Corporate,India,West,Gujarat,Ahmedabad,Technology,Accessories,Wireless Mouse,4329.82,6,0.15,-11.73,Debit Card
+ORD-00445,25/11/29,25/12/05,Same Day,CUST-0162,Consumer,India,Central,Madhya Pradesh,Bhopal,Office Supplies,Binders,Ring Binder,1072.21,8,0.1,115.51,Credit Card
+ORD-00446,25/12/12,25/12/16,First Class,CUST-0059,Corporate,India,West,Rajasthan,Jaipur,Furniture,Furnishings,Desk Lamp,7346.06,7,0,410.07,Debit Card
+ORD-00447,25/10/26,25/11/01,First Class,CUST-0192,Home Office,India,South,Tamil Nadu,Chennai,Furniture,Furnishings,Desk Lamp,6193.64,7,0.1,874.51,Cash
+ORD-00448,26/04/07,26/04/11,Standard Class,CUST-0054,Consumer,India,North,Delhi,New Delhi,Technology,Computers,Laptop,46150.62,1,0,7956.58,Net Banking
+ORD-00449,25/04/16,25/04/17,Standard Class,CUST-0027,Corporate,India,West,Madhya Pradesh,Indore,Office Supplies,Binders,Ring Binder,102.95,1,0.1,9.24,Cash
+ORD-00450,25/06/09,25/06/10,Second Class,CUST-0034,Home Office,India,West,Gujarat,Ahmedabad,Furniture,Tables,Study Table,22920.63,4,0.05,2318.01,Credit Card
+ORD-00451,25/01/30,25/01/31,Same Day,CUST-0035,Home Office,India,East,West Bengal,Kolkata,Office Supplies,Paper,A4 Paper Pack,2217.95,8,0.15,320.43,Cash
+ORD-00452,25/07/01,25/07/06,First Class,CUST-0124,Home Office,India,West,Rajasthan,Jaipur,Office Supplies,Binders,Ring Binder,845.91,7,0.2,31.09,Credit Card
+ORD-00453,25/04/02,25/04/06,Second Class,CUST-0089,Corporate,India,South,Tamil Nadu,Chennai,Office Supplies,Paper,A4 Paper Pack,1818.77,7,0.05,26.57,Net Banking
+ORD-00454,26/07/02,26/07/03,Second Class,CUST-0204,Consumer,India,North,Uttar Pradesh,Lucknow,Office Supplies,Binders,Ring Binder,511.64,5,0.1,73.98,Cash
+ORD-00455,26/01/18,26/01/20,Same Day,CUST-0213,Corporate,India,West,Gujarat,Ahmedabad,Technology,Accessories,USB-C Hub,10846.37,7,0,1984.75,Credit Card
+ORD-00456,25/09/27,25/09/28,First Class,CUST-0106,Consumer,India,West,Gujarat,Ahmedabad,Furniture,Chairs,Office Chair,22449.67,5,0.2,816.92,UPI
+ORD-00457,25/07/06,25/07/08,Same Day,CUST-0049,Corporate,India,South,Tamil Nadu,Chennai,Technology,Accessories,Wireless Mouse,5383.66,8,0.05,821.52,UPI
+ORD-00458,25/06/05,25/06/06,Same Day,CUST-0187,Consumer,India,Central,Madhya Pradesh,Bhopal,Technology,Phones,Smartphone,61651.79,3,0.05,4089.92,Credit Card
+ORD-00459,25/04/03,25/04/05,Same Day,CUST-0096,Corporate,India,West,Maharashtra,Mumbai,Office Supplies,Binders,Ring Binder,457.24,4,0.05,77.57,UPI
+ORD-00460,25/12/05,25/12/06,Second Class,CUST-0050,Corporate,India,North,Delhi,New Delhi,Technology,Phones,Smartphone,97442.63,5,0,14483.72,Net Banking
+ORD-00461,25/01/13,25/01/14,Standard Class,CUST-0134,Home Office,India,South,Karnataka,Bengaluru,Office Supplies,Storage,File Organizer,3326.94,8,0,265.61,Credit Card
+ORD-00462,26/04/30,26/05/04,Standard Class,CUST-0065,Corporate,India,South,Tamil Nadu,Chennai,Office Supplies,Paper,A4 Paper Pack,872.55,3,0,164.86,Debit Card
+ORD-00463,25/07/23,25/07/26,Second Class,CUST-0204,Corporate,India,West,Maharashtra,Mumbai,Furniture,Chairs,Office Chair,8839.58,2,0.1,441.12,Cash
+ORD-00464,25/05/03,25/05/07,Second Class,CUST-0096,Consumer,India,South,Karnataka,Bengaluru,Technology,Phones,Smartphone,18437.82,1,0.2,461.94,Credit Card
+ORD-00465,25/06/11,25/06/15,First Class,CUST-0166,Consumer,India,West,Madhya Pradesh,Indore,Furniture,Furnishings,Desk Lamp,6436.75,6,0.2,-373.26,Cash
+ORD-00466,25/04/20,25/04/22,Same Day,CUST-0188,Consumer,India,North,Uttar Pradesh,Lucknow,Furniture,Chairs,Office Chair,32961.68,6,0.2,2681.09,UPI
+ORD-00467,26/01/22,26/01/25,Same Day,CUST-0049,Home Office,India,North,Delhi,New Delhi,Furniture,Tables,Study Table,6172.66,1,0.1,597.54,Credit Card
+ORD-00468,26/07/11,26/07/14,Second Class,CUST-0018,Home Office,India,East,West Bengal,Kolkata,Office Supplies,Binders,Ring Binder,666.18,5,0.15,93.53,Credit Card
+ORD-00469,26/04/06,26/04/09,Second Class,CUST-0227,Consumer,India,South,Tamil Nadu,Unknown,Technology,Accessories,USB-C Hub,9467.75,6,0.2,295.31,Cash
+ORD-00470,26/01/08,26/01/15,Same Day,CUST-0049,Home Office,India,West,Rajasthan,Jaipur,Furniture,Chairs,Office Chair,30709.47,6,0.2,3790.55,Net Banking
+ORD-00471,26/07/19,26/07/21,Standard Class,CUST-0012,Consumer,India,West,Rajasthan,Jaipur,Furniture,Tables,Study Table,36193.42,6,0.05,1252.03,Credit Card
+ORD-00472,25/02/02,25/02/04,Same Day,CUST-0169,Corporate,India,West,Madhya Pradesh,Indore,Office Supplies,Binders,Ring Binder,422.22,4,0.15,36.25,Cash
+ORD-00473,26/10/01,26/10/07,Standard Class,CUST-0239,Consumer,India,West,Rajasthan,Jaipur,Furniture,Tables,Study Table,5951.42,1,0.15,601.5,Net Banking
+ORD-00474,25/03/23,25/03/27,First Class,CUST-0136,Consumer,India,West,Maharashtra,Mumbai,Office Supplies,Paper,A4 Paper Pack,2149.35,7,0.2,-125.39,UPI
+ORD-00475,25/11/08,25/11/09,Second Class,CUST-0050,Home Office,India,South,Karnataka,Bengaluru,Technology,Accessories,USB-C Hub,2817.18,2,0,412.24,Credit Card
+ORD-00476,26/08/07,26/08/13,Same Day,CUST-0180,Home Office,India,North,Delhi,New Delhi,Technology,Accessories,USB-C Hub,12026.92,7,0.2,544.97,Net Banking
+ORD-00477,25/04/17,25/04/19,Same Day,CUST-0239,Corporate,India,North,Delhi,New Delhi,Technology,Accessories,USB-C Hub,11215.77,7,0.2,-430.29,Debit Card
+ORD-00478,26/07/18,26/07/21,Second Class,CUST-0097,Home Office,India,East,West Bengal,Kolkata,Office Supplies,Storage,File Organizer,3458.22,7,0.05,464.03,Debit Card
+ORD-00479,26/01/04,26/01/08,Second Class,CUST-0228,Corporate,India,North,Uttar Pradesh,Lucknow,Office Supplies,Storage,File Organizer,480.55,1,0.05,63.27,UPI
+ORD-00480,25/11/04,25/11/06,Second Class,CUST-0025,Consumer,India,South,Karnataka,Bengaluru,Office Supplies,Paper,A4 Paper Pack,302.81,1,0.2,28.61,Net Banking
+ORD-00481,25/12/31,26/01/02,First Class,CUST-0024,Home Office,India,North,Delhi,New Delhi,Furniture,Tables,Study Table,41548.22,6,0,3598.03,Net Banking
+ORD-00482,26/08/06,26/08/08,Standard Class,CUST-0153,Home Office,India,West,Madhya Pradesh,Indore,Office Supplies,Paper,A4 Paper Pack,2020.19,8,0.2,142.56,Debit Card
+ORD-00483,25/02/08,25/02/14,Same Day,CUST-0107,Consumer,India,West,Rajasthan,Jaipur,Office Supplies,Storage,File Organizer,975.63,2,0.05,80.09,Credit Card
+ORD-00484,26/09/09,26/09/10,Second Class,CUST-0084,Home Office,India,West,Gujarat,Ahmedabad,Technology,Phones,Smartphone,90658.35,5,0.05,10923.06,Credit Card
+ORD-00485,25/06/06,25/06/07,Second Class,CUST-0034,Corporate,India,West,Gujarat,Ahmedabad,Office Supplies,Binders,Ring Binder,219.99,2,0.05,37.35,UPI
+ORD-00486,26/05/03,26/05/08,Second Class,CUST-0196,Consumer,India,West,Maharashtra,Mumbai,Technology,Accessories,USB-C Hub,10402.19,7,0.1,887.98,Net Banking
+ORD-00487,26/07/27,26/07/29,Second Class,CUST-0019,Corporate,India,North,Uttar Pradesh,Lucknow,Office Supplies,Storage,File Organizer,1833.03,4,0.2,63.88,Net Banking
+ORD-00488,25/11/28,25/12/04,Second Class,CUST-0083,Corporate,India,West,Rajasthan,Jaipur,Technology,Accessories,Wireless Mouse,1366.98,2,0.1,79.36,Cash
+ORD-00489,25/01/25,25/02/01,Same Day,CUST-0012,Consumer,India,South,Tamil Nadu,Chennai,Technology,Computers,Laptop,322878.29,6,0.1,35399.22,Credit Card
+ORD-00490,26/01/18,26/01/20,First Class,CUST-0004,Corporate,India,West,Madhya Pradesh,Indore,Technology,Accessories,Wireless Mouse,599.89,1,0.15,85.69,UPI
+ORD-00491,25/11/09,25/11/13,First Class,CUST-0141,Corporate,India,North,Uttar Pradesh,Lucknow,Technology,Phones,Smartphone,98571.91,6,0.15,-12.32,Cash
+ORD-00492,25/05/25,25/05/31,First Class,CUST-0014,Corporate,India,West,Maharashtra,Mumbai,Office Supplies,Storage,File Organizer,416.99,1,0,40.37,UPI
+ORD-00493,25/03/10,25/03/14,Same Day,CUST-0131,Home Office,India,South,Tamil Nadu,Chennai,Office Supplies,Paper,A4 Paper Pack,479.21,2,0.2,3.5,UPI
+ORD-00494,25/11/20,25/11/24,Standard Class,CUST-0011,Consumer,India,West,Rajasthan,Jaipur,Technology,Accessories,USB-C Hub,2898.96,2,0.15,437.33,Cash
+ORD-00495,25/11/09,25/11/12,First Class,CUST-0061,Home Office,India,North,Uttar Pradesh,Lucknow,Office Supplies,Storage,File Organizer,1154.94,3,0.2,0.44,Debit Card
+ORD-00496,25/03/05,25/03/11,First Class,CUST-0230,Corporate,India,South,Tamil Nadu,Chennai,Office Supplies,Storage,File Organizer,509.96,1,0.05,29.38,Credit Card
+ORD-00497,25/03/31,25/04/06,First Class,CUST-0233,Home Office,India,West,Gujarat,Ahmedabad,Technology,Accessories,USB-C Hub,6241.28,4,0.15,-74.58,Debit Card
+ORD-00498,26/04/05,26/04/10,Second Class,CUST-0080,Home Office,India,North,Delhi,New Delhi,Furniture,Chairs,Office Chair,14750.05,3,0.2,1327.81,Cash
+ORD-00499,25/05/19,25/05/23,Standard Class,CUST-0048,Corporate,India,North,Delhi,New Delhi,Furniture,Furnishings,Desk Lamp,2693.96,3,0.15,172.66,Credit Card
+ORD-00500,25/01/31,25/02/07,First Class,CUST-0039,Consumer,India,East,West Bengal,Kolkata,Office Supplies,Storage,File Organizer,2964.16,7,0.2,346.08,UPI
+ORD-00501,25/05/15,25/05/17,Second Class,CUST-0060,Home Office,India,West,Maharashtra,Mumbai,Furniture,Furnishings,Desk Lamp,4900.49,5,0.15,18.04,UPI
+ORD-00502,26/01/03,26/01/04,Same Day,CUST-0126,Corporate,India,North,Uttar Pradesh,Lucknow,Technology,Computers,Laptop,442459.99,8,0.05,21811.2,Credit Card
+ORD-00503,25/06/17,25/06/19,Same Day,CUST-0057,Home Office,India,South,Karnataka,Bengaluru,Technology,Phones,Smartphone,135999.57,7,0,30611.74,Credit Card
+ORD-00504,25/07/29,25/07/30,Same Day,CUST-0104,Consumer,India,North,Delhi,New Delhi,Office Supplies,Binders,Ring Binder,1014.1,8,0.1,164.81,Cash
+ORD-00505,26/01/25,26/01/31,Standard Class,CUST-0225,Consumer,India,East,West Bengal,Kolkata,Office Supplies,Storage,File Organizer,452.79,1,0.1,34.58,Cash
+ORD-00506,26/07/05,26/07/09,Second Class,CUST-0075,Corporate,India,West,Maharashtra,Mumbai,Technology,Accessories,USB-C Hub,11254.19,7,0.2,1378.85,Net Banking
+ORD-00507,25/11/08,25/11/15,Second Class,CUST-0119,Home Office,India,South,Tamil Nadu,Chennai,Office Supplies,Binders,Ring Binder,351.63,3,0.15,49.69,Net Banking
+ORD-00508,25/04/03,25/04/09,Same Day,CUST-0106,Corporate,India,Central,Madhya Pradesh,Bhopal,Technology,Accessories,Wireless Mouse,2113.06,3,0.2,83,Net Banking
+ORD-00509,25/01/26,25/01/28,Second Class,CUST-0184,Home Office,India,North,Uttar Pradesh,Lucknow,Furniture,Furnishings,Desk Lamp,4236.11,4,0,381.32,UPI
+ORD-00510,25/04/04,25/04/05,Second Class,CUST-0097,Home Office,India,North,Uttar Pradesh,Lucknow,Office Supplies,Paper,A4 Paper Pack,564,2,0.1,73.53,Net Banking
+ORD-00511,25/02/14,25/02/21,Standard Class,CUST-0108,Corporate,India,North,Delhi,New Delhi,Office Supplies,Paper,A4 Paper Pack,754.86,3,0,57.2,Debit Card
+ORD-00512,26/04/02,26/04/05,First Class,CUST-0004,Corporate,India,North,Delhi,New Delhi,Technology,Accessories,Wireless Mouse,2219.35,3,0,365.11,Net Banking
+ORD-00513,26/05/26,26/05/31,Same Day,CUST-0105,Corporate,India,West,Maharashtra,Mumbai,Furniture,Furnishings,Desk Lamp,7002.36,8,0.15,625.97,UPI
+ORD-00514,26/09/08,26/09/13,Unknown,CUST-0013,Consumer,India,West,Maharashtra,Mumbai,Furniture,Chairs,Office Chair,24862.32,5,0.15,3021.38,Credit Card
+ORD-00515,25/02/26,25/03/04,First Class,CUST-0085,Consumer,India,East,West Bengal,Kolkata,Technology,Phones,Smartphone,59732.03,3,0.2,2724.89,UPI
+ORD-00516,25/04/22,25/04/26,Second Class,CUST-0248,Corporate,India,North,Delhi,New Delhi,Technology,Computers,Laptop,268665,5,0.2,18798.32,Cash
+ORD-00517,26/01/04,26/01/05,Same Day,CUST-0216,Home Office,India,West,Madhya Pradesh,Indore,Furniture,Tables,Study Table,35733.23,6,0.1,5326.14,UPI
+ORD-00518,25/10/27,25/10/31,Second Class,CUST-0157,Consumer,India,North,Delhi,New Delhi,Technology,Accessories,Wireless Mouse,3083.48,5,0.1,277.3,UPI
+ORD-00519,26/08/09,26/08/15,First Class,CUST-0110,Home Office,India,Central,Madhya Pradesh,Bhopal,Technology,Accessories,Wireless Mouse,5549.56,8,0.15,800.68,Debit Card
+ORD-00520,25/09/23,25/09/28,Same Day,CUST-0127,Consumer,India,West,Rajasthan,Jaipur,Furniture,Furnishings,Desk Lamp,6430.35,6,0.15,450.3,Cash
+ORD-00521,25/08/27,25/09/02,Standard Class,CUST-0189,Consumer,India,South,Tamil Nadu,Chennai,Furniture,Chairs,Office Chair,4250.22,1,0.1,467.92,Cash
+ORD-00522,26/03/01,26/03/05,Unknown,CUST-0177,Corporate,India,West,Maharashtra,Mumbai,Office Supplies,Paper,A4 Paper Pack,1710.45,6,0.2,-47.09,Debit Card
+ORD-00523,25/03/11,25/03/14,First Class,CUST-0102,Home Office,India,South,Tamil Nadu,Chennai,Technology,Accessories,USB-C Hub,10369.05,6,0,1837.06,Cash
+ORD-00524,26/09/23,26/09/24,Same Day,CUST-0205,Consumer,India,North,Delhi,New Delhi,Furniture,Chairs,Office Chair,31684.25,6,0.2,818.14,Credit Card
+ORD-00525,26/05/09,26/05/11,Standard Class,CUST-0214,Home Office,India,North,Uttar Pradesh,Lucknow,Technology,Accessories,USB-C Hub,9491.91,6,0.1,1618.92,Debit Card
+ORD-00526,26/08/02,26/08/08,First Class,CUST-0017,Consumer,India,East,West Bengal,Kolkata,Technology,Accessories,USB-C Hub,1459.97,1,0.2,-5.34,Debit Card
+ORD-00527,25/02/01,25/02/04,Standard Class,CUST-0222,Corporate,India,West,Gujarat,Ahmedabad,Technology,Accessories,USB-C Hub,4902.21,3,0.1,110.18,Debit Card
+ORD-00528,25/02/02,25/02/05,First Class,CUST-0056,Home Office,India,West,Gujarat,Ahmedabad,Technology,Accessories,Wireless Mouse,5788.2,8,0.05,595.5,Debit Card
+ORD-00529,25/06/29,25/06/30,Same Day,CUST-0232,Home Office,India,East,West Bengal,Kolkata,Technology,Phones,Smartphone,80928.44,4,0.1,6975.95,Credit Card
+ORD-00530,25/07/14,25/07/17,Standard Class,CUST-0211,Home Office,India,North,Uttar Pradesh,Lucknow,Technology,Accessories,USB-C Hub,8661.28,5,0,1679.39,Credit Card
+ORD-00531,25/07/30,25/08/05,First Class,CUST-0239,Consumer,India,West,Maharashtra,Mumbai,Office Supplies,Binders,Ring Binder,893.85,7,0.15,-17.28,Cash
+ORD-00532,25/03/31,25/04/03,Standard Class,CUST-0148,Corporate,India,North,Uttar Pradesh,Lucknow,Technology,Phones,Smartphone,36222.24,2,0.2,2865.58,Credit Card
+ORD-00533,25/11/25,25/11/27,First Class,CUST-0039,Consumer,India,South,Karnataka,Bengaluru,Furniture,Tables,Study Table,31300.16,5,0.1,3731.76,Debit Card
+ORD-00534,25/04/28,25/04/29,First Class,CUST-0037,Home Office,India,West,Rajasthan,Jaipur,Technology,Accessories,USB-C Hub,2918.31,2,0.05,357.12,Debit Card
+ORD-00535,26/08/11,26/08/13,Standard Class,CUST-0034,Consumer,India,North,Delhi,New Delhi,Technology,Accessories,Wireless Mouse,3360.43,5,0.05,405.32,Net Banking
+ORD-00536,25/02/21,25/02/22,Same Day,CUST-0158,Corporate,India,West,Gujarat,Ahmedabad,Technology,Phones,Smartphone,35205.83,2,0,6369.99,Debit Card
+ORD-00537,25/12/07,25/12/14,Standard Class,CUST-0209,Home Office,India,South,Karnataka,Bengaluru,Technology,Accessories,USB-C Hub,3654.73,2,0.1,360.2,Net Banking
+ORD-00538,25/04/10,25/04/14,First Class,CUST-0234,Corporate,India,South,Tamil Nadu,Chennai,Office Supplies,Binders,Ring Binder,882.73,8,0,60.68,Net Banking
+ORD-00539,25/07/07,25/07/13,First Class,CUST-0123,Corporate,India,East,West Bengal,Kolkata,Office Supplies,Paper,A4 Paper Pack,2231.6,8,0,301.42,Credit Card
+ORD-00540,25/10/17,25/10/24,Standard Class,CUST-0084,Home Office,India,East,West Bengal,Kolkata,Furniture,Furnishings,Desk Lamp,2856.8,3,0.1,424.27,UPI
+ORD-00541,25/11/06,25/11/11,Same Day,CUST-0099,Consumer,India,North,Uttar Pradesh,Lucknow,Office Supplies,Storage,File Organizer,2902.95,7,0,434.25,Debit Card
+ORD-00542,25/08/02,25/08/09,Second Class,CUST-0045,Home Office,India,West,Rajasthan,Jaipur,Office Supplies,Storage,File Organizer,3213.51,7,0.05,390.14,UPI
+ORD-00543,26/08/11,26/08/18,Second Class,CUST-0079,Corporate,India,North,Uttar Pradesh,Lucknow,Technology,Accessories,Wireless Mouse,4927.59,8,0,1007.22,UPI
+ORD-00544,26/09/05,26/09/06,Second Class,CUST-0210,Consumer,India,West,Rajasthan,Jaipur,Office Supplies,Storage,File Organizer,2695.38,6,0.2,-155.53,Cash
+ORD-00545,25/01/01,25/01/08,Same Day,CUST-0051,Consumer,India,North,Delhi,New Delhi,Technology,Computers,Laptop,419900.73,8,0.1,45397.33,Debit Card
+ORD-00546,25/11/03,25/11/08,Same Day,CUST-0217,Consumer,India,South,Tamil Nadu,Chennai,Office Supplies,Storage,File Organizer,3097.13,6,0.15,-126.6,Debit Card
+ORD-00547,25/03/05,25/03/08,First Class,CUST-0222,Consumer,India,Central,Madhya Pradesh,Bhopal,Technology,Phones,Smartphone,19098.11,1,0.05,657.73,Credit Card
+ORD-00548,26/03/19,26/03/25,Second Class,CUST-0170,Consumer,India,West,Rajasthan,Jaipur,Office Supplies,Storage,File Organizer,2871.54,6,0.1,176.06,Net Banking
+ORD-00549,25/05/23,25/05/25,Second Class,CUST-0035,Consumer,India,Central,Madhya Pradesh,Bhopal,Office Supplies,Storage,File Organizer,2975.37,6,0,290.68,UPI
+ORD-00550,25/01/17,25/01/19,Same Day,CUST-0229,Home Office,India,North,Uttar Pradesh,Lucknow,Office Supplies,Storage,File Organizer,1181.79,3,0.2,107.77,Cash
+ORD-00551,26/03/12,26/03/17,Second Class,CUST-0048,Corporate,India,North,Delhi,New Delhi,Office Supplies,Binders,Ring Binder,853.12,7,0.1,52.84,Cash
+ORD-00552,25/01/08,25/01/13,Standard Class,CUST-0010,Home Office,India,North,Uttar Pradesh,Lucknow,Furniture,Chairs,Office Chair,23358.03,5,0.15,1699.77,Net Banking
+ORD-00553,26/01/13,26/01/14,First Class,CUST-0120,Home Office,India,West,Rajasthan,Jaipur,Office Supplies,Binders,Ring Binder,214.23,2,0.2,7.56,UPI
+ORD-00554,26/06/20,26/06/25,Standard Class,CUST-0176,Home Office,India,West,Madhya Pradesh,Indore,Furniture,Chairs,Office Chair,39905.24,8,0.2,4871.72,Cash
+ORD-00555,26/08/17,26/08/20,Same Day,CUST-0147,Home Office,India,West,Rajasthan,Jaipur,Technology,Phones,Smartphone,109135.08,6,0,14599.41,Debit Card
+ORD-00556,26/03/08,26/03/11,First Class,CUST-0016,Home Office,India,South,Tamil Nadu,Chennai,Furniture,Tables,Study Table,16007.12,3,0.15,1718.93,Net Banking
+ORD-00557,26/08/16,26/08/18,Same Day,CUST-0022,Consumer,India,West,Rajasthan,Jaipur,Technology,Phones,Smartphone,98340.19,5,0.15,-3642.56,Cash
+ORD-00558,25/03/20,25/03/27,Standard Class,CUST-0190,Consumer,India,South,Tamil Nadu,Chennai,Furniture,Tables,Study Table,19246.15,3,0.05,3542.67,Cash
+ORD-00559,25/06/28,25/07/03,Second Class,CUST-0125,Consumer,India,North,Delhi,New Delhi,Office Supplies,Binders,Ring Binder,786.49,6,0.05,132.92,Cash
+ORD-00560,25/02/03,25/02/06,Second Class,CUST-0170,Corporate,India,West,Madhya Pradesh,Indore,Technology,Computers,Laptop,171800.35,3,0.1,23892.89,Credit Card
+ORD-00561,25/08/04,25/08/09,Same Day,CUST-0103,Corporate,India,East,West Bengal,Kolkata,Technology,Phones,Smartphone,96898.07,5,0,4893.8,Debit Card
+ORD-00562,26/05/03,26/05/09,Second Class,CUST-0136,Corporate,India,Central,Madhya Pradesh,Bhopal,Furniture,Chairs,Office Chair,35449.78,7,0.1,2833.07,UPI
+ORD-00563,25/10/23,25/10/30,Standard Class,CUST-0235,Unknown,India,North,Uttar Pradesh,Lucknow,Office Supplies,Storage,File Organizer,3074.03,6,0.2,372.49,Debit Card
+ORD-00564,26/03/19,26/03/24,Same Day,CUST-0119,Home Office,India,South,Tamil Nadu,Chennai,Office Supplies,Paper,A4 Paper Pack,1302.18,5,0,118.59,Credit Card
+ORD-00565,26/08/26,26/09/02,Standard Class,CUST-0173,Consumer,India,South,Karnataka,Bengaluru,Technology,Accessories,USB-C Hub,10111.83,6,0,1038.02,UPI
+ORD-00566,25/01/13,25/01/17,First Class,CUST-0065,Consumer,India,West,Madhya Pradesh,Indore,Technology,Accessories,USB-C Hub,3378.08,2,0.05,190.47,UPI
+ORD-00567,25/01/25,25/01/30,Standard Class,CUST-0023,Home Office,India,West,Madhya Pradesh,Indore,Technology,Phones,Smartphone,81730.56,4,0.2,-3730.34,Credit Card
+ORD-00568,26/01/20,26/01/26,Standard Class,CUST-0164,Corporate,India,West,Rajasthan,Jaipur,Technology,Computers,Laptop,110104.39,2,0.05,7862.96,Debit Card
+ORD-00569,26/03/14,26/03/20,Same Day,CUST-0100,Corporate,India,East,West Bengal,Kolkata,Furniture,Tables,Study Table,20166.48,3,0.05,3386.38,UPI
+ORD-00570,25/09/22,25/09/29,Second Class,CUST-0166,Corporate,India,South,Tamil Nadu,Chennai,Technology,Computers,Laptop,362260.93,8,0,58708.14,UPI
+ORD-00571,25/05/28,25/06/02,Standard Class,CUST-0019,Consumer,India,West,Gujarat,Ahmedabad,Furniture,Chairs,Office Chair,10788.31,2,0.2,-196.36,Cash
+ORD-00572,25/09/14,25/09/21,Standard Class,CUST-0171,Corporate,India,North,Uttar Pradesh,Lucknow,Technology,Phones,Smartphone,128830.5,8,0.2,-8995.78,Debit Card
+ORD-00573,25/06/05,25/06/11,Same Day,CUST-0217,Home Office,India,East,West Bengal,Kolkata,Office Supplies,Storage,File Organizer,452.08,1,0.1,36.45,UPI
+ORD-00574,26/07/08,26/07/10,First Class,CUST-0086,Home Office,India,West,Maharashtra,Mumbai,Office Supplies,Storage,File Organizer,3190.9,8,0.15,461.11,Debit Card
+ORD-00575,26/02/15,26/02/16,First Class,CUST-0166,Consumer,India,West,Madhya Pradesh,Indore,Office Supplies,Paper,A4 Paper Pack,1468.55,6,0.1,201.32,Credit Card
+ORD-00576,26/07/22,26/07/23,First Class,CUST-0125,Consumer,India,West,Gujarat,Ahmedabad,Furniture,Chairs,Office Chair,25410.35,5,0,4221.25,Net Banking
+ORD-00577,25/07/14,25/07/16,Same Day,CUST-0017,Home Office,India,West,Maharashtra,Mumbai,Furniture,Chairs,Office Chair,5116.42,1,0.15,26.59,Debit Card
+ORD-00578,26/05/27,26/06/01,Standard Class,CUST-0104,Consumer,India,North,Uttar Pradesh,Lucknow,Technology,Phones,Smartphone,17132.14,1,0.05,2913.42,Credit Card
+ORD-00579,26/06/20,26/06/24,Same Day,CUST-0168,Consumer,India,Central,Madhya Pradesh,Bhopal,Technology,Computers,Laptop,234508.51,4,0,43874.65,Net Banking
+ORD-00580,26/09/26,26/09/27,Standard Class,CUST-0117,Home Office,India,South,Karnataka,Bengaluru,Technology,Computers,Laptop,46887.08,1,0,10358.88,Credit Card
+ORD-00581,26/08/29,26/08/30,Second Class,CUST-0110,Corporate,India,West,Madhya Pradesh,Indore,Technology,Accessories,Wireless Mouse,5348.16,8,0.15,8.63,Net Banking
+ORD-00582,25/11/29,25/11/30,Second Class,CUST-0086,Consumer,India,West,Rajasthan,Jaipur,Technology,Accessories,USB-C Hub,4543.09,3,0,876.11,UPI
+ORD-00583,25/10/08,25/10/10,Standard Class,CUST-0035,Consumer,India,West,Gujarat,Ahmedabad,Technology,Computers,Laptop,316998.96,6,0.1,10692.03,Cash
+ORD-00584,26/01/21,26/01/28,Standard Class,CUST-0181,Home Office,India,North,Delhi,New Delhi,Technology,Phones,Smartphone,125887.22,8,0,9552.65,Cash
+ORD-00585,25/10/18,25/10/22,Same Day,CUST-0062,Consumer,India,North,Uttar Pradesh,Lucknow,Technology,Computers,Laptop,185728.68,4,0.05,21752.06,Cash
+ORD-00586,25/02/08,25/02/13,Standard Class,CUST-0143,Consumer,India,North,Delhi,New Delhi,Office Supplies,Binders,Ring Binder,249.16,2,0.05,20.45,Credit Card
+ORD-00587,25/05/01,25/05/06,Same Day,CUST-0198,Home Office,India,West,Madhya Pradesh,Unknown,Furniture,Furnishings,Desk Lamp,6320.27,6,0.15,372.95,Credit Card
+ORD-00588,25/10/11,25/10/12,Second Class,CUST-0172,Consumer,India,South,Karnataka,Bengaluru,Technology,Accessories,Wireless Mouse,2058.37,3,0.1,173.94,UPI
+ORD-00589,26/01/08,26/01/11,Standard Class,CUST-0237,Home Office,India,South,Karnataka,Bengaluru,Office Supplies,Storage,File Organizer,2138.15,5,0.1,-13.55,Credit Card
+ORD-00590,25/06/11,25/06/18,First Class,CUST-0108,Consumer,India,West,Maharashtra,Mumbai,Office Supplies,Binders,Ring Binder,209.1,2,0,38.53,Debit Card
+ORD-00591,25/08/24,25/08/31,Second Class,CUST-0097,Consumer,India,West,Madhya Pradesh,Indore,Office Supplies,Paper,A4 Paper Pack,984.95,4,0.2,12.33,UPI
+ORD-00592,26/04/28,26/05/03,Same Day,CUST-0096,Consumer,India,North,Uttar Pradesh,Lucknow,Technology,Phones,Smartphone,112578.78,7,0.15,5459.87,Net Banking
+ORD-00593,25/07/18,25/07/24,Standard Class,CUST-0072,Consumer,India,East,West Bengal,Kolkata,Furniture,Tables,Study Table,23579.03,4,0,4207.49,UPI
+ORD-00594,26/04/22,26/04/26,Second Class,CUST-0148,Home Office,India,West,Gujarat,Ahmedabad,Technology,Computers,Laptop,285778.29,6,0.05,38073.44,Credit Card
+ORD-00595,25/03/30,25/04/03,Same Day,CUST-0189,Consumer,India,Central,Madhya Pradesh,Bhopal,Office Supplies,Binders,Ring Binder,493.19,4,0.1,20.14,Credit Card
+ORD-00596,25/12/02,25/12/06,Standard Class,CUST-0011,Corporate,India,West,Rajasthan,Jaipur,Furniture,Chairs,Office Chair,16187.42,3,0,2000.03,Cash
+ORD-00597,25/02/04,25/02/08,Same Day,CUST-0127,Consumer,India,Central,Madhya Pradesh,Bhopal,Office Supplies,Storage,File Organizer,3934.49,8,0.2,370.86,UPI
+ORD-00598,26/07/26,26/08/02,Standard Class,CUST-0005,Corporate,India,West,Maharashtra,Mumbai,Office Supplies,Storage,File Organizer,1601.66,4,0.05,96.6,Debit Card
+ORD-00599,25/06/15,25/06/21,Same Day,CUST-0048,Corporate,India,North,Uttar Pradesh,Lucknow,Furniture,Furnishings,Desk Lamp,1085.78,1,0.1,151.32,Net Banking
+ORD-00600,26/10/11,26/10/12,First Class,CUST-0179,Home Office,India,West,Madhya Pradesh,Indore,Office Supplies,Storage,File Organizer,2725.05,6,0.05,266.18,Cash
+ORD-00601,26/08/13,26/08/20,First Class,CUST-0228,Consumer,India,South,Karnataka,Bengaluru,Technology,Accessories,Wireless Mouse,4175.84,6,0,596.93,UPI
+ORD-00602,26/01/28,26/01/31,Standard Class,CUST-0144,Home Office,India,North,Uttar Pradesh,Lucknow,Furniture,Furnishings,Desk Lamp,911.69,1,0,154.65,Credit Card
+ORD-00603,25/05/22,25/05/25,Second Class,CUST-0193,Home Office,India,South,Karnataka,Bengaluru,Technology,Accessories,USB-C Hub,3343.08,2,0.2,393.91,Credit Card
+ORD-00604,25/11/25,25/11/28,Same Day,CUST-0125,Home Office,India,South,Tamil Nadu,Chennai,Technology,Accessories,USB-C Hub,10451.21,7,0,1197.32,Cash
+ORD-00605,25/05/06,25/05/10,Standard Class,CUST-0049,Corporate,India,Central,Madhya Pradesh,Bhopal,Technology,Accessories,USB-C Hub,7884.75,5,0.05,1359.97,UPI
+ORD-00606,25/03/24,25/03/28,Second Class,CUST-0128,Consumer,India,North,Delhi,New Delhi,Furniture,Tables,Study Table,10946.84,2,0.05,382.1,Credit Card
+ORD-00607,26/06/18,26/06/24,Same Day,CUST-0089,Corporate,India,West,Maharashtra,Mumbai,Furniture,Tables,Study Table,49513.86,7,0.15,7122.29,Net Banking
+ORD-00608,25/01/22,25/01/25,First Class,CUST-0106,Home Office,India,South,Karnataka,Bengaluru,Technology,Accessories,Wireless Mouse,722.5,1,0,149.55,Debit Card
+ORD-00609,25/12/01,25/12/05,First Class,CUST-0044,Corporate,India,West,Rajasthan,Jaipur,Technology,Accessories,USB-C Hub,12638.75,8,0.15,-203.6,Credit Card
+ORD-00610,26/05/11,26/05/14,Second Class,CUST-0183,Home Office,India,South,Tamil Nadu,Chennai,Technology,Phones,Smartphone,51620.56,3,0.1,9097.75,Debit Card
+ORD-00611,25/07/06,25/07/08,Same Day,CUST-0067,Corporate,India,North,Delhi,New Delhi,Technology,Computers,Laptop,184095.64,4,0.05,23454.71,Credit Card
+ORD-00612,25/07/30,25/08/04,Second Class,CUST-0137,Corporate,India,West,Maharashtra,Mumbai,Office Supplies,Paper,A4 Paper Pack,1502.56,6,0.1,139.7,UPI
+ORD-00613,25/01/26,25/01/30,First Class,CUST-0166,Home Office,India,North,Uttar Pradesh,Unknown,Technology,Computers,Laptop,469390.85,8,0,19178.78,Debit Card
+ORD-00614,26/05/01,26/05/04,Standard Class,CUST-0036,Home Office,India,West,Rajasthan,Jaipur,Technology,Computers,Laptop,395867.82,8,0,73761.3,Cash
+ORD-00615,25/04/30,25/05/03,Second Class,CUST-0150,Home Office,India,West,Maharashtra,Mumbai,Office Supplies,Storage,File Organizer,1770.83,4,0,186.42,Credit Card
+ORD-00616,25/10/12,25/10/14,Same Day,CUST-0050,Corporate,India,West,Maharashtra,Mumbai,Technology,Accessories,Wireless Mouse,5476.22,8,0,1287.83,Debit Card
+ORD-00617,26/09/10,26/09/15,First Class,CUST-0099,Corporate,India,Central,Madhya Pradesh,Bhopal,Technology,Phones,Smartphone,104680.88,6,0.2,10547.73,UPI
+ORD-00618,25/10/19,25/10/22,Same Day,CUST-0190,Corporate,India,East,West Bengal,Kolkata,Furniture,Tables,Study Table,55169.61,8,0,4586.75,Net Banking
+ORD-00619,25/10/23,25/10/25,Second Class,CUST-0078,Corporate,India,West,Gujarat,Ahmedabad,Office Supplies,Storage,File Organizer,1485.88,3,0.15,-37.57,Cash
+ORD-00620,25/12/10,25/12/11,Same Day,CUST-0045,Home Office,India,West,Rajasthan,Jaipur,Office Supplies,Storage,File Organizer,766.79,2,0.2,86.56,Net Banking
+ORD-00621,26/08/05,26/08/12,Standard Class,CUST-0211,Corporate,India,North,Delhi,New Delhi,Furniture,Chairs,Office Chair,15835.47,3,0.05,1952.09,Cash
+ORD-00622,25/11/08,25/11/12,First Class,CUST-0245,Home Office,India,Central,Madhya Pradesh,Bhopal,Office Supplies,Binders,Ring Binder,411.86,4,0,29.16,Net Banking
+ORD-00623,25/05/08,25/05/14,Standard Class,CUST-0031,Corporate,India,South,Tamil Nadu,Chennai,Office Supplies,Storage,File Organizer,1346.71,3,0.2,79.4,Net Banking
+ORD-00624,25/03/10,25/03/15,Same Day,CUST-0250,Home Office,India,East,West Bengal,Kolkata,Furniture,Furnishings,Desk Lamp,7749.51,8,0.05,1070.2,UPI
+ORD-00625,26/01/18,26/01/23,Same Day,CUST-0225,Home Office,India,West,Rajasthan,Jaipur,Technology,Phones,Smartphone,80896.88,5,0,5600.28,Credit Card
+ORD-00626,26/01/01,26/01/03,First Class,CUST-0136,Home Office,India,West,Maharashtra,Mumbai,Furniture,Tables,Study Table,36301.78,6,0.05,807.46,UPI
+ORD-00627,26/06/11,26/06/13,Unknown,CUST-0070,Home Office,India,North,Delhi,New Delhi,Technology,Accessories,Wireless Mouse,1975.57,3,0.05,351.38,Debit Card
+ORD-00628,25/04/09,25/04/14,Same Day,CUST-0106,Corporate,India,West,Rajasthan,Jaipur,Office Supplies,Paper,A4 Paper Pack,717.25,3,0.15,9.89,Credit Card
+ORD-00629,25/04/15,25/04/17,Standard Class,CUST-0107,Corporate,India,North,Delhi,New Delhi,Technology,Accessories,USB-C Hub,7036.62,4,0.15,564.24,UPI
+ORD-00630,25/04/30,25/05/07,Same Day,CUST-0228,Home Office,India,North,Delhi,New Delhi,Technology,Phones,Smartphone,137442.67,8,0.2,345.49,Cash
+ORD-00631,25/12/17,25/12/19,Second Class,CUST-0079,Consumer,India,South,Tamil Nadu,Chennai,Technology,Phones,Smartphone,33001.46,2,0.2,-1370.49,Credit Card
+ORD-00632,25/05/14,25/05/15,Standard Class,CUST-0051,Consumer,India,West,Gujarat,Ahmedabad,Technology,Accessories,Wireless Mouse,1112.33,2,0.1,151.8,UPI
+ORD-00633,26/06/10,26/06/15,Standard Class,CUST-0194,Consumer,India,West,Maharashtra,Mumbai,Office Supplies,Binders,Ring Binder,269.41,2,0,14.35,UPI
+ORD-00634,26/09/09,26/09/11,First Class,CUST-0243,Home Office,India,West,Rajasthan,Jaipur,Furniture,Chairs,Office Chair,15136.99,3,0,880.3,Debit Card
+ORD-00635,25/12/27,25/12/29,Standard Class,CUST-0136,Consumer,India,Central,Madhya Pradesh,Bhopal,Furniture,Furnishings,Desk Lamp,3805.6,4,0,227.66,Credit Card
+ORD-00636,25/10/16,25/10/18,Same Day,CUST-0094,Home Office,India,Central,Madhya Pradesh,Bhopal,Technology,Phones,Smartphone,40581.71,2,0.15,5184.69,Cash
+ORD-00637,25/07/09,25/07/13,Second Class,CUST-0105,Consumer,India,West,Madhya Pradesh,Indore,Technology,Computers,Laptop,357049.79,6,0.1,9945.55,Debit Card
+ORD-00638,25/05/07,25/05/11,Standard Class,CUST-0022,Corporate,India,West,Madhya Pradesh,Indore,Technology,Accessories,USB-C Hub,4793.98,3,0.05,735.62,Net Banking
+ORD-00639,25/04/29,25/05/03,Same Day,CUST-0075,Corporate,India,South,Tamil Nadu,Chennai,Office Supplies,Binders,Ring Binder,633.67,5,0.1,19.12,Credit Card
+ORD-00640,25/03/13,25/03/20,Standard Class,CUST-0102,Corporate,India,North,Uttar Pradesh,Lucknow,Office Supplies,Paper,A4 Paper Pack,717.22,3,0.2,20.32,Cash
+ORD-00641,25/03/29,25/03/30,Second Class,CUST-0017,Corporate,India,North,Delhi,New Delhi,Office Supplies,Storage,File Organizer,3334.31,7,0,627.81,Credit Card
+ORD-00642,25/12/13,25/12/15,First Class,CUST-0196,Home Office,India,West,Rajasthan,Jaipur,Office Supplies,Storage,File Organizer,827.87,2,0.1,107.66,Cash
+ORD-00643,26/08/31,26/09/03,First Class,CUST-0038,Corporate,India,West,Gujarat,Ahmedabad,Office Supplies,Paper,A4 Paper Pack,2352.01,8,0.1,429.25,UPI
+ORD-00644,25/05/06,25/05/09,Standard Class,CUST-0213,Consumer,India,North,Uttar Pradesh,Lucknow,Office Supplies,Binders,Ring Binder,498.49,4,0,22.9,Net Banking
+ORD-00645,25/01/28,25/01/30,Standard Class,CUST-0170,Home Office,India,West,Gujarat,Ahmedabad,Furniture,Furnishings,Desk Lamp,5106.18,6,0.15,419.45,Net Banking
+ORD-00646,26/04/23,26/04/25,Standard Class,CUST-0244,Consumer,India,South,Tamil Nadu,Chennai,Office Supplies,Binders,Ring Binder,961.38,8,0.15,25.21,Net Banking
+ORD-00647,25/05/02,25/05/06,First Class,CUST-0227,Home Office,India,North,Uttar Pradesh,Lucknow,Office Supplies,Paper,A4 Paper Pack,1926.22,7,0,89.71,Credit Card
+ORD-00648,26/05/19,26/05/23,Same Day,CUST-0169,Home Office,India,North,Delhi,New Delhi,Furniture,Tables,Study Table,43236.66,7,0,6648.55,Cash
+ORD-00649,26/08/09,26/08/13,Same Day,CUST-0158,Home Office,India,North,Uttar Pradesh,Lucknow,Technology,Accessories,USB-C Hub,4809.63,3,0.1,181.22,Debit Card
+ORD-00650,25/10/19,25/10/22,Standard Class,CUST-0196,Home Office,India,West,Maharashtra,Mumbai,Technology,Phones,Smartphone,15992.27,1,0.05,1315.77,Debit Card
+ORD-00651,26/01/25,26/01/26,Second Class,CUST-0061,Home Office,India,West,Gujarat,Ahmedabad,Office Supplies,Paper,A4 Paper Pack,1635.61,6,0,281.73,Debit Card
+ORD-00652,26/08/30,26/08/31,Standard Class,CUST-0118,Home Office,India,West,Madhya Pradesh,Indore,Furniture,Tables,Study Table,11795.85,2,0,1742.05,Net Banking
+ORD-00653,26/08/05,26/08/10,First Class,CUST-0097,Home Office,India,West,Gujarat,Ahmedabad,Furniture,Tables,Study Table,6564.48,1,0.15,-249.8,Net Banking
+ORD-00654,25/11/27,25/12/02,First Class,CUST-0043,Home Office,India,West,Madhya Pradesh,Indore,Office Supplies,Binders,Ring Binder,253.74,2,0,27.2,Debit Card
+ORD-00655,26/01/08,26/01/12,First Class,CUST-0013,Corporate,India,South,Karnataka,Bengaluru,Office Supplies,Binders,Ring Binder,264.51,2,0.15,0.08,Cash
+ORD-00656,26/02/16,26/02/23,First Class,CUST-0070,Consumer,India,South,Karnataka,Bengaluru,Furniture,Furnishings,Desk Lamp,2024.09,2,0.15,-47.67,Cash
+ORD-00657,26/06/28,26/07/02,First Class,CUST-0111,Home Office,India,West,Gujarat,Ahmedabad,Furniture,Chairs,Office Chair,31354.43,6,0.2,2970.76,Cash
+ORD-00658,25/11/17,25/11/19,Second Class,CUST-0226,Consumer,India,West,Gujarat,Ahmedabad,Office Supplies,Storage,File Organizer,2334.35,5,0.1,278.52,Cash
+ORD-00659,25/07/11,25/07/16,Same Day,CUST-0240,Home Office,India,North,Uttar Pradesh,Lucknow,Furniture,Chairs,Office Chair,35726.62,8,0.2,1305.59,UPI
+ORD-00660,26/06/19,26/06/21,First Class,CUST-0217,Corporate,India,East,West Bengal,Kolkata,Office Supplies,Binders,Ring Binder,331.96,3,0.2,22.26,Net Banking
+ORD-00661,25/11/23,25/11/30,Unknown,CUST-0176,Home Office,India,West,Madhya Pradesh,Indore,Furniture,Chairs,Office Chair,31250.7,7,0.05,4428.49,Credit Card
+ORD-00662,26/02/20,26/02/22,Same Day,CUST-0109,Home Office,India,West,Madhya Pradesh,Indore,Technology,Computers,Laptop,178528.74,4,0.05,18804.78,UPI
+ORD-00663,25/07/26,25/07/28,Second Class,CUST-0165,Consumer,India,South,Tamil Nadu,Chennai,Technology,Computers,Laptop,48230.99,1,0.05,6956.56,Net Banking
+ORD-00664,25/01/21,25/01/22,Standard Class,CUST-0102,Home Office,India,West,Madhya Pradesh,Indore,Office Supplies,Paper,A4 Paper Pack,1554.21,5,0.1,255.44,Credit Card
+ORD-00665,25/08/30,25/08/31,First Class,CUST-0128,Consumer,India,West,Rajasthan,Jaipur,Technology,Accessories,USB-C Hub,3221.08,2,0.15,474.9,Credit Card
+ORD-00666,26/09/07,26/09/08,Same Day,CUST-0056,Consumer,India,East,West Bengal,Kolkata,Office Supplies,Paper,A4 Paper Pack,2139.83,7,0.2,-48.81,UPI
+ORD-00667,25/06/29,25/07/01,First Class,CUST-0180,Consumer,India,South,Tamil Nadu,Chennai,Office Supplies,Binders,Ring Binder,778.09,7,0.15,-24.37,Debit Card
+ORD-00668,26/07/13,26/07/17,First Class,CUST-0211,Corporate,India,North,Uttar Pradesh,Lucknow,Furniture,Chairs,Office Chair,26731.92,5,0,3010,UPI
+ORD-00669,26/09/13,26/09/14,First Class,CUST-0232,Home Office,India,West,Maharashtra,Mumbai,Furniture,Chairs,Office Chair,24379.64,5,0.05,3420.22,UPI
+ORD-00670,26/07/02,26/07/09,First Class,CUST-0078,Consumer,India,South,Karnataka,Bengaluru,Office Supplies,Binders,Ring Binder,715.98,7,0.1,122.08,Credit Card
+ORD-00671,25/11/01,25/11/03,Standard Class,CUST-0071,Consumer,India,North,Delhi,New Delhi,Office Supplies,Binders,Ring Binder,801.96,6,0.2,9.03,Net Banking
+ORD-00672,26/04/28,26/05/04,First Class,CUST-0130,Consumer,India,West,Gujarat,Ahmedabad,Office Supplies,Paper,A4 Paper Pack,2181.54,7,0,446.95,Debit Card
+ORD-00673,26/03/07,26/03/12,Second Class,CUST-0162,Corporate,India,Central,Madhya Pradesh,Bhopal,Office Supplies,Paper,A4 Paper Pack,2371.18,8,0,399.01,Credit Card
+ORD-00674,25/01/04,25/01/08,Second Class,CUST-0217,Home Office,India,South,Karnataka,Bengaluru,Furniture,Tables,Study Table,38046.03,6,0,2722.74,Net Banking
+ORD-00675,25/11/24,25/11/28,First Class,CUST-0051,Consumer,India,North,Uttar Pradesh,Lucknow,Technology,Computers,Laptop,234531.36,5,0.15,28813.05,Net Banking
+ORD-00676,26/01/12,26/01/14,Second Class,CUST-0233,Consumer,India,West,Gujarat,Ahmedabad,Office Supplies,Storage,File Organizer,1541.2,4,0,346.19,Net Banking
+ORD-00677,25/07/23,25/07/26,Standard Class,CUST-0246,Corporate,India,North,Delhi,New Delhi,Technology,Phones,Smartphone,130460.55,7,0.15,1243.49,Credit Card
+ORD-00678,26/08/04,26/08/05,Same Day,CUST-0031,Consumer,India,West,Maharashtra,Mumbai,Technology,Accessories,USB-C Hub,12118.49,7,0.1,1823.24,Credit Card
+ORD-00679,25/07/15,25/07/22,Unknown,CUST-0211,Corporate,India,South,Tamil Nadu,Chennai,Furniture,Tables,Study Table,47845.25,8,0.1,7476.66,Credit Card
+ORD-00680,26/03/05,26/03/07,Same Day,CUST-0233,Consumer,India,West,Gujarat,Ahmedabad,Technology,Computers,Laptop,48727.01,1,0.05,2903.99,Debit Card
+ORD-00681,26/08/20,26/08/26,Same Day,CUST-0176,Consumer,India,North,Uttar Pradesh,Lucknow,Technology,Accessories,Wireless Mouse,643.93,1,0.05,133.54,Net Banking
+ORD-00682,26/03/10,26/03/16,Second Class,CUST-0121,Corporate,India,West,Rajasthan,Jaipur,Furniture,Tables,Study Table,10894.44,2,0,549.33,Cash
+ORD-00683,26/09/05,26/09/11,Same Day,CUST-0172,Corporate,India,West,Maharashtra,Mumbai,Technology,Phones,Smartphone,90122.63,5,0.1,4100.71,Credit Card
+ORD-00684,26/07/27,26/07/28,Same Day,CUST-0034,Consumer,India,West,Rajasthan,Jaipur,Technology,Computers,Laptop,234249.59,5,0.1,40072,Debit Card
+ORD-00685,26/06/28,26/07/02,First Class,CUST-0192,Corporate,India,North,Delhi,New Delhi,Furniture,Tables,Study Table,11705.36,2,0,1636.9,Net Banking
+ORD-00686,25/10/17,25/10/20,Same Day,CUST-0196,Unknown,India,West,Rajasthan,Jaipur,Furniture,Tables,Study Table,36483.25,6,0,3761.74,Cash
+ORD-00687,26/03/27,26/03/28,Second Class,CUST-0181,Corporate,India,South,Karnataka,Bengaluru,Technology,Computers,Laptop,47785.82,1,0,6405.67,Net Banking
+ORD-00688,25/04/29,25/05/03,Same Day,CUST-0029,Home Office,India,West,Maharashtra,Mumbai,Office Supplies,Binders,Ring Binder,825.58,6,0.15,45.03,Credit Card
+ORD-00689,25/05/07,25/05/10,First Class,CUST-0145,Home Office,India,West,Madhya Pradesh,Indore,Furniture,Chairs,Office Chair,21700.72,5,0,4122.86,Cash
+ORD-00690,25/08/06,25/08/11,Same Day,CUST-0174,Consumer,India,West,Maharashtra,Mumbai,Technology,Accessories,USB-C Hub,4679.64,3,0,417.57,Debit Card
+ORD-00691,25/01/27,25/01/30,Second Class,CUST-0008,Consumer,India,West,Madhya Pradesh,Indore,Office Supplies,Storage,File Organizer,2773.17,6,0,575.14,Net Banking
+ORD-00692,26/05/07,26/05/11,Same Day,CUST-0084,Home Office,India,South,Tamil Nadu,Chennai,Furniture,Furnishings,Desk Lamp,901.39,1,0,154.35,Cash
+ORD-00693,25/05/13,25/05/15,Same Day,CUST-0024,Unknown,India,West,Maharashtra,Mumbai,Furniture,Tables,Study Table,40527.32,6,0.2,-2263.66,Debit Card
+ORD-00694,25/07/02,25/07/04,Same Day,CUST-0073,Home Office,India,West,Gujarat,Ahmedabad,Technology,Accessories,Wireless Mouse,718.71,1,0,84.59,Credit Card
+ORD-00695,25/05/04,25/05/07,Standard Class,CUST-0214,Corporate,India,North,Uttar Pradesh,Lucknow,Office Supplies,Storage,File Organizer,2522.52,5,0.15,-40.97,Cash
+ORD-00696,25/07/24,25/07/28,Same Day,CUST-0208,Corporate,India,North,Uttar Pradesh,Lucknow,Office Supplies,Storage,File Organizer,3349.96,8,0.15,141.08,Cash
+ORD-00697,25/07/10,25/07/14,Second Class,CUST-0239,Corporate,India,West,Gujarat,Ahmedabad,Technology,Accessories,Wireless Mouse,652.6,1,0.1,78.5,Cash
+ORD-00698,26/10/07,26/10/13,Same Day,CUST-0077,Consumer,India,Central,Madhya Pradesh,Bhopal,Technology,Accessories,Wireless Mouse,3219.01,5,0,712.82,Credit Card
+ORD-00699,25/11/04,25/11/11,Standard Class,CUST-0132,Consumer,India,South,Karnataka,Bengaluru,Technology,Accessories,USB-C Hub,10512.82,7,0,1579.01,Cash
+ORD-00700,26/03/12,26/03/16,Standard Class,CUST-0030,Home Office,India,West,Madhya Pradesh,Indore,Office Supplies,Binders,Ring Binder,573.98,5,0.15,-15.01,Net Banking
+ORD-00701,25/07/03,25/07/10,Same Day,CUST-0194,Home Office,India,North,Delhi,New Delhi,Office Supplies,Storage,File Organizer,393.74,1,0.2,-4.12,Net Banking
+ORD-00702,26/10/01,26/10/08,First Class,CUST-0224,Home Office,India,South,Tamil Nadu,Chennai,Office Supplies,Paper,A4 Paper Pack,767.19,3,0,145.31,UPI
+ORD-00703,26/03/21,26/03/26,Same Day,CUST-0178,Corporate,India,West,Maharashtra,Mumbai,Technology,Phones,Smartphone,111510.44,7,0,19086.15,Cash
+ORD-00704,26/05/14,26/05/17,First Class,CUST-0023,Consumer,India,West,Rajasthan,Jaipur,Furniture,Furnishings,Desk Lamp,6026.03,6,0.2,391.82,Credit Card
+ORD-00705,25/01/15,25/01/17,Second Class,CUST-0167,Consumer,India,West,Madhya Pradesh,Indore,Technology,Phones,Smartphone,79754.66,4,0,10864.45,Net Banking
+ORD-00706,26/10/04,26/10/11,Same Day,CUST-0006,Consumer,India,Central,Madhya Pradesh,Bhopal,Furniture,Chairs,Office Chair,9026.64,2,0.1,132.09,Credit Card
+ORD-00707,25/06/06,25/06/12,Second Class,CUST-0076,Home Office,India,North,Uttar Pradesh,Lucknow,Office Supplies,Binders,Ring Binder,821.65,8,0.1,83.85,Net Banking
+ORD-00708,25/02/22,25/02/25,First Class,CUST-0010,Corporate,India,West,Maharashtra,Mumbai,Technology,Accessories,Wireless Mouse,5204.5,7,0.1,689.16,Net Banking
+ORD-00709,26/05/13,26/05/18,Same Day,CUST-0148,Corporate,India,West,Rajasthan,Jaipur,Furniture,Furnishings,Desk Lamp,6988.75,8,0,1017.99,Cash
+ORD-00710,25/03/07,25/03/10,Same Day,CUST-0006,Consumer,India,West,Gujarat,Ahmedabad,Office Supplies,Binders,Ring Binder,239.62,2,0.2,-0.16,Debit Card
+ORD-00711,25/07/16,25/07/20,First Class,CUST-0236,Home Office,India,East,West Bengal,Kolkata,Office Supplies,Binders,Ring Binder,481.1,4,0.15,67.02,Net Banking
+ORD-00712,25/05/15,25/05/18,First Class,CUST-0177,Home Office,India,West,Gujarat,Ahmedabad,Office Supplies,Storage,File Organizer,2939.74,6,0,483.2,UPI
+ORD-00713,26/05/10,26/05/12,Same Day,CUST-0078,Consumer,India,North,Delhi,New Delhi,Furniture,Chairs,Office Chair,14856.84,3,0,2952,Credit Card
+ORD-00714,26/07/25,26/07/26,Standard Class,CUST-0207,Consumer,India,West,Maharashtra,Mumbai,Office Supplies,Paper,A4 Paper Pack,1339.96,5,0,100.42,Debit Card
+ORD-00715,26/03/17,26/03/18,First Class,CUST-0201,Corporate,India,West,Rajasthan,Jaipur,Furniture,Chairs,Office Chair,9778.51,2,0.1,357.55,UPI
+ORD-00716,26/07/25,26/07/28,Standard Class,CUST-0250,Consumer,India,North,Delhi,New Delhi,Technology,Accessories,USB-C Hub,3398.15,2,0.1,492.04,Cash
+ORD-00717,26/09/17,26/09/24,Second Class,CUST-0234,Corporate,India,West,Madhya Pradesh,Indore,Technology,Accessories,USB-C Hub,1603.51,1,0,266.16,Credit Card
+ORD-00718,25/10/27,25/11/02,First Class,CUST-0086,Consumer,India,North,Uttar Pradesh,Lucknow,Technology,Accessories,USB-C Hub,13693,8,0,970.27,UPI
+ORD-00719,25/07/26,25/07/30,Second Class,CUST-0022,Corporate,India,West,Gujarat,Ahmedabad,Technology,Phones,Smartphone,79231.97,4,0.1,4220.21,Debit Card
+ORD-00720,26/03/01,26/03/04,Same Day,CUST-0236,Corporate,India,South,Karnataka,Bengaluru,Technology,Computers,Laptop,395363.96,7,0,79212.65,Net Banking
+ORD-00721,26/06/13,26/06/20,Standard Class,CUST-0022,Corporate,India,East,West Bengal,Kolkata,Technology,Phones,Smartphone,128689.24,8,0,23617.71,Debit Card
+ORD-00722,26/02/16,26/02/23,Second Class,CUST-0232,Home Office,India,North,Delhi,New Delhi,Office Supplies,Storage,File Organizer,435.59,1,0,74.94,UPI
+ORD-00723,26/10/09,26/10/15,First Class,CUST-0185,Home Office,India,Central,Madhya Pradesh,Bhopal,Furniture,Tables,Study Table,42124.08,7,0.2,2955.34,Debit Card
+ORD-00724,25/12/19,25/12/20,Same Day,CUST-0179,Corporate,India,South,Tamil Nadu,Chennai,Technology,Accessories,USB-C Hub,5088.42,3,0.1,578.94,Net Banking
+ORD-00725,25/07/22,25/07/25,Second Class,CUST-0134,Home Office,India,West,Madhya Pradesh,Indore,Technology,Phones,Smartphone,104435.79,6,0.2,8147.08,Debit Card
+ORD-00726,25/08/07,25/08/08,Standard Class,CUST-0228,Home Office,India,Central,Madhya Pradesh,Bhopal,Technology,Accessories,USB-C Hub,8051.21,5,0.2,-305.9,Cash
+ORD-00727,25/09/22,25/09/24,First Class,CUST-0032,Consumer,India,South,Tamil Nadu,Chennai,Office Supplies,Storage,File Organizer,962.64,2,0.05,62.04,UPI
+ORD-00728,26/04/05,26/04/08,Second Class,CUST-0090,Corporate,India,West,Rajasthan,Jaipur,Technology,Phones,Smartphone,137043.95,8,0,27556.46,Debit Card
+ORD-00729,26/08/10,26/08/16,First Class,CUST-0117,Consumer,India,North,Delhi,New Delhi,Office Supplies,Storage,File Organizer,1586.82,4,0.15,117.38,Credit Card
+ORD-00730,26/03/12,26/03/19,Same Day,CUST-0020,Unknown,India,West,Gujarat,Ahmedabad,Technology,Accessories,Wireless Mouse,1129.26,2,0,152.73,Cash
+ORD-00731,26/02/17,26/02/22,Same Day,CUST-0113,Home Office,India,Central,Madhya Pradesh,Bhopal,Technology,Accessories,USB-C Hub,12449.97,7,0.15,712.95,Net Banking
+ORD-00732,26/03/03,26/03/10,Standard Class,CUST-0178,Consumer,India,North,Delhi,New Delhi,Technology,Computers,Laptop,155286.97,3,0.1,1689.06,Net Banking
+ORD-00733,26/04/30,26/05/01,Same Day,CUST-0029,Consumer,India,North,Delhi,New Delhi,Technology,Accessories,USB-C Hub,10814.49,6,0,1733.78,Debit Card
+ORD-00734,26/08/09,26/08/12,First Class,CUST-0076,Corporate,India,West,Maharashtra,Mumbai,Technology,Accessories,USB-C Hub,4249.55,3,0.05,895.4,UPI
+ORD-00735,25/05/27,25/05/29,Second Class,CUST-0047,Home Office,India,West,Rajasthan,Jaipur,Office Supplies,Storage,File Organizer,508.97,1,0.05,96.86,Net Banking
+ORD-00736,25/01/03,25/01/04,First Class,CUST-0145,Corporate,India,Central,Madhya Pradesh,Bhopal,Office Supplies,Paper,A4 Paper Pack,622.23,2,0.1,50.55,Debit Card
+ORD-00737,26/01/22,26/01/26,Same Day,CUST-0039,Home Office,India,West,Rajasthan,Jaipur,Technology,Computers,Laptop,156222.95,3,0.1,21455,Debit Card
+ORD-00738,25/04/02,25/04/09,Unknown,CUST-0246,Home Office,India,West,Rajasthan,Jaipur,Furniture,Furnishings,Desk Lamp,6425.03,7,0.1,339.24,Net Banking
+ORD-00739,25/10/12,25/10/18,Standard Class,CUST-0165,Home Office,India,West,Madhya Pradesh,Indore,Technology,Computers,Laptop,53123.12,1,0.2,-437.22,UPI
+ORD-00740,25/07/17,25/07/22,Same Day,CUST-0129,Consumer,India,Central,Madhya Pradesh,Bhopal,Furniture,Furnishings,Desk Lamp,1080.33,1,0.15,-4.99,UPI
+ORD-00741,26/06/29,26/07/01,Unknown,CUST-0022,Home Office,India,West,Maharashtra,Mumbai,Furniture,Tables,Study Table,22904.93,4,0.2,2239.72,Cash
+ORD-00742,25/11/25,25/11/29,Second Class,CUST-0107,Consumer,India,West,Rajasthan,Jaipur,Technology,Phones,Smartphone,159637.29,8,0,17239.44,Cash
+ORD-00743,25/11/21,25/11/25,Second Class,CUST-0047,Corporate,India,South,Tamil Nadu,Chennai,Technology,Accessories,Wireless Mouse,1487.12,2,0.15,-13.19,UPI
+ORD-00744,25/06/07,25/06/10,Standard Class,CUST-0077,Corporate,India,West,Gujarat,Ahmedabad,Technology,Computers,Laptop,53785.82,1,0.05,2624.29,UPI
+ORD-00745,25/11/24,25/11/26,Second Class,CUST-0193,Home Office,India,West,Gujarat,Ahmedabad,Office Supplies,Paper,A4 Paper Pack,1347.72,5,0,67.89,Cash
+ORD-00746,25/08/31,25/09/04,Same Day,CUST-0142,Corporate,India,Central,Madhya Pradesh,Bhopal,Technology,Accessories,USB-C Hub,12709.84,7,0.05,313,UPI
+ORD-00747,26/05/11,26/05/12,Second Class,CUST-0196,Home Office,India,West,Gujarat,Ahmedabad,Furniture,Chairs,Office Chair,4467.59,1,0.15,413.34,Credit Card
+ORD-00748,25/11/08,25/11/13,Second Class,CUST-0096,Home Office,India,West,Gujarat,Ahmedabad,Office Supplies,Binders,Ring Binder,264.93,2,0.15,-0.48,Credit Card
+ORD-00749,25/09/09,25/09/14,First Class,CUST-0168,Consumer,India,West,Gujarat,Ahmedabad,Technology,Accessories,USB-C Hub,11040.48,8,0.1,1956.63,UPI
+ORD-00750,25/03/03,25/03/07,Second Class,CUST-0150,Home Office,India,South,Tamil Nadu,Chennai,Furniture,Furnishings,Desk Lamp,5233.77,5,0.1,967.45,Debit Card
+ORD-00751,25/02/16,25/02/18,Second Class,CUST-0186,Home Office,India,Central,Madhya Pradesh,Bhopal,Furniture,Furnishings,Desk Lamp,1786.36,2,0.1,222.73,Debit Card
+ORD-00752,26/03/19,26/03/21,Same Day,CUST-0070,Consumer,India,West,Rajasthan,Jaipur,Technology,Accessories,USB-C Hub,10705.72,6,0.05,1493.81,Debit Card
+ORD-00753,25/12/16,25/12/18,Standard Class,CUST-0156,Corporate,India,North,Uttar Pradesh,Lucknow,Furniture,Furnishings,Desk Lamp,4872.15,6,0.2,-210.74,UPI
+ORD-00754,25/01/10,25/01/16,Standard Class,CUST-0138,Consumer,India,North,Delhi,New Delhi,Office Supplies,Storage,File Organizer,3883.46,8,0.15,-102.02,Net Banking
+ORD-00755,25/05/07,25/05/10,Standard Class,CUST-0119,Corporate,India,West,Gujarat,Ahmedabad,Furniture,Furnishings,Desk Lamp,5506.34,6,0.2,697.98,Credit Card
+ORD-00756,26/04/01,26/04/02,Standard Class,CUST-0209,Home Office,India,South,Karnataka,Bengaluru,Technology,Phones,Smartphone,94874.97,5,0.2,148.4,Debit Card
+ORD-00757,25/08/15,25/08/17,Second Class,CUST-0002,Consumer,India,North,Uttar Pradesh,Lucknow,Office Supplies,Paper,A4 Paper Pack,261.58,1,0.2,18.68,Net Banking
+ORD-00758,25/04/24,25/05/01,Second Class,CUST-0017,Home Office,India,South,Tamil Nadu,Chennai,Furniture,Furnishings,Desk Lamp,6848.69,8,0,1177.75,Credit Card
+ORD-00759,25/03/08,25/03/10,Second Class,CUST-0218,Home Office,India,South,Tamil Nadu,Chennai,Furniture,Furnishings,Desk Lamp,4234.34,4,0.2,366.06,UPI
+ORD-00760,26/06/30,26/07/05,Standard Class,CUST-0219,Corporate,India,South,Tamil Nadu,Chennai,Technology,Accessories,USB-C Hub,10887.51,8,0.1,1232.39,Net Banking
+ORD-00761,26/02/21,26/02/24,Second Class,CUST-0013,Corporate,India,West,Madhya Pradesh,Indore,Technology,Accessories,USB-C Hub,12783.01,8,0.15,1397.24,Net Banking
+ORD-00762,26/06/30,26/07/04,Standard Class,CUST-0189,Consumer,India,East,West Bengal,Kolkata,Technology,Phones,Smartphone,114456.19,7,0,24724.79,Net Banking
+ORD-00763,25/03/18,25/03/20,Standard Class,CUST-0123,Corporate,India,South,Karnataka,Bengaluru,Technology,Computers,Laptop,294291.43,6,0.2,16203.37,UPI
+ORD-00764,26/08/30,26/09/06,Standard Class,CUST-0211,Corporate,India,East,West Bengal,Kolkata,Furniture,Tables,Study Table,21882.33,4,0,5071.46,Cash
+ORD-00765,25/08/31,25/09/01,Standard Class,CUST-0022,Consumer,India,West,Rajasthan,Jaipur,Furniture,Furnishings,Desk Lamp,8202.14,8,0.2,158.23,UPI
+ORD-00766,26/01/22,26/01/25,Same Day,CUST-0017,Consumer,India,West,Madhya Pradesh,Indore,Technology,Computers,Laptop,58538.21,1,0.1,-236.63,UPI
+ORD-00767,26/07/27,26/07/28,Standard Class,CUST-0117,Corporate,India,South,Tamil Nadu,Chennai,Office Supplies,Storage,File Organizer,2768.06,7,0.1,87.53,Net Banking
+ORD-00768,26/03/15,26/03/20,Same Day,CUST-0133,Corporate,India,West,Rajasthan,Jaipur,Technology,Accessories,Wireless Mouse,4076.58,6,0.2,352.97,Cash
+ORD-00769,25/07/17,25/07/18,Second Class,CUST-0164,Home Office,India,West,Madhya Pradesh,Indore,Technology,Phones,Smartphone,37003.17,2,0,8173.04,Debit Card
+ORD-00770,25/12/30,26/01/03,Standard Class,CUST-0033,Corporate,India,North,Uttar Pradesh,Lucknow,Furniture,Furnishings,Desk Lamp,6883.91,8,0,1372.69,Cash
+ORD-00771,26/03/23,26/03/28,First Class,CUST-0095,Consumer,India,East,West Bengal,Kolkata,Furniture,Tables,Study Table,16632.54,3,0.05,2214.89,Cash
+ORD-00772,26/08/24,26/08/30,Same Day,CUST-0089,Consumer,India,North,Delhi,New Delhi,Technology,Phones,Smartphone,72153.53,4,0.15,9325.15,Credit Card
+ORD-00773,25/07/26,25/08/02,Same Day,CUST-0154,Home Office,India,West,Madhya Pradesh,Indore,Office Supplies,Paper,A4 Paper Pack,1176.4,4,0.2,80.43,Debit Card
+ORD-00774,26/08/16,26/08/21,Standard Class,CUST-0127,Consumer,India,East,West Bengal,Kolkata,Furniture,Furnishings,Desk Lamp,4634.14,5,0,282.54,UPI
+ORD-00775,25/08/17,25/08/23,First Class,CUST-0207,Home Office,India,South,Karnataka,Bengaluru,Office Supplies,Binders,Ring Binder,442.42,4,0.2,37.02,Net Banking
+ORD-00776,25/07/30,25/08/03,Standard Class,CUST-0037,Corporate,India,North,Delhi,New Delhi,Technology,Phones,Smartphone,92120.5,6,0.05,1704.55,Net Banking
+ORD-00777,25/07/19,25/07/25,Second Class,CUST-0057,Corporate,India,West,Rajasthan,Jaipur,Office Supplies,Paper,A4 Paper Pack,319.93,1,0,25.46,Credit Card
+ORD-00778,25/12/14,25/12/21,Standard Class,CUST-0006,Home Office,India,Central,Madhya Pradesh,Bhopal,Furniture,Chairs,Office Chair,13086.67,3,0,2729.57,Credit Card
+ORD-00779,26/01/24,26/01/30,First Class,CUST-0170,Consumer,India,West,Madhya Pradesh,Indore,Office Supplies,Paper,A4 Paper Pack,1054.5,4,0,120.14,Cash
+ORD-00780,26/10/01,26/10/05,Second Class,CUST-0137,Corporate,India,West,Madhya Pradesh,Indore,Technology,Accessories,Wireless Mouse,2173.89,3,0,432.56,Debit Card
+ORD-00781,25/11/22,25/11/27,First Class,CUST-0203,Consumer,India,West,Gujarat,Ahmedabad,Furniture,Chairs,Office Chair,5178.84,1,0.15,-24.23,Debit Card
+ORD-00782,25/09/11,25/09/12,Standard Class,CUST-0043,Home Office,India,South,Tamil Nadu,Chennai,Technology,Computers,Laptop,379712.85,8,0,74778.01,Net Banking
+ORD-00783,26/06/06,26/06/09,Same Day,CUST-0184,Corporate,India,North,Uttar Pradesh,Lucknow,Technology,Accessories,USB-C Hub,11567.35,8,0.2,55.24,Net Banking
+ORD-00784,25/10/02,25/10/07,Second Class,CUST-0102,Consumer,India,West,Gujarat,Ahmedabad,Furniture,Furnishings,Desk Lamp,866.55,1,0,113.01,Debit Card
+ORD-00785,26/03/12,26/03/16,Standard Class,CUST-0076,Corporate,India,West,Rajasthan,Jaipur,Technology,Computers,Laptop,289023.94,6,0,19325.89,Cash
+ORD-00786,25/12/27,25/12/29,Same Day,CUST-0111,Corporate,India,West,Rajasthan,Jaipur,Technology,Phones,Smartphone,144529.72,8,0.05,14123.51,Debit Card
+ORD-00787,26/05/25,26/05/28,Standard Class,CUST-0092,Consumer,India,South,Tamil Nadu,Chennai,Office Supplies,Storage,File Organizer,406.74,1,0,37.88,Debit Card
+ORD-00788,26/05/29,26/06/03,First Class,CUST-0010,Home Office,India,Central,Madhya Pradesh,Bhopal,Technology,Accessories,Wireless Mouse,3665.94,5,0,233.58,Credit Card
+ORD-00789,25/12/08,25/12/10,Second Class,CUST-0181,Home Office,India,East,West Bengal,Kolkata,Furniture,Tables,Study Table,33280.47,5,0.2,3297.75,Credit Card
+ORD-00790,26/07/11,26/07/14,Standard Class,CUST-0121,Home Office,India,West,Maharashtra,Mumbai,Furniture,Tables,Study Table,33997.47,5,0.1,5921.1,Cash
+ORD-00791,25/06/02,25/06/09,Same Day,CUST-0185,Corporate,India,West,Gujarat,Ahmedabad,Furniture,Chairs,Office Chair,20486.41,4,0,2763.36,Debit Card
+ORD-00792,25/03/29,25/04/01,Standard Class,CUST-0096,Consumer,India,South,Karnataka,Bengaluru,Office Supplies,Storage,File Organizer,2875.56,7,0.1,447.41,Cash
+ORD-00793,25/05/12,25/05/15,Same Day,CUST-0196,Home Office,India,West,Maharashtra,Mumbai,Office Supplies,Binders,Ring Binder,685.4,6,0.1,48.08,Cash
+ORD-00794,25/11/03,25/11/06,First Class,CUST-0146,Home Office,India,West,Rajasthan,Jaipur,Technology,Phones,Smartphone,20279.58,1,0,4774.8,Cash
+ORD-00795,26/09/15,26/09/20,Second Class,CUST-0122,Consumer,India,West,Gujarat,Ahmedabad,Office Supplies,Storage,File Organizer,2042.29,4,0,300.01,Debit Card
+ORD-00796,26/08/07,26/08/11,Same Day,CUST-0007,Consumer,India,South,Tamil Nadu,Chennai,Technology,Accessories,Wireless Mouse,1718.52,3,0.15,-11.98,Credit Card
+ORD-00797,25/03/13,25/03/17,Standard Class,CUST-0095,Home Office,India,South,Tamil Nadu,Chennai,Furniture,Chairs,Office Chair,17996.77,4,0.15,-512.98,UPI
+ORD-00798,25/06/25,25/06/28,Same Day,CUST-0191,Consumer,India,West,Gujarat,Ahmedabad,Office Supplies,Storage,File Organizer,1548.29,3,0,228.05,Net Banking
+ORD-00799,25/07/31,25/08/02,First Class,CUST-0151,Consumer,India,South,Karnataka,Bengaluru,Furniture,Tables,Study Table,47539.01,7,0.2,1186.38,Cash
+ORD-00800,26/04/15,26/04/18,Second Class,CUST-0135,Corporate,India,South,Karnataka,Bengaluru,Technology,Phones,Smartphone,53120.85,3,0.1,5629.2,Cash
+ORD-00801,26/05/18,26/05/22,Same Day,CUST-0089,Home Office,India,North,Uttar Pradesh,Lucknow,Furniture,Furnishings,Desk Lamp,1017.63,1,0.05,144.26,Debit Card
+ORD-00802,26/02/05,26/02/10,Same Day,CUST-0099,Home Office,India,North,Delhi,New Delhi,Office Supplies,Storage,File Organizer,1626.97,4,0.15,169.45,Credit Card
+ORD-00803,26/08/06,26/08/07,First Class,CUST-0171,Consumer,India,West,Gujarat,Ahmedabad,Technology,Phones,Smartphone,80327.7,4,0,7611.47,Credit Card
+ORD-00804,26/05/21,26/05/25,First Class,CUST-0105,Corporate,India,Central,Madhya Pradesh,Bhopal,Technology,Accessories,Wireless Mouse,3404.54,6,0,479.63,Credit Card
+ORD-00805,25/09/16,25/09/18,Same Day,CUST-0098,Corporate,India,Central,Madhya Pradesh,Bhopal,Technology,Phones,Smartphone,123554.21,8,0.2,8512.53,Net Banking
+ORD-00806,25/07/19,25/07/23,Same Day,CUST-0125,Corporate,India,West,Maharashtra,Mumbai,Technology,Phones,Smartphone,79596.43,5,0,8391.22,UPI
+ORD-00807,25/03/26,25/03/31,Second Class,CUST-0215,Consumer,India,South,Karnataka,Bengaluru,Office Supplies,Binders,Ring Binder,356.85,3,0.05,64.52,Cash
+ORD-00808,25/04/13,25/04/15,First Class,CUST-0040,Corporate,India,South,Tamil Nadu,Chennai,Technology,Accessories,Wireless Mouse,4097.44,7,0.2,338.93,Debit Card
+ORD-00809,25/07/02,25/07/04,Standard Class,CUST-0100,Home Office,India,West,Maharashtra,Mumbai,Technology,Accessories,USB-C Hub,6288.75,4,0,1303.66,Debit Card
+ORD-00810,26/03/31,26/04/01,First Class,CUST-0233,Consumer,India,West,Rajasthan,Jaipur,Technology,Phones,Smartphone,19471.01,1,0,4395.86,Credit Card
+ORD-00811,25/04/04,25/04/05,Standard Class,CUST-0057,Consumer,India,West,Gujarat,Ahmedabad,Technology,Phones,Smartphone,17120.43,1,0,3013.06,Credit Card
+ORD-00812,25/06/21,25/06/22,Unknown,CUST-0160,Consumer,India,West,Gujarat,Ahmedabad,Technology,Accessories,USB-C Hub,3503,2,0.05,437.56,Cash
+ORD-00813,26/02/09,26/02/13,Same Day,CUST-0168,Corporate,India,West,Madhya Pradesh,Indore,Furniture,Chairs,Office Chair,16929.9,4,0.05,799.5,UPI
+ORD-00814,26/02/03,26/02/05,First Class,CUST-0012,Consumer,India,North,Uttar Pradesh,Lucknow,Furniture,Chairs,Office Chair,10054.93,2,0.05,1432.72,Credit Card
+ORD-00815,26/02/25,26/02/28,Standard Class,CUST-0154,Corporate,India,West,Rajasthan,Jaipur,Office Supplies,Binders,Ring Binder,255.3,2,0.15,-2.1,Net Banking
+ORD-00816,25/05/17,25/05/20,Same Day,CUST-0098,Home Office,India,North,Delhi,New Delhi,Office Supplies,Paper,A4 Paper Pack,1949.37,8,0,315.23,Credit Card
+ORD-00817,26/05/31,26/06/05,Same Day,CUST-0194,Consumer,India,West,Maharashtra,Mumbai,Furniture,Chairs,Office Chair,4967.54,1,0,505.55,Cash
+ORD-00818,25/03/23,25/03/24,Standard Class,CUST-0061,Home Office,India,North,Delhi,New Delhi,Office Supplies,Paper,A4 Paper Pack,2103.33,8,0,242.2,Cash
+ORD-00819,26/03/31,26/04/06,Same Day,CUST-0166,Corporate,India,East,West Bengal,Kolkata,Technology,Computers,Laptop,245768.02,5,0,35433.5,UPI
+ORD-00820,25/08/23,25/08/30,Second Class,CUST-0206,Home Office,India,East,West Bengal,Kolkata,Office Supplies,Paper,A4 Paper Pack,1021.15,4,0,226.01,Credit Card
+ORD-00821,26/09/15,26/09/22,Same Day,CUST-0018,Consumer,India,West,Gujarat,Ahmedabad,Technology,Accessories,USB-C Hub,8688.61,6,0.2,-597.7,UPI
+ORD-00822,26/10/12,26/10/14,Second Class,CUST-0061,Home Office,India,South,Karnataka,Bengaluru,Technology,Computers,Laptop,93818.69,2,0.15,11609.52,UPI
+ORD-00823,26/03/13,26/03/19,Second Class,CUST-0078,Corporate,India,North,Uttar Pradesh,Lucknow,Furniture,Tables,Study Table,19836.94,3,0,2475.72,Cash
+ORD-00824,26/04/05,26/04/11,Second Class,CUST-0121,Corporate,India,South,Karnataka,Bengaluru,Furniture,Tables,Study Table,43350.64,8,0.05,3994.71,Net Banking
+ORD-00825,26/06/02,26/06/07,Standard Class,CUST-0195,Corporate,India,West,Gujarat,Ahmedabad,Technology,Computers,Laptop,356072.42,8,0.1,25095.79,Cash
+ORD-00826,26/07/05,26/07/07,Same Day,CUST-0144,Home Office,India,Central,Madhya Pradesh,Bhopal,Technology,Computers,Laptop,250675.12,5,0.05,25874.84,Net Banking
+ORD-00827,25/03/15,25/03/18,First Class,CUST-0126,Corporate,India,North,Delhi,New Delhi,Office Supplies,Binders,Ring Binder,430.28,4,0,17.57,Net Banking
+ORD-00828,26/02/09,26/02/15,Standard Class,CUST-0236,Consumer,India,East,West Bengal,Kolkata,Office Supplies,Storage,File Organizer,3392.44,8,0.15,-95.85,Net Banking
+ORD-00829,26/08/03,26/08/05,Same Day,CUST-0163,Home Office,India,South,Karnataka,Bengaluru,Office Supplies,Storage,File Organizer,2433.11,5,0.2,-0.69,Debit Card
+ORD-00830,25/03/01,25/03/07,First Class,CUST-0162,Home Office,India,West,Gujarat,Ahmedabad,Office Supplies,Storage,File Organizer,1660.87,4,0,372.52,UPI
+ORD-00831,25/06/01,25/06/04,Second Class,CUST-0004,Consumer,India,West,Rajasthan,Jaipur,Office Supplies,Binders,Ring Binder,333.46,3,0.15,24.4,UPI
+ORD-00832,26/01/29,26/02/02,First Class,CUST-0178,Corporate,India,West,Rajasthan,Jaipur,Technology,Accessories,Wireless Mouse,2893.28,4,0,595.87,Cash
+ORD-00833,26/06/30,26/07/06,Standard Class,CUST-0163,Home Office,India,West,Gujarat,Ahmedabad,Furniture,Furnishings,Desk Lamp,5083.36,5,0.2,528.08,Debit Card
+ORD-00834,25/05/27,25/05/30,Standard Class,CUST-0025,Consumer,India,South,Karnataka,Bengaluru,Office Supplies,Storage,File Organizer,1916.83,5,0,389.65,Net Banking
+ORD-00835,26/06/22,26/06/26,Second Class,CUST-0125,Consumer,India,South,Tamil Nadu,Chennai,Office Supplies,Storage,File Organizer,1218.94,3,0,220.4,Cash
+ORD-00836,25/04/23,25/04/27,Second Class,CUST-0067,Corporate,India,West,Rajasthan,Jaipur,Furniture,Chairs,Office Chair,13108.06,3,0.2,-438.52,Net Banking
+ORD-00837,26/10/04,26/10/09,Standard Class,CUST-0088,Consumer,India,West,Madhya Pradesh,Indore,Technology,Computers,Laptop,97545.52,2,0.1,969.24,Cash
+ORD-00838,25/08/29,25/09/02,Standard Class,CUST-0025,Consumer,India,North,Uttar Pradesh,Lucknow,Technology,Accessories,Wireless Mouse,564.41,1,0,97.68,Cash
+ORD-00839,25/01/08,25/01/12,Same Day,CUST-0087,Corporate,India,West,Rajasthan,Jaipur,Technology,Accessories,USB-C Hub,9037.11,5,0.1,1232.5,Debit Card
+ORD-00840,25/11/19,25/11/26,First Class,CUST-0207,Consumer,India,South,Karnataka,Bengaluru,Office Supplies,Paper,A4 Paper Pack,1888.52,7,0,443.92,UPI
+ORD-00841,26/04/13,26/04/20,Second Class,CUST-0095,Corporate,India,West,Gujarat,Ahmedabad,Technology,Computers,Laptop,53589.78,1,0.15,717.76,Cash
+ORD-00842,26/05/02,26/05/07,First Class,CUST-0224,Consumer,India,West,Gujarat,Ahmedabad,Furniture,Chairs,Office Chair,5500.1,1,0.05,87.04,Debit Card
+ORD-00843,26/03/31,26/04/02,Same Day,CUST-0169,Home Office,India,West,Rajasthan,Jaipur,Office Supplies,Binders,Ring Binder,900.28,7,0,98.73,UPI
+ORD-00844,26/01/30,26/02/02,Standard Class,CUST-0033,Corporate,India,West,Rajasthan,Jaipur,Furniture,Chairs,Office Chair,15997.79,3,0.15,1831.31,UPI
+ORD-00845,25/11/05,25/11/12,Second Class,CUST-0063,Consumer,India,Central,Madhya Pradesh,Bhopal,Office Supplies,Binders,Ring Binder,402.81,3,0,54.96,Credit Card
+ORD-00846,25/04/02,25/04/03,First Class,CUST-0057,Home Office,India,West,Gujarat,Ahmedabad,Technology,Phones,Smartphone,60949.86,3,0.05,11765.13,Debit Card
+ORD-00847,26/05/03,26/05/09,Second Class,CUST-0239,Home Office,India,West,Madhya Pradesh,Indore,Technology,Computers,Laptop,364887.13,8,0.2,-1255.13,Cash
+ORD-00848,25/03/08,25/03/14,Same Day,CUST-0207,Consumer,India,East,West Bengal,Kolkata,Office Supplies,Storage,File Organizer,3295.45,7,0.15,496.79,Credit Card
+ORD-00849,25/09/23,25/09/24,Second Class,CUST-0191,Consumer,India,South,Tamil Nadu,Chennai,Technology,Accessories,Wireless Mouse,1139.76,2,0.2,55.21,Cash
+ORD-00850,26/01/12,26/01/14,Same Day,CUST-0109,Corporate,India,East,West Bengal,Kolkata,Office Supplies,Storage,File Organizer,424.46,1,0.15,27.43,Debit Card
+ORD-00851,25/05/10,25/05/15,Same Day,CUST-0081,Consumer,India,West,Rajasthan,Jaipur,Furniture,Furnishings,Desk Lamp,3351.51,4,0,494.88,Debit Card
+ORD-00852,25/08/13,25/08/17,Standard Class,CUST-0154,Corporate,India,North,Uttar Pradesh,Lucknow,Technology,Computers,Laptop,232377.91,5,0.2,23197.24,Debit Card
+ORD-00853,26/05/30,26/06/05,Same Day,CUST-0016,Corporate,India,West,Madhya Pradesh,Indore,Furniture,Tables,Study Table,51550.43,8,0,7165.77,Credit Card
+ORD-00854,25/08/04,25/08/11,Second Class,CUST-0006,Home Office,India,South,Karnataka,Bengaluru,Technology,Phones,Smartphone,59779.82,3,0.2,499.85,Net Banking
+ORD-00855,25/12/12,25/12/16,First Class,CUST-0179,Consumer,India,North,Uttar Pradesh,Lucknow,Office Supplies,Paper,A4 Paper Pack,1895.95,7,0.15,195,Cash
+ORD-00856,26/02/08,26/02/09,Second Class,CUST-0148,Consumer,India,North,Delhi,New Delhi,Office Supplies,Paper,A4 Paper Pack,309.38,1,0.2,-2.84,Net Banking
+ORD-00857,26/05/10,26/05/13,Standard Class,CUST-0093,Home Office,India,North,Delhi,New Delhi,Furniture,Chairs,Office Chair,20953.1,4,0,3919.57,Cash
+ORD-00858,25/04/15,25/04/21,Standard Class,CUST-0092,Corporate,India,North,Delhi,New Delhi,Office Supplies,Storage,File Organizer,3319.58,7,0,747.56,Credit Card
+ORD-00859,25/02/23,25/02/24,Second Class,CUST-0009,Consumer,India,Central,Madhya Pradesh,Bhopal,Office Supplies,Paper,A4 Paper Pack,2236.2,7,0.2,166.62,Credit Card
+ORD-00860,26/02/11,26/02/15,Unknown,CUST-0200,Corporate,India,South,Tamil Nadu,Chennai,Furniture,Furnishings,Desk Lamp,2980.64,3,0.1,417.8,Net Banking
+ORD-00861,25/10/09,25/10/15,Second Class,CUST-0006,Home Office,India,North,Uttar Pradesh,Lucknow,Office Supplies,Paper,A4 Paper Pack,248.08,1,0,15.98,Cash
+ORD-00862,26/08/10,26/08/14,First Class,CUST-0147,Consumer,India,South,Tamil Nadu,Chennai,Technology,Accessories,Wireless Mouse,1882.12,3,0.2,132.78,UPI
+ORD-00863,25/11/30,25/12/01,Same Day,CUST-0017,Home Office,India,Central,Madhya Pradesh,Bhopal,Technology,Computers,Laptop,398165.18,7,0,47285.82,Cash
+ORD-00864,26/07/06,26/07/12,Standard Class,CUST-0143,Corporate,India,West,Madhya Pradesh,Indore,Furniture,Chairs,Office Chair,8680.31,2,0.15,838.02,Debit Card
+ORD-00865,25/05/06,25/05/07,Standard Class,CUST-0022,Consumer,India,North,Delhi,New Delhi,Furniture,Furnishings,Desk Lamp,3974.01,4,0,606.03,Cash
+ORD-00866,25/11/02,25/11/05,First Class,CUST-0012,Home Office,India,Central,Madhya Pradesh,Bhopal,Technology,Computers,Laptop,416099.66,7,0.2,-29119.86,Debit Card
+ORD-00867,26/07/01,26/07/05,First Class,CUST-0156,Home Office,India,North,Delhi,New Delhi,Furniture,Furnishings,Desk Lamp,8044.83,8,0.15,1123.51,Cash
+ORD-00868,25/08/03,25/08/09,Second Class,CUST-0246,Consumer,India,West,Madhya Pradesh,Indore,Technology,Phones,Smartphone,61993.45,4,0,6195.74,Cash
+ORD-00869,26/07/20,26/07/22,First Class,CUST-0067,Corporate,India,West,Rajasthan,Jaipur,Office Supplies,Paper,A4 Paper Pack,1243.97,5,0.15,52.13,Credit Card
+ORD-00870,26/02/14,26/02/18,Standard Class,CUST-0162,Home Office,India,West,Madhya Pradesh,Indore,Furniture,Tables,Study Table,49131.4,7,0,7231.2,Debit Card
+ORD-00871,26/10/11,26/10/17,Same Day,CUST-0098,Consumer,India,South,Karnataka,Bengaluru,Office Supplies,Paper,A4 Paper Pack,819.76,3,0,84.66,Cash
+ORD-00872,25/09/11,25/09/12,Standard Class,CUST-0093,Corporate,India,South,Tamil Nadu,Chennai,Technology,Accessories,Wireless Mouse,1371.75,2,0.1,-2.48,Debit Card
+ORD-00873,25/05/30,25/06/06,Standard Class,CUST-0201,Consumer,India,South,Karnataka,Bengaluru,Furniture,Tables,Study Table,5452.18,1,0,630.96,Credit Card
+ORD-00874,26/06/24,26/06/30,First Class,CUST-0142,Corporate,India,South,Tamil Nadu,Chennai,Furniture,Furnishings,Desk Lamp,6677.83,8,0.05,1018.98,Cash
+ORD-00875,25/04/12,25/04/13,Same Day,CUST-0123,Home Office,India,North,Delhi,New Delhi,Office Supplies,Paper,A4 Paper Pack,1772.24,7,0.2,116.19,Credit Card
+ORD-00876,25/09/23,25/09/24,Standard Class,CUST-0236,Home Office,India,Central,Madhya Pradesh,Bhopal,Technology,Computers,Laptop,139276.96,3,0.15,14566.21,Debit Card
+ORD-00877,25/09/13,25/09/19,First Class,CUST-0071,Corporate,India,West,Rajasthan,Jaipur,Office Supplies,Storage,File Organizer,3257.75,8,0.05,560.96,Cash
+ORD-00878,25/08/23,25/08/26,Standard Class,CUST-0187,Consumer,India,West,Madhya Pradesh,Indore,Furniture,Tables,Study Table,46922.93,7,0,7833.1,UPI
+ORD-00879,25/06/19,25/06/24,Standard Class,CUST-0247,Corporate,India,West,Maharashtra,Mumbai,Technology,Accessories,Wireless Mouse,3302.81,5,0.1,484.42,Cash
+ORD-00880,25/05/20,25/05/24,Standard Class,CUST-0183,Corporate,India,North,Uttar Pradesh,Lucknow,Technology,Accessories,USB-C Hub,3109.25,2,0.15,-13.88,Cash
+ORD-00881,25/12/20,25/12/22,Second Class,CUST-0045,Consumer,India,Central,Madhya Pradesh,Bhopal,Furniture,Furnishings,Desk Lamp,980.6,1,0,171.51,Debit Card
+ORD-00882,25/05/17,25/05/22,Standard Class,CUST-0087,Home Office,India,East,West Bengal,Kolkata,Technology,Phones,Smartphone,125830.2,7,0,14427.28,Credit Card
+ORD-00883,26/07/07,26/07/14,Same Day,CUST-0056,Corporate,India,West,Madhya Pradesh,Indore,Furniture,Tables,Study Table,30843.06,5,0.05,1699.86,Cash
+ORD-00884,25/02/06,25/02/10,First Class,CUST-0091,Consumer,India,West,Rajasthan,Jaipur,Office Supplies,Binders,Ring Binder,114.81,1,0.15,5.69,UPI
+ORD-00885,25/12/25,25/12/31,Standard Class,CUST-0136,Home Office,India,North,Delhi,New Delhi,Office Supplies,Storage,File Organizer,2302.18,6,0.1,192.02,Credit Card
+ORD-00886,26/02/25,26/02/26,Same Day,CUST-0096,Corporate,India,North,Uttar Pradesh,Lucknow,Technology,Phones,Smartphone,58365.05,3,0.05,3368.78,Debit Card
+ORD-00887,26/03/15,26/03/17,Second Class,CUST-0036,Corporate,India,Central,Madhya Pradesh,Bhopal,Furniture,Tables,Study Table,14220.45,2,0.2,1391.78,Net Banking
+ORD-00888,25/01/06,25/01/09,First Class,CUST-0231,Consumer,India,South,Karnataka,Bengaluru,Technology,Accessories,Wireless Mouse,2432.22,4,0,289.21,Credit Card
+ORD-00889,25/07/23,25/07/27,Second Class,CUST-0084,Corporate,India,South,Tamil Nadu,Chennai,Technology,Accessories,Wireless Mouse,4535.08,7,0.1,657.42,Cash
+ORD-00890,26/02/03,26/02/05,Second Class,CUST-0014,Home Office,India,West,Madhya Pradesh,Indore,Technology,Accessories,Wireless Mouse,577.09,1,0.05,64.92,Debit Card
+ORD-00891,26/03/16,26/03/21,Same Day,CUST-0064,Home Office,India,West,Maharashtra,Mumbai,Office Supplies,Storage,File Organizer,3372.62,8,0.1,5.14,Credit Card
+ORD-00892,26/06/08,26/06/10,Same Day,CUST-0051,Corporate,India,South,Karnataka,Bengaluru,Furniture,Tables,Study Table,13754.7,2,0.2,-282.37,UPI
+ORD-00893,26/05/30,26/06/04,First Class,CUST-0050,Consumer,India,North,Delhi,New Delhi,Furniture,Chairs,Office Chair,13230.94,3,0,1591.11,Net Banking
+ORD-00894,25/01/19,25/01/24,Second Class,CUST-0057,Corporate,India,South,Karnataka,Bengaluru,Technology,Accessories,Wireless Mouse,626.67,1,0.15,11.77,Net Banking
+ORD-00895,26/05/06,26/05/07,First Class,CUST-0183,Corporate,India,Central,Madhya Pradesh,Bhopal,Office Supplies,Storage,File Organizer,423.58,1,0.05,36.1,Credit Card
+ORD-00896,25/11/24,25/11/25,First Class,CUST-0121,Corporate,India,North,Delhi,New Delhi,Technology,Phones,Smartphone,15581.51,1,0.2,-88.38,Cash
+ORD-00897,25/04/14,25/04/18,Standard Class,CUST-0175,Home Office,India,North,Delhi,New Delhi,Furniture,Tables,Study Table,47570.09,8,0.05,1655.71,Credit Card
+ORD-00898,25/12/06,25/12/09,Same Day,CUST-0023,Consumer,India,East,West Bengal,Kolkata,Furniture,Furnishings,Desk Lamp,5252.41,6,0.05,286.29,Credit Card
+ORD-00899,26/10/07,26/10/13,Second Class,CUST-0181,Corporate,India,West,Rajasthan,Jaipur,Technology,Accessories,Wireless Mouse,666.88,1,0.2,62.34,UPI
+ORD-00900,25/03/18,25/03/23,Second Class,CUST-0012,Consumer,India,West,Rajasthan,Jaipur,Office Supplies,Paper,A4 Paper Pack,1494.65,5,0,219.28,Credit Card
+ORD-00901,26/03/05,26/03/10,Standard Class,CUST-0234,Corporate,India,South,Tamil Nadu,Chennai,Technology,Accessories,USB-C Hub,10737.35,6,0.1,1191.56,UPI
+ORD-00902,26/05/10,26/05/14,Second Class,CUST-0075,Consumer,India,Central,Madhya Pradesh,Bhopal,Technology,Accessories,USB-C Hub,1440.13,1,0.05,218.67,Cash
+ORD-00903,25/03/04,25/03/11,Second Class,CUST-0113,Home Office,India,South,Karnataka,Bengaluru,Office Supplies,Storage,File Organizer,3799.47,8,0.15,576.79,Net Banking
+ORD-00904,26/07/30,26/08/06,Second Class,CUST-0152,Home Office,India,West,Gujarat,Ahmedabad,Office Supplies,Storage,File Organizer,2052.17,5,0,147.76,UPI
+ORD-00905,26/06/10,26/06/14,First Class,CUST-0142,Consumer,India,Central,Madhya Pradesh,Bhopal,Technology,Accessories,USB-C Hub,7528.18,5,0,747.34,Credit Card
+ORD-00906,25/08/18,25/08/19,First Class,CUST-0238,Consumer,India,Central,Madhya Pradesh,Bhopal,Furniture,Chairs,Office Chair,20681.45,5,0,4723.83,Debit Card
+ORD-00907,25/02/22,25/02/28,First Class,CUST-0084,Consumer,India,South,Karnataka,Bengaluru,Furniture,Chairs,Office Chair,8164.03,2,0.05,1135.1,Cash
+ORD-00908,25/09/28,25/10/04,Standard Class,CUST-0211,Corporate,India,North,Delhi,New Delhi,Office Supplies,Storage,File Organizer,2131.63,5,0,352.13,Credit Card
+ORD-00909,25/10/14,25/10/16,First Class,CUST-0223,Home Office,India,South,Tamil Nadu,Chennai,Technology,Phones,Smartphone,38404.1,2,0.2,245.64,Cash
+ORD-00910,26/07/19,26/07/21,Same Day,CUST-0040,Corporate,India,North,Uttar Pradesh,Lucknow,Furniture,Chairs,Office Chair,26802.38,6,0.15,2236.93,Credit Card
+ORD-00911,26/03/21,26/03/24,Second Class,CUST-0049,Home Office,India,North,Delhi,New Delhi,Office Supplies,Binders,Ring Binder,239.71,2,0.1,5.27,Net Banking
+ORD-00912,25/07/04,25/07/10,Second Class,CUST-0018,Consumer,India,South,Tamil Nadu,Chennai,Technology,Phones,Smartphone,80898.8,5,0,16462.89,UPI
+ORD-00913,26/03/13,26/03/15,Standard Class,CUST-0155,Consumer,India,North,Uttar Pradesh,Lucknow,Office Supplies,Storage,File Organizer,960.56,2,0,178.04,Net Banking
+ORD-00914,26/01/29,26/01/30,Standard Class,CUST-0203,Consumer,India,West,Madhya Pradesh,Indore,Technology,Phones,Smartphone,16013.77,1,0,1497.79,UPI
+ORD-00915,26/07/10,26/07/16,Second Class,CUST-0079,Corporate,India,East,West Bengal,Kolkata,Technology,Accessories,Wireless Mouse,2318.6,4,0.15,315.28,Net Banking
+ORD-00916,25/06/08,25/06/10,Standard Class,CUST-0027,Home Office,India,West,Maharashtra,Mumbai,Technology,Accessories,USB-C Hub,8305.97,5,0,367.47,Debit Card
+ORD-00917,25/04/16,25/04/21,Same Day,CUST-0038,Corporate,India,West,Gujarat,Ahmedabad,Technology,Computers,Laptop,58429.8,1,0,4986.11,Debit Card
+ORD-00918,25/08/20,25/08/26,First Class,CUST-0092,Consumer,India,West,Gujarat,Ahmedabad,Technology,Accessories,Wireless Mouse,4684.51,8,0,397.74,Cash
+ORD-00919,25/12/08,25/12/09,First Class,CUST-0154,Consumer,India,East,West Bengal,Kolkata,Technology,Accessories,Wireless Mouse,670.38,1,0,84.28,Net Banking
+ORD-00920,25/06/03,25/06/09,Same Day,CUST-0170,Corporate,India,South,Tamil Nadu,Chennai,Furniture,Furnishings,Desk Lamp,4533.95,5,0,427.18,Debit Card
+ORD-00921,25/03/20,25/03/27,Same Day,CUST-0209,Consumer,India,West,Maharashtra,Mumbai,Technology,Computers,Laptop,147587.98,3,0.1,10971.55,UPI
+ORD-00922,26/08/15,26/08/19,Same Day,CUST-0091,Corporate,India,South,Tamil Nadu,Chennai,Technology,Computers,Laptop,98479.27,2,0,7521.3,Net Banking
+ORD-00923,26/03/11,26/03/15,Same Day,CUST-0108,Home Office,India,West,Gujarat,Ahmedabad,Furniture,Furnishings,Desk Lamp,5081.36,6,0.2,580.91,Net Banking
+ORD-00924,26/07/06,26/07/11,Second Class,CUST-0180,Consumer,India,North,Uttar Pradesh,Lucknow,Technology,Accessories,USB-C Hub,6178.48,4,0.15,620.84,Credit Card
+ORD-00925,26/01/06,26/01/07,Standard Class,CUST-0234,Unknown,India,South,Karnataka,Bengaluru,Technology,Phones,Smartphone,109891.33,6,0,24635.53,Debit Card
+ORD-00926,25/05/23,25/05/26,Second Class,CUST-0031,Home Office,India,North,Uttar Pradesh,Lucknow,Technology,Computers,Laptop,335880.72,7,0,17188.07,Credit Card
+ORD-00927,26/01/22,26/01/28,Standard Class,CUST-0123,Home Office,India,West,Maharashtra,Mumbai,Office Supplies,Storage,File Organizer,2338.81,6,0,403.56,Credit Card
+ORD-00928,25/01/31,25/02/02,Same Day,CUST-0039,Consumer,India,East,West Bengal,Kolkata,Technology,Computers,Laptop,96045.43,2,0,14775.31,Net Banking
+ORD-00929,25/05/24,25/05/30,Standard Class,CUST-0074,Consumer,India,Central,Madhya Pradesh,Bhopal,Furniture,Tables,Study Table,48283.45,8,0.05,4890.86,Credit Card
+ORD-00930,25/03/03,25/03/09,Same Day,CUST-0175,Corporate,India,West,Maharashtra,Mumbai,Furniture,Furnishings,Desk Lamp,2852.82,3,0,340.28,Cash
+ORD-00931,25/09/22,25/09/27,Standard Class,CUST-0134,Corporate,India,Central,Madhya Pradesh,Bhopal,Furniture,Tables,Study Table,24232.11,4,0,2286.68,Credit Card
+ORD-00932,25/08/05,25/08/09,Standard Class,CUST-0210,Home Office,India,West,Rajasthan,Jaipur,Technology,Phones,Smartphone,69673.48,4,0.2,8722.94,Net Banking
+ORD-00933,26/05/04,26/05/07,Second Class,CUST-0070,Consumer,India,West,Gujarat,Ahmedabad,Office Supplies,Storage,File Organizer,1169.64,3,0.05,165.89,UPI
+ORD-00934,25/03/21,25/03/24,Standard Class,CUST-0055,Home Office,India,West,Rajasthan,Jaipur,Office Supplies,Paper,A4 Paper Pack,258.12,1,0,38.28,UPI
+ORD-00935,25/11/13,25/11/15,Standard Class,CUST-0145,Corporate,India,Central,Madhya Pradesh,Bhopal,Furniture,Chairs,Office Chair,4426.08,1,0,1041.6,UPI
+ORD-00936,25/02/19,25/02/22,Second Class,CUST-0081,Corporate,India,West,Madhya Pradesh,Indore,Furniture,Tables,Study Table,7093.81,1,0.05,1448.9,Debit Card
+ORD-00937,25/05/13,25/05/19,Second Class,CUST-0007,Home Office,India,West,Madhya Pradesh,Indore,Office Supplies,Paper,A4 Paper Pack,2193.15,7,0.15,-48.91,Net Banking
+ORD-00938,26/05/04,26/05/09,Standard Class,CUST-0244,Home Office,India,West,Maharashtra,Mumbai,Furniture,Tables,Study Table,16655.58,3,0.1,12.5,Credit Card
+ORD-00939,25/08/09,25/08/16,First Class,CUST-0160,Corporate,India,North,Delhi,Unknown,Technology,Computers,Laptop,307084.15,6,0,33104.94,UPI
+ORD-00940,26/02/01,26/02/03,Same Day,CUST-0025,Consumer,India,South,Karnataka,Bengaluru,Furniture,Furnishings,Desk Lamp,2161.07,2,0.15,179.49,Credit Card
+ORD-00941,25/11/13,25/11/18,Second Class,CUST-0018,Corporate,India,West,Madhya Pradesh,Indore,Office Supplies,Binders,Ring Binder,236.75,2,0,53.7,Cash
+ORD-00942,26/01/08,26/01/11,Same Day,CUST-0066,Corporate,India,West,Madhya Pradesh,Indore,Technology,Accessories,Wireless Mouse,2073.23,3,0.1,75.86,Credit Card
+ORD-00943,25/05/07,25/05/12,Second Class,CUST-0113,Corporate,India,North,Uttar Pradesh,Lucknow,Technology,Phones,Smartphone,119631.71,6,0.1,7992.19,Cash
+ORD-00944,26/10/02,26/10/05,Standard Class,CUST-0159,Home Office,India,East,West Bengal,Kolkata,Technology,Accessories,Wireless Mouse,4558.11,7,0.05,856.84,UPI
+ORD-00945,25/09/08,25/09/14,Same Day,CUST-0219,Consumer,India,Central,Madhya Pradesh,Bhopal,Technology,Phones,Smartphone,59719.57,3,0.05,5235.28,Credit Card
+ORD-00946,26/02/02,26/02/09,Same Day,CUST-0028,Consumer,India,North,Uttar Pradesh,Lucknow,Technology,Accessories,Wireless Mouse,3860.08,6,0.2,142.91,Credit Card
+ORD-00947,25/04/21,25/04/25,Same Day,CUST-0055,Home Office,India,West,Gujarat,Ahmedabad,Furniture,Chairs,Office Chair,31873.5,7,0.05,2581.27,Net Banking
+ORD-00948,25/04/28,25/05/01,First Class,CUST-0146,Consumer,India,North,Uttar Pradesh,Lucknow,Technology,Phones,Smartphone,61266.25,3,0,10295.38,Cash
+ORD-00949,26/01/25,26/01/26,Same Day,CUST-0070,Corporate,India,East,West Bengal,Kolkata,Office Supplies,Storage,File Organizer,3290.49,8,0,702.86,Credit Card
+ORD-00950,25/03/27,25/03/29,Same Day,CUST-0135,Consumer,India,West,Madhya Pradesh,Indore,Furniture,Tables,Study Table,37953.85,7,0.2,769.86,Debit Card
+ORD-00951,25/07/08,25/07/15,First Class,CUST-0242,Corporate,India,West,Maharashtra,Mumbai,Technology,Accessories,Wireless Mouse,4334.36,7,0.05,196.81,Net Banking
+ORD-00952,26/05/02,26/05/07,Standard Class,CUST-0144,Home Office,India,North,Delhi,New Delhi,Office Supplies,Storage,File Organizer,3034.2,6,0.15,107.19,Credit Card
+ORD-00953,25/03/21,25/03/27,First Class,CUST-0004,Consumer,India,West,Rajasthan,Jaipur,Furniture,Furnishings,Desk Lamp,2699.29,3,0.2,212.08,Net Banking
+ORD-00954,25/06/01,25/06/05,Same Day,CUST-0242,Consumer,India,East,West Bengal,Kolkata,Technology,Accessories,Wireless Mouse,4226.23,7,0.2,-292.73,Net Banking
+ORD-00955,26/08/16,26/08/17,Same Day,CUST-0056,Corporate,India,West,Maharashtra,Mumbai,Furniture,Chairs,Office Chair,18740.21,4,0.15,2105.97,Credit Card
+ORD-00956,25/07/15,25/07/21,First Class,CUST-0129,Consumer,India,West,Rajasthan,Jaipur,Technology,Phones,Smartphone,118166.45,6,0,11862.6,Net Banking
+ORD-00957,26/04/12,26/04/16,First Class,CUST-0030,Consumer,India,West,Gujarat,Ahmedabad,Office Supplies,Paper,A4 Paper Pack,1845.41,6,0.1,165.41,Net Banking
+ORD-00958,26/03/15,26/03/18,Same Day,CUST-0163,Corporate,India,North,Delhi,New Delhi,Technology,Accessories,USB-C Hub,4861.58,3,0.1,204.21,Cash
+ORD-00959,25/04/12,25/04/13,Standard Class,CUST-0163,Corporate,India,West,Madhya Pradesh,Indore,Technology,Accessories,Wireless Mouse,672.67,1,0.1,3.86,Cash
+ORD-00960,26/08/19,26/08/26,Standard Class,CUST-0051,Corporate,India,West,Maharashtra,Mumbai,Furniture,Tables,Study Table,39648.56,7,0.1,3779.2,UPI
+ORD-00961,25/12/26,26/01/02,First Class,CUST-0069,Home Office,India,North,Uttar Pradesh,Lucknow,Office Supplies,Storage,File Organizer,2684.69,7,0.05,453.55,Debit Card
+ORD-00962,25/11/11,25/11/18,Standard Class,CUST-0040,Corporate,India,West,Gujarat,Ahmedabad,Furniture,Chairs,Office Chair,5376.27,1,0.1,-45.51,Cash
+ORD-00963,26/09/07,26/09/10,Same Day,CUST-0213,Consumer,India,East,West Bengal,Kolkata,Technology,Computers,Laptop,335807.96,7,0.1,7902.26,Cash
+ORD-00964,26/03/16,26/03/18,Second Class,CUST-0026,Home Office,India,West,Gujarat,Ahmedabad,Technology,Computers,Laptop,408135.51,7,0.15,-4412.46,Credit Card
+ORD-00965,26/06/01,26/06/02,Second Class,CUST-0024,Consumer,India,West,Rajasthan,Jaipur,Office Supplies,Storage,File Organizer,2477.7,5,0,569.23,UPI
+ORD-00966,26/03/24,26/03/25,Standard Class,CUST-0147,Corporate,India,West,Rajasthan,Jaipur,Technology,Computers,Laptop,53842.35,1,0.15,7625.09,UPI
+ORD-00967,25/05/14,25/05/18,Second Class,CUST-0186,Corporate,India,East,West Bengal,Kolkata,Technology,Computers,Laptop,217517.42,4,0,21617.86,Debit Card
+ORD-00968,25/02/22,25/02/25,Standard Class,CUST-0118,Home Office,India,West,Madhya Pradesh,Indore,Technology,Computers,Laptop,54158.83,1,0.15,7088.73,UPI
+ORD-00969,25/04/20,25/04/22,Second Class,CUST-0101,Consumer,India,South,Tamil Nadu,Chennai,Furniture,Tables,Study Table,16327.7,3,0.1,2513.24,Net Banking
+ORD-00970,25/01/23,25/01/27,First Class,CUST-0163,Corporate,India,West,Madhya Pradesh,Indore,Office Supplies,Binders,Ring Binder,219.14,2,0.1,13.16,Credit Card
+ORD-00971,25/07/04,25/07/07,Same Day,CUST-0158,Home Office,India,West,Maharashtra,Mumbai,Technology,Computers,Laptop,46028.43,1,0.05,9723.41,Cash
+ORD-00972,25/01/06,25/01/08,Second Class,CUST-0056,Corporate,India,Central,Madhya Pradesh,Bhopal,Furniture,Tables,Study Table,11257.38,2,0,1656.98,UPI
+ORD-00973,25/08/11,25/08/12,First Class,CUST-0071,Corporate,India,East,West Bengal,Kolkata,Technology,Computers,Laptop,182006.83,4,0.2,21471.28,Credit Card
+ORD-00974,25/04/05,25/04/08,Same Day,CUST-0237,Consumer,India,Central,Madhya Pradesh,Bhopal,Furniture,Tables,Study Table,53248.49,8,0.1,3845.2,Debit Card
+ORD-00975,25/06/27,25/06/29,Second Class,CUST-0245,Home Office,India,South,Tamil Nadu,Chennai,Office Supplies,Storage,File Organizer,922.59,2,0.15,18.28,Net Banking
+ORD-00976,26/03/20,26/03/24,Same Day,CUST-0110,Consumer,India,West,Gujarat,Ahmedabad,Furniture,Furnishings,Desk Lamp,5200.15,5,0.15,-109.14,Cash
+ORD-00977,25/12/28,25/12/31,Same Day,CUST-0076,Home Office,India,West,Madhya Pradesh,Indore,Office Supplies,Binders,Ring Binder,402.06,3,0.15,3.26,Cash
+ORD-00978,25/12/27,25/12/31,First Class,CUST-0063,Consumer,India,West,Maharashtra,Mumbai,Technology,Accessories,Wireless Mouse,2130.79,3,0.1,305.08,Credit Card
+ORD-00979,26/01/16,26/01/19,First Class,CUST-0055,Corporate,India,North,Delhi,New Delhi,Office Supplies,Paper,A4 Paper Pack,477.62,2,0.2,-32.39,Cash
+ORD-00980,25/11/26,25/11/28,Standard Class,CUST-0144,Corporate,India,Central,Madhya Pradesh,Bhopal,Technology,Accessories,Wireless Mouse,4254.63,7,0,618.85,Cash
+ORD-00981,25/03/18,25/03/23,Same Day,CUST-0128,Consumer,India,West,Gujarat,Ahmedabad,Office Supplies,Storage,File Organizer,2953.85,6,0,234.61,Debit Card
+ORD-00982,26/03/08,26/03/09,Standard Class,CUST-0073,Consumer,India,West,Madhya Pradesh,Indore,Office Supplies,Binders,Ring Binder,370.95,3,0.15,12.64,Cash
+ORD-00983,25/01/05,25/01/09,Standard Class,CUST-0087,Home Office,India,South,Tamil Nadu,Chennai,Technology,Computers,Laptop,313441.29,7,0.15,44228.73,UPI
+ORD-00984,25/03/13,25/03/17,First Class,CUST-0127,Home Office,India,West,Madhya Pradesh,Indore,Office Supplies,Storage,File Organizer,2097.9,5,0.05,194.2,UPI
+ORD-00985,26/02/07,26/02/10,Second Class,CUST-0013,Consumer,India,North,Uttar Pradesh,Lucknow,Office Supplies,Binders,Ring Binder,264.7,2,0.15,-5.81,Credit Card
+ORD-00986,25/04/18,25/04/21,First Class,CUST-0209,Home Office,India,West,Gujarat,Ahmedabad,Furniture,Chairs,Office Chair,12620.23,3,0.2,1393.97,UPI
+ORD-00987,25/02/23,25/02/26,Same Day,CUST-0070,Home Office,India,West,Maharashtra,Mumbai,Technology,Accessories,Wireless Mouse,737.19,1,0,68.37,Credit Card
+ORD-00988,25/05/22,25/05/27,Same Day,CUST-0164,Corporate,India,North,Uttar Pradesh,Lucknow,Technology,Accessories,Wireless Mouse,1844.31,3,0,351.54,UPI
+ORD-00989,26/06/19,26/06/24,Same Day,CUST-0058,Consumer,India,South,Karnataka,Bengaluru,Furniture,Furnishings,Desk Lamp,7967.69,8,0.05,612.57,Debit Card
+ORD-00990,25/10/31,25/11/06,Standard Class,CUST-0020,Corporate,India,West,Madhya Pradesh,Indore,Office Supplies,Paper,A4 Paper Pack,1173.59,4,0.2,118.74,UPI
+ORD-00991,25/08/06,25/08/07,First Class,CUST-0195,Corporate,India,South,Karnataka,Bengaluru,Office Supplies,Binders,Ring Binder,761.36,7,0,82.3,Net Banking
+ORD-00992,25/06/07,25/06/14,Same Day,CUST-0223,Home Office,India,Central,Madhya Pradesh,Bhopal,Technology,Accessories,Wireless Mouse,1785.49,3,0.05,160.01,Cash
+ORD-00993,25/07/27,25/08/03,Standard Class,CUST-0038,Corporate,India,West,Gujarat,Ahmedabad,Furniture,Chairs,Office Chair,8960.17,2,0,1588.22,UPI
+ORD-00994,25/04/23,25/04/25,Same Day,CUST-0091,Corporate,India,West,Maharashtra,Mumbai,Office Supplies,Binders,Ring Binder,334.81,3,0.1,39.3,UPI
+ORD-00995,26/07/18,26/07/19,First Class,CUST-0014,Corporate,India,East,West Bengal,Kolkata,Office Supplies,Storage,File Organizer,1611.33,4,0.15,70.37,Debit Card
+ORD-00996,26/01/14,26/01/15,First Class,CUST-0136,Home Office,India,West,Maharashtra,Mumbai,Office Supplies,Storage,File Organizer,2860.77,7,0,344.83,Net Banking
+ORD-00997,26/06/16,26/06/20,Standard Class,CUST-0148,Corporate,India,West,Madhya Pradesh,Indore,Technology,Phones,Smartphone,81913.79,4,0,5163.65,Credit Card
+ORD-00998,25/03/09,25/03/14,Same Day,CUST-0101,Consumer,India,West,Madhya Pradesh,Indore,Furniture,Tables,Study Table,27646.55,4,0.2,2022.75,Credit Card
+ORD-00999,25/10/02,25/10/06,First Class,CUST-0188,Consumer,India,South,Karnataka,Bengaluru,Technology,Computers,Laptop,198492.31,4,0.05,30502.45,UPI
+ORD-01000,25/07/09,25/07/14,First Class,CUST-0175,Consumer,India,West,Rajasthan,Jaipur,Office Supplies,Binders,Ring Binder,663.46,5,0.2,-14.78,Credit Card
